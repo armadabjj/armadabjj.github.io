@@ -1,0 +1,81 @@
+{% assign lang = page.lang | default: site.default_lang | default: 'en' %}
+{% assign t = site.data.translations[lang] %}
+
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>{{ t.site_title }}</h3>
+        <p>{{ t.site_description }}</p>
+        <div class="social-links">
+          <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank" rel="noopener">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://facebook.com/armadabjj" target="_blank" rel="noopener">
+            <i class="fab fa-facebook"></i>
+          </a>
+          <a href="https://youtube.com/armadabjj" target="_blank" rel="noopener">
+            <i class="fab fa-youtube"></i>
+          </a>
+        </div>
+      </div>
+      
+      <div class="footer-section">
+        <h4>{{ t.footer.hours_title }}</h4>
+        <div class="hours">
+          <div class="day">
+            <span>Monday - Friday</span>
+            <span>6:00 AM - 10:00 PM</span>
+          </div>
+          <div class="day">
+            <span>Saturday</span>
+            <span>8:00 AM - 6:00 PM</span>
+          </div>
+          <div class="day">
+            <span>Sunday</span>
+            <span>10:00 AM - 4:00 PM</span>
+          </div>
+        </div>
+      </div>
+      
+      <div class="footer-section">
+        <h4>Contact</h4>
+        <div class="contact-info">
+          <div class="contact-item">
+            <i class="fas fa-map-marker-alt"></i>
+            <span>{{ t.footer.address }}</span>
+          </div>
+          <div class="contact-item">
+            <i class="fas fa-phone"></i>
+            <a href="tel:{{ t.footer.phone }}">{{ t.footer.phone }}</a>
+          </div>
+          <div class="contact-item">
+            <i class="fas fa-envelope"></i>
+            <a href="mailto:{{ t.footer.email }}">{{ t.footer.email }}</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="footer-section">
+        <h4>Quick Links</h4>
+        <ul class="footer-links">
+          {% if lang == 'en' %}
+            <li><a href="{{ '/programs/' | relative_url }}">{{ t.nav.programs }}</a></li>
+            <li><a href="{{ '/schedule/' | relative_url }}">{{ t.nav.schedule }}</a></li>
+            <li><a href="{{ '/pricing/' | relative_url }}">{{ t.nav.pricing }}</a></li>
+            <li><a href="{{ '/contact/' | relative_url }}">{{ t.nav.contact }}</a></li>
+          {% else %}
+            <li><a href="{{ '/fr/programmes/' | relative_url }}">{{ t.nav.programs }}</a></li>
+            <li><a href="{{ '/fr/horaire/' | relative_url }}">{{ t.nav.schedule }}</a></li>
+            <li><a href="{{ '/fr/tarification/' | relative_url }}">{{ t.nav.pricing }}</a></li>
+            <li><a href="{{ '/fr/contact/' | relative_url }}">{{ t.nav.contact }}</a></li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <p>{{ t.footer.copyright }}</p>
+    </div>
+  </div>
+</footer>

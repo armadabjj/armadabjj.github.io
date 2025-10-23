@@ -1,0 +1,57 @@
+{% assign lang = page.lang | default: site.default_lang | default: 'en' %}
+{% assign t = site.data.translations[lang] %}
+
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <div class="header-content">
+      <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ t.site_title }}" class="logo">
+        <span class="site-title-text">{{ t.site_title }}</span>
+      </a>
+
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger" class="menu-icon">
+          <span></span>
+          <span></span>
+          <span></span>
+        </label>
+
+        <div class="trigger">
+          {% if lang == 'fr' %}
+            <a class="page-link" href="{{ '/' | relative_url }}">{{ t.nav.home }}</a>
+            <a class="page-link" href="{{ '/a-propos/' | relative_url }}">{{ t.nav.about }}</a>
+            <a class="page-link" href="{{ '/programmes/' | relative_url }}">{{ t.nav.programs }}</a>
+            <a class="page-link" href="{{ '/instructeurs/' | relative_url }}">{{ t.nav.instructors }}</a>
+            <a class="page-link" href="{{ '/horaire/' | relative_url }}">{{ t.nav.schedule }}</a>
+            <a class="page-link" href="{{ '/tarifs/' | relative_url }}">{{ t.nav.pricing }}</a>
+            <a class="page-link" href="{{ '/blog/' | relative_url }}">{{ t.nav.blog }}</a>
+            <a class="page-link" href="{{ '/contact/' | relative_url }}">{{ t.nav.contact }}</a>
+          {% else %}
+            <a class="page-link" href="{{ '/en/' | relative_url }}">{{ t.nav.home }}</a>
+            <a class="page-link" href="{{ '/en/about/' | relative_url }}">{{ t.nav.about }}</a>
+            <a class="page-link" href="{{ '/en/programs/' | relative_url }}">{{ t.nav.programs }}</a>
+            <a class="page-link" href="{{ '/en/instructors/' | relative_url }}">{{ t.nav.instructors }}</a>
+            <a class="page-link" href="{{ '/en/schedule/' | relative_url }}">{{ t.nav.schedule }}</a>
+            <a class="page-link" href="{{ '/en/pricing/' | relative_url }}">{{ t.nav.pricing }}</a>
+            <a class="page-link" href="{{ '/en/blog/' | relative_url }}">{{ t.nav.blog }}</a>
+            <a class="page-link" href="{{ '/en/contact/' | relative_url }}">{{ t.nav.contact }}</a>
+          {% endif %}
+          
+          <!-- Language Switcher -->
+          {% if lang == 'fr' %}
+            {% assign en_url = page.url | prepend: '/en' %}
+            {% if en_url == '/en/' %}{% assign en_url = '/en/' %}{% endif %}
+            <a class="page-link lang-switch" href="{{ en_url | relative_url }}">{{ t.nav.language_switch }}</a>
+          {% else %}
+            {% assign fr_url = page.url | remove: '/en' %}
+            {% if fr_url == '/' %}{% assign fr_url = '/' %}{% endif %}
+            <a class="page-link lang-switch" href="{{ fr_url | relative_url }}">{{ t.nav.language_switch }}</a>
+          {% endif %}
+          
+          <a class="page-link cta-button" href="{{ '/contact/' | relative_url }}#trial">{{ t.nav.try_free }}</a>
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>

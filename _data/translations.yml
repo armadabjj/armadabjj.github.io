@@ -1,0 +1,213 @@
+en:
+  site_title: "Armada BJJ"
+  site_tagline: "Premier Brazilian Jiu-Jitsu Academy"
+  site_description: "World-class Brazilian Jiu-Jitsu training in a welcoming, family-friendly environment"
+  
+  # Navigation
+  nav:
+    home: "Home"
+    about: "About"
+    programs: "Programs"
+    instructors: "Instructors"
+    schedule: "Schedule"
+    pricing: "Pricing"
+    blog: "Blog"
+    contact: "Contact"
+    try_free: "Try Free Class"
+    language_switch: "Français"
+  
+  # Homepage
+  hero:
+    title: "Elite Brazilian Jiu-Jitsu Training"
+    subtitle: "Join Armada BJJ and discover the gentle art in a supportive, professional environment"
+    cta_primary: "Start Your Journey"
+    cta_secondary: "Learn More"
+  
+  about_bjj:
+    title: "What is Brazilian Jiu-Jitsu?"
+    subtitle: "The Gentle Art"
+    description: "Brazilian Jiu-Jitsu is a martial art focusing on grappling and ground fighting. It teaches you to use leverage and technique to overcome larger, stronger opponents."
+    benefits:
+      - "Self-Defense Skills"
+      - "Physical Fitness"
+      - "Mental Discipline"
+      - "Confidence Building"
+      - "Stress Relief"
+      - "Community"
+  
+  why_choose:
+    title: "Why Choose Armada BJJ?"
+    accessible:
+      title: "Accessible"
+      description: "We welcome all levels, from complete beginners to experienced practitioners. Our supportive community helps everyone grow."
+    professional:
+      title: "Professional"
+      description: "World-class instruction from certified black belts with competition experience and proven teaching methods."
+    safe:
+      title: "Safe"
+      description: "Clean, modern facilities with emphasis on safety, proper technique, and injury prevention."
+    community:
+      title: "Community"
+      description: "Join a tight-knit family of martial artists dedicated to mutual growth and respect."
+  
+  programs:
+    title: "Our Programs"
+    beginners:
+      title: "Fundamentals"
+      description: "Perfect for beginners, this program covers basic positions, movements, and concepts."
+    advanced:
+      title: "Advanced Classes"
+      description: "For experienced practitioners looking to refine their technique and compete."
+    nogi:
+      title: "No-Gi Grappling"
+      description: "Fast-paced submission grappling without the traditional gi uniform."
+    kids:
+      title: "Kids Program"
+      description: "Fun, engaging classes that build confidence, discipline, and fitness for young martial artists."
+    womens:
+      title: "Women's Classes"
+      description: "Supportive environment designed specifically for women to learn and train together."
+    open_mat:
+      title: "Open Mat"
+      description: "Free training time for members to practice techniques and spar."
+  
+  # Footer
+  footer:
+    address: "123 Main Street, Your City"
+    phone: "(555) 123-4567"
+    email: "contact@armadabjj.com"
+    hours_title: "Training Hours"
+    follow_us: "Follow Us"
+    copyright: "© 2024 Armada BJJ. All rights reserved."
+  
+  # Forms
+  contact_form:
+    name: "Name"
+    email: "Email"
+    phone: "Phone"
+    message: "Message"
+    submit: "Send Message"
+    success: "Thank you! We'll get back to you soon."
+  
+  # Blog
+  blog:
+    title: "Latest News & Articles"
+    read_more: "Read More"
+    posted_on: "Posted on"
+    by: "by"
+    categories: "Categories"
+    tags: "Tags"
+    related_posts: "Related Posts"
+  
+  # Misc
+  schedule: "Schedule"
+  pricing: "Pricing"
+  instructors: "Instructors"
+  testimonials: "What Our Students Say"
+
+fr:
+  site_title: "Armada BJJ"
+  site_tagline: "Académie Première de Jiu-Jitsu Brésilien"
+  site_description: "Entraînement de classe mondiale de Jiu-Jitsu Brésilien dans un environnement accueillant et familial"
+  
+  # Navigation
+  nav:
+    home: "Accueil"
+    about: "À Propos"
+    programs: "Programmes"
+    instructors: "Instructeurs"
+    schedule: "Horaire"
+    pricing: "Tarification"
+    blog: "Blog"
+    contact: "Contact"
+    try_free: "Cours Gratuit"
+    language_switch: "English"
+  
+  # Homepage
+  hero:
+    title: "Entraînement Élite de Jiu-Jitsu Brésilien"
+    subtitle: "Rejoignez Armada BJJ et découvrez l'art suave dans un environnement professionnel et accueillant"
+    cta_primary: "Commencez Votre Parcours"
+    cta_secondary: "En Savoir Plus"
+  
+  about_bjj:
+    title: "Qu'est-ce que le Jiu-Jitsu Brésilien?"
+    subtitle: "L'Art Suave"
+    description: "Le Jiu-Jitsu Brésilien est un art martial qui se concentre sur la lutte et le combat au sol. Il vous enseigne à utiliser l'effet de levier et la technique pour vaincre des adversaires plus grands et plus forts."
+    benefits:
+      - "Compétences d'Auto-Défense"
+      - "Condition Physique"
+      - "Discipline Mentale"
+      - "Renforcement de la Confiance"
+      - "Soulagement du Stress"
+      - "Communauté"
+  
+  why_choose:
+    title: "Pourquoi Choisir Armada BJJ?"
+    accessible:
+      title: "Accessible"
+      description: "Nous accueillons tous les niveaux, des débutants complets aux pratiquants expérimentés. Notre communauté soutenante aide chacun à grandir."
+    professional:
+      title: "Professionnel"
+      description: "Instruction de classe mondiale par des ceintures noires certifiées avec expérience de compétition et méthodes d'enseignement éprouvées."
+    safe:
+      title: "Sécuritaire"
+      description: "Installations propres et modernes avec accent sur la sécurité, la technique appropriée et la prévention des blessures."
+    community:
+      title: "Communauté"
+      description: "Rejoignez une famille unie d'artistes martiaux dédiés à la croissance mutuelle et au respect."
+  
+  programs:
+    title: "Nos Programmes"
+    beginners:
+      title: "Fondamentaux"
+      description: "Parfait pour les débutants, ce programme couvre les positions de base, les mouvements et les concepts."
+    advanced:
+      title: "Cours Avancés"
+      description: "Pour les pratiquants expérimentés cherchant à affiner leur technique et à compétitionner."
+    nogi:
+      title: "Grappling Sans Gi"
+      description: "Lutte de soumission rapide sans l'uniforme gi traditionnel."
+    kids:
+      title: "Programme Enfants"
+      description: "Cours amusants et engageants qui développent la confiance, la discipline et la forme physique pour les jeunes artistes martiaux."
+    womens:
+      title: "Cours Femmes"
+      description: "Environnement de soutien conçu spécifiquement pour que les femmes apprennent et s'entraînent ensemble."
+    open_mat:
+      title: "Tatami Libre"
+      description: "Temps d'entraînement libre pour les membres pour pratiquer les techniques et faire des combats."
+  
+  # Footer
+  footer:
+    address: "123 Rue Principale, Votre Ville"
+    phone: "(555) 123-4567"
+    email: "contact@armadabjj.com"
+    hours_title: "Heures d'Entraînement"
+    follow_us: "Suivez-Nous"
+    copyright: "© 2024 Armada BJJ. Tous droits réservés."
+  
+  # Forms
+  contact_form:
+    name: "Nom"
+    email: "Courriel"
+    phone: "Téléphone"
+    message: "Message"
+    submit: "Envoyer le Message"
+    success: "Merci! Nous vous répondrons bientôt."
+  
+  # Blog
+  blog:
+    title: "Dernières Nouvelles et Articles"
+    read_more: "Lire Plus"
+    posted_on: "Publié le"
+    by: "par"
+    categories: "Catégories"
+    tags: "Étiquettes"
+    related_posts: "Articles Connexes"
+  
+  # Misc
+  schedule: "Horaire"
+  pricing: "Tarification"
+  instructors: "Instructeurs"
+  testimonials: "Ce Que Disent Nos Étudiants"

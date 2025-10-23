@@ -1,0 +1,34 @@
+# GitHub Pages Deployment Configuration
+
+github_pages_config: &github_pages_config
+  source: .
+  destination: ./_site
+  incremental: false
+  markdown: kramdown
+  highlighter: rouge
+  gist:
+    noscript: false
+  kramdown:
+    math_engine: mathjax
+    syntax_highlighter: rouge
+
+# GitHub Pages specific plugins (these are whitelisted by GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+# GitHub Pages compatibility settings
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge

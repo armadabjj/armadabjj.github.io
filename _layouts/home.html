@@ -1,0 +1,164 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.default_lang | default: 'en' %}
+{% assign t = site.data.translations[lang] %}
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-content">
+    <div class="hero-text">
+      <h1 class="hero-title">{{ t.hero.title }}</h1>
+      <p class="hero-subtitle">{{ t.hero.subtitle }}</p>
+      <div class="hero-buttons">
+        <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary">{{ t.hero.cta_primary }}</a>
+        <a href="{{ '/about/' | relative_url }}" class="btn btn-secondary">{{ t.hero.cta_secondary }}</a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <img src="{{ '/assets/images/hero-bjj.jpg' | relative_url }}" alt="Brazilian Jiu-Jitsu Training">
+    </div>
+  </div>
+</section>
+
+<!-- About BJJ Section -->
+<section class="about-bjj">
+  <div class="wrapper">
+    <div class="section-header">
+      <h2>{{ t.about_bjj.title }}</h2>
+      <p class="section-subtitle">{{ t.about_bjj.subtitle }}</p>
+    </div>
+    
+    <div class="about-content">
+      <div class="about-text">
+        <p>{{ t.about_bjj.description }}</p>
+        
+        <div class="benefits-grid">
+          {% for benefit in t.about_bjj.benefits %}
+            <div class="benefit-item">
+              <i class="fas fa-check-circle"></i>
+              <span>{{ benefit }}</span>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+      
+      <div class="about-video">
+        <div class="video-placeholder">
+          <i class="fas fa-play-circle"></i>
+          <p>Watch: What is BJJ?</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Why Choose Armada BJJ -->
+<section class="why-choose">
+  <div class="wrapper">
+    <h2>{{ t.why_choose.title }}</h2>
+    
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">
+          <i class="fas fa-users"></i>
+        </div>
+        <h3>{{ t.why_choose.accessible.title }}</h3>
+        <p>{{ t.why_choose.accessible.description }}</p>
+      </div>
+      
+      <div class="feature-card">
+        <div class="feature-icon">
+          <i class="fas fa-medal"></i>
+        </div>
+        <h3>{{ t.why_choose.professional.title }}</h3>
+        <p>{{ t.why_choose.professional.description }}</p>
+      </div>
+      
+      <div class="feature-card">
+        <div class="feature-icon">
+          <i class="fas fa-shield-alt"></i>
+        </div>
+        <h3>{{ t.why_choose.safe.title }}</h3>
+        <p>{{ t.why_choose.safe.description }}</p>
+      </div>
+      
+      <div class="feature-card">
+        <div class="feature-icon">
+          <i class="fas fa-heart"></i>
+        </div>
+        <h3>{{ t.why_choose.community.title }}</h3>
+        <p>{{ t.why_choose.community.description }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Programs Preview -->
+<section class="programs-preview">
+  <div class="wrapper">
+    <div class="section-header">
+      <h2>{{ t.programs.title }}</h2>
+      <p>Discover the perfect program for your goals and experience level</p>
+    </div>
+    
+    <div class="programs-grid">
+      <div class="program-card">
+        <img src="{{ '/assets/images/fundamentals.jpg' | relative_url }}" alt="Fundamentals Program">
+        <div class="program-content">
+          <h3>{{ t.programs.beginners.title }}</h3>
+          <p>{{ t.programs.beginners.description }}</p>
+          <a href="{{ '/programs/' | relative_url }}#fundamentals" class="btn btn-outline">Learn More</a>
+        </div>
+      </div>
+      
+      <div class="program-card">
+        <img src="{{ '/assets/images/advanced.jpg' | relative_url }}" alt="Advanced Program">
+        <div class="program-content">
+          <h3>{{ t.programs.advanced.title }}</h3>
+          <p>{{ t.programs.advanced.description }}</p>
+          <a href="{{ '/programs/' | relative_url }}#advanced" class="btn btn-outline">Learn More</a>
+        </div>
+      </div>
+      
+      <div class="program-card">
+        <img src="{{ '/assets/images/nogi.jpg' | relative_url }}" alt="No-Gi Program">
+        <div class="program-content">
+          <h3>{{ t.programs.nogi.title }}</h3>
+          <p>{{ t.programs.nogi.description }}</p>
+          <a href="{{ '/programs/' | relative_url }}#nogi" class="btn btn-outline">Learn More</a>
+        </div>
+      </div>
+      
+      <div class="program-card">
+        <img src="{{ '/assets/images/kids.jpg' | relative_url }}" alt="Kids Program">
+        <div class="program-content">
+          <h3>{{ t.programs.kids.title }}</h3>
+          <p>{{ t.programs.kids.description }}</p>
+          <a href="{{ '/programs/' | relative_url }}#kids" class="btn btn-outline">Learn More</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="section-cta">
+      <a href="{{ '/programs/' | relative_url }}" class="btn btn-primary">View All Programs</a>
+    </div>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section class="cta-section">
+  <div class="wrapper">
+    <div class="cta-content">
+      <h2>Ready to Start Your BJJ Journey?</h2>
+      <p>Join our welcoming community and discover the transformative power of Brazilian Jiu-Jitsu</p>
+      <div class="cta-buttons">
+        <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">{{ t.nav.try_free }}</a>
+        <a href="{{ '/contact/' | relative_url }}" class="btn btn-secondary btn-large">Contact Us</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ content }}

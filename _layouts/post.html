@@ -1,0 +1,330 @@
+---
+layout: default
+---
+
+{% assign lang = page.lang | default: site.default_lang | default: 'en' %}
+{% assign t = site.data.translations[lang] %}
+
+<article class="post">
+  <div class="wrapper">
+    
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+      
+      <div class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+          {{ t.blog.posted_on }} {{ page.date | date: "%B %d, %Y" }}
+        </time>
+        
+        {% if page.author %}
+          <span class="post-author">{{ t.blog.by }} {{ page.author }}</span>
+        {% endif %}
+        
+        {% if page.categories %}
+          <div class="post-categories">
+            <span>{{ t.blog.categories }}:</span>
+            {% for category in page.categories %}
+              <a href="{{ '/' | append: lang | append: '/blog/category/' | append: category | relative_url }}" class="category-link">{{ category }}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+      
+      {% if page.featured_image %}
+        <div class="post-featured-image">
+          <img src="{{ page.featured_image | relative_url }}" alt="{{ page.title }}">
+        </div>
+      {% endif %}
+    </header>
+    
+    <div class="post-content">
+      {{ content }}
+    </div>
+    
+    {% if page.tags %}
+      <div class="post-tags">
+        <span>{{ t.blog.tags }}:</span>
+        {% for tag in page.tags %}
+          <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+    
+    <div class="post-navigation">
+      {% if page.previous %}
+        <a href="{{ page.previous.url | relative_url }}" class="nav-previous">
+          <i class="fas fa-arrow-left"></i>
+          <span>{{ page.previous.title }}</span>
+        </a>
+      {% endif %}
+      
+      {% if page.next %}
+        <a href="{{ page.next.url | relative_url }}" class="nav-next">
+          <span>{{ page.next.title }}</span>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+      {% endif %}
+    </div>
+    
+  </div>
+</article>
+
+<!-- Related Posts -->
+<section class="related-posts">
+  <div class="wrapper">
+    <h2>{{ t.blog.related_posts }}</h2>
+    
+    <div class="related-posts-grid">
+      {% assign posts = site.posts | where: "lang", lang %}
+      {% for post in posts limit: 3 %}
+        {% unless post.url == page.url %}
+          <article class="related-post">
+            {% if post.featured_image %}
+              <div class="related-post-image">
+                <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
+              </div>
+            {% endif %}
+            
+            <div class="related-post-content">
+              <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+              <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
+              <a href="{{ post.url | relative_url }}" class="read-more">{{ t.blog.read_more }}</a>
+            </div>
+          </article>
+        {% endunless %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<style>
+.post {
+  padding: 120px 0 var(--spacing-xl);
+}
+
+.post-header {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.post-title {
+  font-size: 3rem;
+  line-height: 1.2;
+  margin-bottom: var(--spacing-md);
+  color: var(--primary-color);
+}
+
+.post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+  color: var(--text-light);
+}
+
+.post-author {
+  font-weight: 500;
+}
+
+.post-categories {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+}
+
+.category-link {
+  color: var(--secondary-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.category-link:hover {
+  text-decoration: underline;
+}
+
+.post-featured-image {
+  margin-bottom: var(--spacing-lg);
+}
+
+.post-featured-image img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+.post-content {
+  max-width: 800px;
+  margin: 0 auto var(--spacing-lg);
+  line-height: 1.7;
+}
+
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  color: var(--primary-color);
+  margin-top: var(--spacing-lg);
+  margin-bottom: var(--spacing-sm);
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--border-radius);
+  margin: var(--spacing-md) 0;
+}
+
+.post-content blockquote {
+  border-left: 4px solid var(--secondary-color);
+  padding-left: var(--spacing-md);
+  margin: var(--spacing-md) 0;
+  font-style: italic;
+  color: var(--text-light);
+}
+
+.post-tags {
+  max-width: 800px;
+  margin: 0 auto var(--spacing-lg);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-xs);
+  align-items: center;
+}
+
+.tag {
+  background: var(--section-bg);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--border-radius);
+  font-size: 0.9rem;
+  border: 1px solid var(--border-color);
+}
+
+.post-navigation {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  gap: var(--spacing-md);
+  padding-top: var(--spacing-lg);
+  border-top: 1px solid var(--border-color);
+}
+
+.nav-previous,
+.nav-next {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  color: var(--text-color);
+  text-decoration: none;
+  padding: var(--spacing-sm);
+  border-radius: var(--border-radius);
+  transition: var(--transition);
+  max-width: 45%;
+}
+
+.nav-previous:hover,
+.nav-next:hover {
+  background: var(--section-bg);
+  color: var(--secondary-color);
+}
+
+.nav-next {
+  text-align: right;
+  margin-left: auto;
+}
+
+.related-posts {
+  background: var(--section-bg);
+  padding: var(--spacing-xl) 0;
+}
+
+.related-posts h2 {
+  text-align: center;
+  margin-bottom: var(--spacing-lg);
+  color: var(--primary-color);
+}
+
+.related-posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--spacing-lg);
+}
+
+.related-post {
+  background: white;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  box-shadow: var(--box-shadow);
+  transition: var(--transition);
+}
+
+.related-post:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+}
+
+.related-post-image img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.related-post-content {
+  padding: var(--spacing-md);
+}
+
+.related-post-content h3 {
+  margin-bottom: var(--spacing-sm);
+}
+
+.related-post-content h3 a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.related-post-content h3 a:hover {
+  color: var(--secondary-color);
+}
+
+.related-post-content p {
+  color: var(--text-light);
+  margin-bottom: var(--spacing-sm);
+}
+
+.read-more {
+  color: var(--secondary-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .post-title {
+    font-size: 2rem;
+  }
+  
+  .post-meta {
+    flex-direction: column;
+    gap: var(--spacing-sm);
+  }
+  
+  .post-navigation {
+    flex-direction: column;
+  }
+  
+  .nav-previous,
+  .nav-next {
+    max-width: 100%;
+    text-align: center;
+  }
+  
+  .related-posts-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
