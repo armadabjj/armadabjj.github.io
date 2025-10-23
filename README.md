@@ -2,6 +2,8 @@
 
 A modern, bilingual (English/French) Jekyll website for Armada Brazilian Jiu-Jitsu academy, inspired by mizustudio.ca design.
 
+🌐 **Live Site**: [https://armadabjj.github.io](https://armadabjj.github.io)
+
 ## Features
 
 - **Bilingual Support**: Full English and French translations
