@@ -121,6 +121,8 @@ p {
   cursor: pointer;
   flex-direction: column;
   justify-content: space-around;
+  padding: 6px 0;
+  position: relative;
 }
 
 .menu-icon span {
@@ -128,7 +130,9 @@ p {
   height: 3px;
   width: 100%;
   background: var(--primary-color);
-  transition: var(--transition);
+  transition: all 0.3s ease;
+  border-radius: 1px;
+  transform-origin: center;
 }
 
 .trigger {
@@ -581,6 +585,7 @@ section {
 @media (max-width: 768px) {
   .menu-icon {
     display: flex;
+    z-index: 1001;
   }
   
   .trigger {
@@ -591,19 +596,43 @@ section {
     background: white;
     box-shadow: var(--box-shadow);
     border-radius: var(--border-radius);
-    padding: var(--spacing-sm);
+    padding: var(--spacing-md);
     flex-direction: column;
     align-items: flex-start;
     gap: var(--spacing-sm);
     width: 250px;
+    z-index: 1000;
+    border: 1px solid var(--border-color);
+  }
+  
+  .trigger .page-link {
+    width: 100%;
+    padding: var(--spacing-sm) 0;
+    border-bottom: 1px solid var(--border-color);
+  }
+  
+  .trigger .page-link:last-child {
+    border-bottom: none;
   }
   
   .nav-trigger:checked ~ .trigger {
     display: flex;
+    animation: slideDown 0.3s ease;
+  }
+  
+  @keyframes slideDown {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
   
   .nav-trigger:checked ~ .menu-icon span:nth-child(1) {
-    transform: rotate(45deg) translate(8px, 8px);
+    transform: rotate(45deg) translate(6px, 6px);
   }
   
   .nav-trigger:checked ~ .menu-icon span:nth-child(2) {
@@ -611,7 +640,7 @@ section {
   }
   
   .nav-trigger:checked ~ .menu-icon span:nth-child(3) {
-    transform: rotate(-45deg) translate(8px, -8px);
+    transform: rotate(-45deg) translate(7px, -6px);
   }
   
   .hero-content {

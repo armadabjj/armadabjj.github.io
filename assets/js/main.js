@@ -16,28 +16,39 @@
         const navTrigger = document.getElementById('nav-trigger');
         const menuIcon = document.querySelector('.menu-icon');
         const trigger = document.querySelector('.trigger');
+        const siteNav = document.querySelector('.site-nav');
 
         if (navTrigger && menuIcon) {
-            menuIcon.addEventListener('click', function() {
+            // Toggle menu when clicking the hamburger icon
+            menuIcon.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
                 navTrigger.checked = !navTrigger.checked;
             });
 
             // Close menu when clicking outside
             document.addEventListener('click', function(e) {
-                if (!e.target.closest('.site-nav') && navTrigger.checked) {
+                if (!siteNav.contains(e.target) && navTrigger.checked) {
                     navTrigger.checked = false;
                 }
             });
 
-            // Close menu when clicking on a link
+            // Close menu when clicking on a navigation link
             if (trigger) {
-                const links = trigger.querySelectorAll('a');
+                const links = trigger.querySelectorAll('.page-link');
                 links.forEach(link => {
                     link.addEventListener('click', function() {
                         navTrigger.checked = false;
                     });
                 });
             }
+
+            // Handle escape key
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape' && navTrigger.checked) {
+                    navTrigger.checked = false;
+                }
+            });
         }
     }
 
