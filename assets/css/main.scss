@@ -67,7 +67,7 @@ p {
 }
 
 .page-content {
-  padding-top: 0;
+  padding-top: 100px;
 }
 
 /* Header */
@@ -99,11 +99,10 @@ p {
 }
 
 .logo {
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
   margin-right: var(--spacing-sm);
   border-radius: 50%;
-  box-shadow: 0 2px 10px rgba(33, 150, 243, 0.2);
 }
 
 .site-nav {
@@ -233,7 +232,6 @@ p {
   background: linear-gradient(135deg, var(--wave-blue) 0%, var(--accent-color) 50%, var(--secondary-color) 100%);
   color: white;
   padding: 140px 0 var(--spacing-xl);
-  margin-top: 80px;
   position: relative;
   overflow: hidden;
 }
