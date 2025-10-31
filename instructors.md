@@ -123,7 +123,7 @@ description: "Rencontrez nos instructeurs de classe mondiale de Jiu-Jitsu Brési
       <p>Vivez l'instruction de Jiu-Jitsu Brésilien de classe mondiale dans un environnement de soutien et familial.</p>
       <div class="cta-buttons">
         <a href="{{ '/fr/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Réservez Votre Essai Gratuit</a>
-        <a href="{{ '/fr/programmes/' | relative_url }}" class="btn btn-secondary btn-large">Voir les Programmes</a>
+        <a href="{{ '/programs/' | relative_url }}" class="btn btn-secondary btn-large">Voir les Programmes</a>
       </div>
     </div>
   </div>

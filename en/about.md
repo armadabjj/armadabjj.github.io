@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "À Propos"
-lang: fr
-description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre équipe d'instructeurs expérimentés. Votre voyage en Jiu-Jitsu Brésilien commence ici."
+title: "About"
+lang: en
+description: "Discover the history of Armada BJJ, our philosophy and our team of experienced instructors. Your Brazilian Jiu-Jitsu journey starts here."
 ---
 
 {% assign t = site.data.translations[page.lang] %}
 
 <div class="page-header">
   <div class="wrapper">
-    <h1>À Propos</h1>
-    <p>Votre voyage en Jiu-Jitsu Brésilien commence ici</p>
+    <h1>About</h1>
+    <p>Your Brazilian Jiu-Jitsu journey starts here</p>
   </div>
 </div>
 
@@ -189,7 +189,7 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
       <p>Découvrez pourquoi Armada BJJ est le bon choix pour votre voyage en Jiu-Jitsu Brésilien</p>
       <div class="cta-buttons">
         <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Essai Gratuit</a>
-        <a href="{{ '/instructeurs/' | relative_url }}" class="btn btn-secondary btn-large">Rencontrez l'Équipe</a>
+        <a href="{{ '/en/instructors/' | relative_url }}" class="btn btn-secondary btn-large">Meet the Team</a>
       </div>
     </div>
   </div>
