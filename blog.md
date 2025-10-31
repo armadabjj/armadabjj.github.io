@@ -2,6 +2,7 @@
 layout: default
 title: "Blog"
 lang: fr
+permalink: /blog/
 description: "Dernières nouvelles, conseils d'entraînement et perspectives d'Armada BJJ. Restez à jour avec notre communauté de Jiu-Jitsu Brésilien."
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Contact Us"
 lang: en
+permalink: /en/contact/
 description: "Get in touch with Armada BJJ. Book your free trial class, ask questions, or visit our Brazilian Jiu-Jitsu academy."
 ---
 

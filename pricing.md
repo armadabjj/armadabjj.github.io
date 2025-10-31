@@ -2,6 +2,7 @@
 layout: default
 title: "Tarifs"
 lang: fr
+permalink: /pricing/
 description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez Armada BJJ. Tarification flexible pour tous les programmes et niveaux."
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Programmes"
 lang: fr
+permalink: /programs/
 description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus pour tous les niveaux et âges."
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Instructeurs"
 lang: fr
+permalink: /instructors/
 description: "Rencontrez nos instructeurs de classe mondiale de Jiu-Jitsu Brésilien chez Armada BJJ. Expérimentés, certifiés et passionnés d'enseignement."
 ---
 

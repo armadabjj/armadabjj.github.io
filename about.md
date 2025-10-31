@@ -2,6 +2,7 @@
 layout: default
 title: "À Propos"
 lang: fr
+permalink: /about/
 description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre équipe d'instructeurs expérimentés. Votre voyage en Jiu-Jitsu Brésilien commence ici."
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "About"
 lang: en
+permalink: /en/about/
 description: "Discover the history of Armada BJJ, our philosophy and our team of experienced instructors. Your Brazilian Jiu-Jitsu journey starts here."
 ---
 

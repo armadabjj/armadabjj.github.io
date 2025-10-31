@@ -2,6 +2,7 @@
 layout: default
 title: "Blog"
 lang: en
+permalink: /en/blog/
 description: "Latest news, training tips, and insights from Armada BJJ. Stay updated with our Brazilian Jiu-Jitsu community."
 ---
 

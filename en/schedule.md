@@ -2,6 +2,7 @@
 layout: default
 title: "Schedule"
 lang: en
+permalink: /en/schedule/
 description: "Brazilian Jiu-Jitsu class schedule at Armada BJJ. Find the perfect class for your level and schedule."
 ---
 

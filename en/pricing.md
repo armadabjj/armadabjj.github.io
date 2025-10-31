@@ -2,6 +2,7 @@
 layout: default
 title: "Pricing"
 lang: en
+permalink: /en/pricing/
 description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. Flexible pricing for all programs and skill levels."
 ---
 

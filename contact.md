@@ -2,6 +2,7 @@
 layout: default
 title: "Contact"
 lang: fr
+permalink: /contact/
 description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez des questions, ou visitez notre académie de Jiu-Jitsu Brésilien."
 ---
 

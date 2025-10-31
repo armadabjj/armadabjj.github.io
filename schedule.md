@@ -2,6 +2,7 @@
 layout: default
 title: "Horaire"
 lang: fr
+permalink: /schedule/
 description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez le cours parfait pour votre niveau et votre emploi du temps."
 ---
 
