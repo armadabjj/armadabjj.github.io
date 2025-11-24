@@ -1,9 +1,9 @@
 ---
 layout: instructor
-name: "David Chen"
-rank: "Purple Belt"
+name: "Eric Laporte"
+rank: "1st degree Black Belt"
 specialties: ["No-Gi Grappling", "Wrestling", "Youth Programs"]
-experience: "6 years"
+experience: "13 years"
 achievements:
   - "Regional No-Gi Champion 2023"
   - "Submission Underground Competitor"
