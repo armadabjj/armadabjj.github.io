@@ -4,7 +4,6 @@ name: "Eric Laporte"
 rank: "Ceinture noire 1er degré"
 specialties: ["No-Gi", "Gi"
 experience: "13 Ans"
-
 certifications:
   - "Certification Instructeur FQJJB"
   - "Certification Instructeur Association Canadienne des Entraîneurs"
@@ -12,7 +11,7 @@ certifications:
 image: "/assets/images/instructors/david-chen.jpg"
 social:
   instagram: "eric_laporte_bjjofficial"
-  facebook: "david.chen.grappling"
+  facebook: "Eric Laporte-BJJ"
 languages: ["English", "Français"]
 bio_en: |
  For more than ten years, Brazilian jiu-jitsu has held a central place in my life. My passion began in 1994, the night I rented a VHS cassette of UFC 1 with a friend. Seeing a martial art based on technique rather than brute strength dominate the cage left a deep impression on me. I told myself that one day, I would learn that style. That moment sparked a curiosity that has never left me.

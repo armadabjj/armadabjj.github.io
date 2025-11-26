@@ -30,10 +30,10 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
         <h3>Lundi</h3>
         <div class="class-list">
           <div class="class-item">
-            <div class="class-time">6:00 - 7:00</div>
+            <div class="class-time">17:30 - 18:15</div>
             <div class="class-info">
-              <div class="class-name">Fondamentaux</div>
-              <div class="class-level">Débutant</div>
+              <div class="class-name">Enfants Gi</div>
+              <div class="class-level">7 à 12 ans</div>
             </div>
           </div>
           <div class="class-item">
