@@ -2,7 +2,7 @@
 layout: instructor
 name: "Eric Laporte"
 rank: "Ceinture noire 1er degré"
-specialties: ["No-Gi", "Gi"
+specialties: ["No-Gi", "Gi"]
 experience: "13 Ans"
 certifications:
   - "Certification Instructeur FQJJB"
@@ -23,11 +23,8 @@ bio_en: |
  Over time, my curiosity evolved into a structured approach. Alongside my progression as an athlete, I built a career in continuous improvement, eventually earning my Lean Six Sigma Black Belt certification. In my professional life, I work as an analyst and method optimization specialist—an experience that has shaped the way I approach jiu-jitsu:
 
  - analyzing systems
-
  - optimizing sequences
-
  - simplifying complex principles
-
  - improving the learning process for my students
 
  Today, this analytical approach is at the heart of my teaching. It allows me to present jiu-jitsu in a clear, methodical, and accessible way, whether to beginners or high-level competitors.
