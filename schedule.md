@@ -33,48 +33,20 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
             <div class="class-time">17:30 - 18:15</div>
             <div class="class-info">
               <div class="class-name">Enfants Gi</div>
-              <div class="class-level">7 à 12 ans</div>
+              <div class="class-level">6 à 12 ans</div>
             </div>
           </div>
           <div class="class-item">
-            <div class="class-time">19:00 - 20:30</div>
+            <div class="class-time">18:15 - 19:30</div>
             <div class="class-info">
-              <div class="class-name">BJJ Tous Niveaux</div>
+              <div class="class-name">BJJ GI</div>
               <div class="class-level">Tous niveaux</div>
             </div>
           </div>
           <div class="class-item">
-            <div class="class-time">20:30 - 21:30</div>
+            <div class="class-time">19:30 - 20:45</div>
             <div class="class-info">
-              <div class="class-name">Mat Libre</div>
-              <div class="class-level">Tous niveaux</div>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <!-- Tuesday -->
-      <div class="day-schedule">
-        <h3>Mardi</h3>
-        <div class="class-list">
-          <div class="class-item">
-            <div class="class-time">6:00 - 7:00</div>
-            <div class="class-info">
-              <div class="class-name">No-Gi BJJ</div>
-              <div class="class-level">Intermédiaire</div>
-            </div>
-          </div>
-          <div class="class-item">
-            <div class="class-time">18:00 - 19:00</div>
-            <div class="class-info">
-              <div class="class-name">Enfants (5-9 ans)</div>
-              <div class="class-level">Débutant</div>
-            </div>
-          </div>
-          <div class="class-item">
-            <div class="class-time">19:00 - 20:30</div>
-            <div class="class-info">
-              <div class="class-name">BJJ Techniques</div>
+              <div class="class-name">BJJ No-Gi</div>
               <div class="class-level">Tous niveaux</div>
             </div>
           </div>
@@ -86,24 +58,24 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
         <h3>Mercredi</h3>
         <div class="class-list">
           <div class="class-item">
-            <div class="class-time">6:00 - 7:00</div>
+            <div class="class-time">17:30 - 18:15</div>
             <div class="class-info">
-              <div class="class-name">Fondamentaux</div>
-              <div class="class-level">Débutant</div>
+              <div class="class-name">Enfants Gi</div>
+              <div class="class-level">6 à 12 ans</div>
             </div>
           </div>
           <div class="class-item">
-            <div class="class-time">18:30 - 19:30</div>
+            <div class="class-time">18:15 - 19:30</div>
             <div class="class-info">
-              <div class="class-name">Femmes Seulement</div>
+              <div class="class-name">Fondamentaux Gi</div>
               <div class="class-level">Tous niveaux</div>
             </div>
           </div>
           <div class="class-item">
-            <div class="class-time">19:30 - 21:00</div>
+            <div class="class-time">19:30 - 20:45</div>
             <div class="class-info">
-              <div class="class-name">BJJ Avancé</div>
-              <div class="class-level">Avancé</div>
+              <div class="class-name">Classe Compétition</div>
+              <div class="class-level">Intermédiaires et compétiteurs</div>
             </div>
           </div>
         </div>
@@ -114,51 +86,28 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
         <h3>Jeudi</h3>
         <div class="class-list">
           <div class="class-item">
-            <div class="class-time">6:00 - 7:00</div>
+            <div class="class-time">18:00 - 19:15</div>
             <div class="class-info">
               <div class="class-name">No-Gi BJJ</div>
               <div class="class-level">Tous niveaux</div>
             </div>
           </div>
           <div class="class-item">
-            <div class="class-time">18:00 - 19:00</div>
+            <div class="class-time">19:15 - 20:30</div>
             <div class="class-info">
-              <div class="class-name">Enfants (10-13 ans)</div>
-              <div class="class-level">Intermédiaire</div>
+              <div class="class-name">BJJ Gi</div>
+              <div class="class-level">Tous niveaux</div>
             </div>
           </div>
-          <div class="class-item">
-            <div class="class-time">19:00 - 20:30</div>
-            <div class="class-info">
-              <div class="class-name">BJJ Compétition</div>
-              <div class="class-level">Intermédiaire/Avancé</div>
-            </div>
-          </div>
-        </div>
-      </div>
       
       <!-- Friday -->
       <div class="day-schedule">
         <h3>Vendredi</h3>
         <div class="class-list">
           <div class="class-item">
-            <div class="class-time">6:00 - 7:00</div>
+            <div class="class-time">14:00 - 15:30</div>
             <div class="class-info">
-              <div class="class-name">Fondamentaux</div>
-              <div class="class-level">Débutant</div>
-            </div>
-          </div>
-          <div class="class-item">
-            <div class="class-time">19:00 - 20:30</div>
-            <div class="class-info">
-              <div class="class-name">BJJ Tous Niveaux</div>
-              <div class="class-level">Tous niveaux</div>
-            </div>
-          </div>
-          <div class="class-item">
-            <div class="class-time">20:30 - 22:00</div>
-            <div class="class-info">
-              <div class="class-name">Mat Libre</div>
+              <div class="class-name">Open mat / Q&A (selon disponibilités)</div>
               <div class="class-level">Tous niveaux</div>
             </div>
           </div>
@@ -170,59 +119,46 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
         <h3>Samedi</h3>
         <div class="class-list">
           <div class="class-item">
-            <div class="class-time">9:00 - 10:30</div>
+            <div class="class-time">9:00 - 10:00</div>
             <div class="class-info">
-              <div class="class-name">BJJ Tous Niveaux</div>
+              <div class="class-name">Enfants Gi</div>
+              <div class="class-level">6 à 12 ans</div>
+            </div>
+          </div>
+          <div class="class-item">
+            <div class="class-time">10:00 - 11:00</div>
+            <div class="class-info">
+              <div class="class-name">BJJ Gi (Drills and Rolls)</div>
               <div class="class-level">Tous niveaux</div>
             </div>
           </div>
           <div class="class-item">
-            <div class="class-time">10:30 - 12:00</div>
+            <div class="class-time">11:00 - 12:00</div>
             <div class="class-info">
-              <div class="class-name">Mat Libre</div>
-              <div class="class-level">Tous niveaux</div>
-            </div>
-          </div>
-          <div class="class-item">
-            <div class="class-time">13:00 - 14:00</div>
-            <div class="class-info">
-              <div class="class-name">Enfants (Tous âges)</div>
+              <div class="class-name">BJJ No-Gi (Drills and Rolls)</div>
               <div class="class-level">Tous niveaux</div>
             </div>
           </div>
         </div>
       </div>
-      
-      <!-- Sunday -->
-      <div class="day-schedule">
-        <h3>Dimanche</h3>
-        <div class="class-list">
-          <div class="class-item rest-day">
-            <div class="class-info">
-              <div class="class-name">Jour de Repos</div>
-              <div class="class-level">Le gym est fermé</div>
-            </div>
-          </div>
-        </div>
-      </div>
-      
+
     </div>
     
     <div class="schedule-info">
       <div class="info-grid">
         <div class="info-card">
-          <h3>Nouveaux Étudiants</h3>
-          <p>Les débutants sont les bienvenus à tous les cours "Fondamentaux" et "Tous niveaux". Arrivez 15 minutes à l'avance pour votre première classe.</p>
+          <h3>Nouveaux Étudiants / Visiteurs</h3>
+          <p>Les débutants et visiteurs sont les bienvenus à tous les cours "Fondamentaux" et "Tous niveaux". Pour les visiteurs voulant prendre part aux cours de compétition, veuillez voir avec les instructeurs. Arrivez 15 minutes à l'avance pour votre première classe.</p>
         </div>
         
         <div class="info-card">
           <h3>Équipement</h3>
-          <p>Gi (kimono) requis pour les cours traditionnels. T-shirt et shorts pour No-Gi. Équipement de location disponible pour les nouveaux étudiants.</p>
+          <p>Gi (kimono) requis pour les cours BJJ Gi. T-shirt et shorts pour No-Gi. Équipement temporaire avec dépôt disponible pour les nouveaux étudiants.</p>
         </div>
         
         <div class="info-card">
           <h3>Réservation</h3>
-          <p>Aucune réservation requise pour les membres. Les cours à l'unité doivent être réservés à l'avance. Contactez-nous pour plus d'infos.</p>
+          <p>Aucune réservation requise pour les membres. Les cours à l'unité (visites) doivent prérérablement être réservés à l'avance. Contactez-nous pour plus d'infos.</p>
         </div>
       </div>
     </div>
