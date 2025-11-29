@@ -53,6 +53,17 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
         </div>
       </div>
       
+      <!-- Tuesday -->
+      <div class="day-schedule">
+        <h3>Mardi</h3>
+        <div class="class-list">
+          <div class="class-item">
+            <div class="class-time">Pas de cours</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <!-- Wednesday -->
       <div class="day-schedule">
         <h3>Mercredi</h3>
