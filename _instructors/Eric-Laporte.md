@@ -54,4 +54,8 @@ bio_fr: |
  Une étape marquante de mon parcours reste mon implication avec BJJ Fanatics, la plus grande plateforme mondiale de formation en jiu-jitsu brésilien, sur laquelle j'enseigne depuis maintenant plus de 4 ans. Cette plateforme me donne l'opportunité de partager mes connaissances et méthodes à des élèves de partout dans le monde.
 
  En 2025, mon chemin prit un nouveau tournant. Avec un groupe rapproché d'amis, nous avons décidé d'ouvrir notre propre école. J'enseignais à deux école, une de BJJ, et occasionnellement au Speedy Gym de Granby. Le Speedy nous a permis d'utiliser leur local, le temps de trouver le nôtre et d'ouvrir notre nouvelle académie, qui est maintenant Armada Jiu-Jitsu.
+
+ J'ai eu la chance de voyager le monde pour m'entraîner avec certains des meilleurs athletes et entraîneurs du monde, de compétitionner à plusieurs niveaux, et pour assister à des certaines des plus grandes compétitions de tous les temps. Je continues constemment d'enrichir mes connaissances en étudiant et en analysant les matchs des plus grands circuits de la scène compétitive.
+ 
+ Mon objectif est simple, avec mes partenaires à Armada Jiu-Jitsu, de bâtir un environnement sécuritaire pour partager ma passion avec tous ceux intéressés à l'apprendre.
 ---
