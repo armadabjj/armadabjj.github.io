@@ -33,7 +33,13 @@ bio_en: |
 
  A major milestone in my journey is my involvement with BJJ Fanatics, the largest jiu-jitsu instructional platform in the world, where I’ve been teaching for more than four years. This platform gives me the opportunity to share my knowledge and methods with students from all around the globe.
 
+  Here is a link towards my instructionnals: https://bjjfanatics.com/search?q=eric%20laporte
+
  In 2025, my path took a new turn. Along with a close group of friends, we decided to open our own school. At the time, I was teaching at two places—one BJJ school and occasionally at Speedy Gym in Granby. Speedy generously allowed us to use their space while we searched for our own, and from there, we opened our new academy, now known as Armada Jiu-Jitsu.
+
+ Through my journey, i've had the chance to travel the world to learn and train under some of the greatest athletes and minds our sport has ever seen, to compete at many different levels from local tournaments to the Masters World Championships, and to attend, as a fan and spectator, to some of the greatest competitions of all time. I constantly study instructionnals and matches from the competition scene to feed my knowledge and to keep improving and honing my skills.
+ 
+ My goal is simple, with my team at Armada Jiu-Jitsu, to build an safe environment where i can share my passion to all type of students that want to learn and share our values of unity and taking care of our members.
 
 bio_fr: |
  Depuis plus de dix ans, le jiu-jitsu brésilien occupe une place centrale dans ma vie. Ma passion a commencé en 1994, le soir où j’ai loué une cassette VHS de l’UFC 1 avec un ami. Voir un art martial basé sur la technique plutôt que la force brute dominer la cage m’a profondément marqué. Je me suis dit qu'un jour, j'allais apprendre ce style. Cette révélation a déclenché en moi une curiosité qui ne m’a jamais quitté. J'ai pratiqué d'autres styles, atteint le niveau de ceinture noire, mais j'avais toujours une arrière pensée qui me dirigeait vers le combat au sol. Il y a plus de 20 ans, j'ai commencé à m'entraîner sporadiquement en arts martiaux mixtes, mais c'est finalement en 2012 que j'ai fait le choix de m'inscrire à une école dédiée au BJJ, qui était à plus d'une heure de chez moi, à Beloeil, sous un champion du monde nommé Lee Villeneuve. Lorsque j'ai enfin pu mettre un GI, avec ma belle ceinture blanche toute neuve, je suis immédiatement tombé en amour et commencé à délaisser peu à peu les autres arts que je pratiquais et enseignais.
@@ -53,9 +59,11 @@ bio_fr: |
 
  Une étape marquante de mon parcours reste mon implication avec BJJ Fanatics, la plus grande plateforme mondiale de formation en jiu-jitsu brésilien, sur laquelle j'enseigne depuis maintenant plus de 4 ans. Cette plateforme me donne l'opportunité de partager mes connaissances et méthodes à des élèves de partout dans le monde.
 
+ Voici un lien vers mes instructionnals: https://bjjfanatics.com/search?q=eric%20laporte
+
  En 2025, mon chemin prit un nouveau tournant. Avec un groupe rapproché d'amis, nous avons décidé d'ouvrir notre propre école. J'enseignais à deux école, une de BJJ, et occasionnellement au Speedy Gym de Granby. Le Speedy nous a permis d'utiliser leur local, le temps de trouver le nôtre et d'ouvrir notre nouvelle académie, qui est maintenant Armada Jiu-Jitsu.
 
  J'ai eu la chance de voyager le monde pour m'entraîner avec certains des meilleurs athletes et entraîneurs du monde, de compétitionner à plusieurs niveaux, et pour assister à des certaines des plus grandes compétitions de tous les temps. Je continues constemment d'enrichir mes connaissances en étudiant et en analysant les matchs des plus grands circuits de la scène compétitive.
  
- Mon objectif est simple, avec mes partenaires à Armada Jiu-Jitsu, de bâtir un environnement sécuritaire pour partager ma passion avec tous ceux intéressés à l'apprendre.
+ Mon objectif est simple, avec mes partenaires à Armada Jiu-Jitsu, de bâtir un environnement sécuritaire pour partager ma passion avec tous ceux intéressés d'apprendre et qui partagent nos valeurs d'unité et de protéger nos membres.
 ---
