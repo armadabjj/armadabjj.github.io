@@ -30,18 +30,18 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
             <ul>
               <li>Basic positions and escapes</li>
               <li>Fundamental submissions</li>
-              <li>Self-defense techniques</li>
-              <li>BJJ philosophy and etiquette</li>
-              <li>Proper warm-up and conditioning</li>
+              <li>Connecting and sequencing</li>
+              <li>Warmup and conditionning</li>
+              <li>Sparring and drilling</li>
             </ul>
           </div>
           
           <div class="program-details">
             <div class="detail-item">
-              <strong>Duration:</strong> 12-week structured program
+              <strong>Attire:</strong> Gi (Kimono)
             </div>
             <div class="detail-item">
-              <strong>Schedule:</strong> Monday/Wednesday 7:00 PM, Saturday 10:00 AM
+              <strong>Schedule:</strong> Wednesday 18:15
             </div>
             <div class="detail-item">
               <strong>Requirements:</strong> No experience necessary
@@ -56,19 +56,18 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
       </div>
     </div>
 
-    <!-- Advanced Program -->
-    <div class="program-detail" id="advanced">
+    <!-- BJJ Gi -->
+    <div class="program-detail" id="BJJ Gi">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.advanced.title }}</h2>
-          <p class="program-description">{{ t.programs.advanced.description }}</p>
+          <h2>{{ t.programs.BJJ Gi.title }}</h2>
+          <p class="program-description">{{ t.programs.BJJ Gi.description }}</p>
           
           <div class="program-features">
             <h3>Training Focus:</h3>
             <ul>
               <li>Advanced guard systems</li>
-              <li>Competition preparation</li>
-              <li>Complex submission chains</li>
+              <li>Guard Passing and chaining submissions</li>
               <li>High-level positional strategies</li>
               <li>Sparring and live drilling</li>
             </ul>
@@ -76,13 +75,13 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
           
           <div class="program-details">
             <div class="detail-item">
-              <strong>Prerequisites:</strong> Blue belt or equivalent experience
+              <strong>Attire:</strong> Gi (Kimono)
             </div>
             <div class="detail-item">
-              <strong>Schedule:</strong> Tuesday/Thursday 7:30 PM, Sunday 11:00 AM
+              <strong>Schedule:</strong> Monday 19:30 and Thursday 19:15
             </div>
             <div class="detail-item">
-              <strong>Focus:</strong> Competition and advanced techniques
+              <strong>Requirements:</strong> No experience necessary
             </div>
           </div>
           
@@ -107,7 +106,6 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
               <li>Wrestling-based takedowns</li>
               <li>Leg lock systems</li>
               <li>Fast-paced submission grappling</li>
-              <li>MMA-applicable techniques</li>
               <li>Conditioning and cardio</li>
             </ul>
           </div>
@@ -117,10 +115,10 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
               <strong>Attire:</strong> Rash guard, grappling shorts (no gi required)
             </div>
             <div class="detail-item">
-              <strong>Schedule:</strong> Monday/Friday 8:00 PM, Saturday 2:00 PM
+              <strong>Schedule:</strong> Monday 19:30 and Thursday 18:00
             </div>
             <div class="detail-item">
-              <strong>Style:</strong> Submission grappling, wrestling
+              <strong>Requirements:</strong> No experience necessary
             </div>
           </div>
           
@@ -128,6 +126,43 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
         </div>
         <div class="program-image">
           <img src="{{ '/assets/images/nogi-class.jpg' | relative_url }}" alt="No-Gi Class">
+        </div>
+      </div>
+    </div>
+
+    <!-- Competition class -->
+    <div class="program-detail" id="Competition">
+      <div class="program-content">
+        <div class="program-text">
+          <h2>{{ t.programs.competition.title }}</h2>
+          <p class="program-description">{{ t.programs.competition.description }}</p>
+          
+          <div class="program-features">
+            <h3>Preperation for Competition Focus:</h3>
+            <ul>
+              <li>Competition rules</li>
+              <li>Point system</li>
+              <li>Winning strategies</li>
+              <li>Conditionning and situationnal training</li>
+            </ul>
+          </div>
+          
+          <div class="program-details">
+            <div class="detail-item">
+              <strong>Attire:</strong> Gi and/or No-Gi (mixt class)
+            </div>
+            <div class="detail-item">
+              <strong>Schedule:</strong> Wednesday 19:30
+            </div>
+            <div class="detail-item">
+              <strong>Requirement:</strong> Competitors (visitors and non competitors: at the discretion of the instructors)
+            </div>
+          </div>
+          
+          <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Join Competition Class</a>
+        </div>
+        <div class="program-image">
+          <img src="{{ '/assets/images/Competition Class.jpg' | relative_url }}" alt="Competition Class">
         </div>
       </div>
     </div>
@@ -143,22 +178,22 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
             <h3>Kids Benefits:</h3>
             <ul>
               <li>Builds confidence and self-esteem</li>
-              <li>Improves coordination and fitness</li>
+              <li>Improves coordination, agility and fitness</li>
               <li>Teaches discipline and respect</li>
-              <li>Anti-bullying techniques</li>
+              <li>BJJ Techniques</li>
               <li>Fun, age-appropriate games</li>
             </ul>
           </div>
           
           <div class="program-details">
             <div class="detail-item">
-              <strong>Ages:</strong> 5-13 years old
+              <strong>Ages:</strong> 6-12 years old
             </div>
             <div class="detail-item">
-              <strong>Schedule:</strong> Tuesday/Thursday 5:00 PM, Saturday 9:00 AM
+              <strong>Schedule:</strong> Monday and Wendnesday 17:30, Saturday 9:00 AM
             </div>
             <div class="detail-item">
-              <strong>Class Size:</strong> Limited to 12 students for personalized attention
+              <strong>Class Size:</strong> Limited to 15 students for personalized attention
             </div>
           </div>
           
@@ -166,44 +201,6 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
         </div>
         <div class="program-image">
           <img src="{{ '/assets/images/kids-class.jpg' | relative_url }}" alt="Kids Class">
-        </div>
-      </div>
-    </div>
-
-    <!-- Women's Program -->
-    <div class="program-detail" id="womens">
-      <div class="program-content">
-        <div class="program-text">
-          <h2>{{ t.programs.womens.title }}</h2>
-          <p class="program-description">{{ t.programs.womens.description }}</p>
-          
-          <div class="program-features">
-            <h3>Women-Only Benefits:</h3>
-            <ul>
-              <li>Supportive, non-intimidating environment</li>
-              <li>Self-defense focus</li>
-              <li>Body-positive training space</li>
-              <li>Female instructor leadership</li>
-              <li>Flexible scheduling for busy lifestyles</li>
-            </ul>
-          </div>
-          
-          <div class="program-details">
-            <div class="detail-item">
-              <strong>Level:</strong> All levels welcome
-            </div>
-            <div class="detail-item">
-              <strong>Schedule:</strong> Wednesday 6:00 PM, Saturday 11:00 AM
-            </div>
-            <div class="detail-item">
-              <strong>Environment:</strong> Women-only classes with female instructors
-            </div>
-          </div>
-          
-          <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Join Women's Classes</a>
-        </div>
-        <div class="program-image">
-          <img src="{{ '/assets/images/womens-class.jpg' | relative_url }}" alt="Women's Class">
         </div>
       </div>
     </div>
@@ -220,21 +217,21 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
             <ul>
               <li>Free sparring sessions</li>
               <li>Technique drilling</li>
+              <li>Techniques revision</li>
               <li>Competition preparation</li>
-              <li>Cross-training with visiting grapplers</li>
               <li>Relaxed training atmosphere</li>
             </ul>
           </div>
           
           <div class="program-details">
             <div class="detail-item">
-              <strong>Requirements:</strong> Active member with instructor approval
+              <strong>Attire:</strong> Attire associated to the class
             </div>
             <div class="detail-item">
-              <strong>Schedule:</strong> Sunday 1:00-3:00 PM
+              <strong>Schedule:</strong> Saturday 10:00 Gi and 11:00 No-Gi
             </div>
             <div class="detail-item">
-              <strong>Cost:</strong> Included with membership
+              <strong>Teachings:</strong> To the discretion of the instructors (usually free training without instructor teaching)
             </div>
           </div>
           

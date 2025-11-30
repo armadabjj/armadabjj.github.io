@@ -60,8 +60,8 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
     <div class="program-detail" id="BJJ Gi">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.advanced.title }}</h2>
-          <p class="program-description">{{ t.programs.advanced.description }}</p>
+          <h2>{{ t.programs.BJJ Gi.title }}</h2>
+          <p class="program-description">{{ t.programs.BJJ Gi.description }}</p>
           
           <div class="program-features">
             <h3>Focus d'entraînement :</h3>
