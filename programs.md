@@ -38,13 +38,13 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           
           <div class="program-details">
             <div class="detail-item">
-              <strong>Durée :</strong> 75 minutes
+              <strong>Tenue :</strong> Gi (Kimono)
             </div>
             <div class="detail-item">
               <strong>Horaire :</strong> Mercredi 18h15
             </div>
             <div class="detail-item">
-              <strong>Prérequis :</strong> Aucune expérience nécessaire
+              <strong>Prérequis :</strong> Ouvert à tous
             </div>
           </div>
           
@@ -75,13 +75,13 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           
           <div class="program-details">
             <div class="detail-item">
-              <strong>Prérequis :</strong> Ouvert à tous
+              <strong>Tenue :</strong> Gi (Kimono)
             </div>
             <div class="detail-item">
               <strong>Horaire :</strong> Lundi 19:30, Jeudi 19:15
             </div>
             <div class="detail-item">
-              <strong>Focus :</strong> Techniques de tous les niveaux
+              <strong>Prérequis :</strong> Ouvert à tous
             </div>
           </div>
           
@@ -118,7 +118,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
               <strong>Horaire :</strong> Lundi 19:30, Jeudi 18:00
             </div>
             <div class="detail-item">
-              <strong>Style :</strong> Grappling de soumission, lutte
+              <strong>Prérequis :</strong> Ouvert à tous
             </div>
           </div>
           
@@ -149,13 +149,13 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           
           <div class="program-details">
             <div class="detail-item">
-              <strong>Tenue :</strong> Gi et/ou No-Gi (cours miste)
+              <strong>Tenue :</strong> Gi et/ou No-Gi (cours mixte)
             </div>
             <div class="detail-item">
               <strong>Horaire :</strong> Mercredi 19:30
             </div>
             <div class="detail-item">
-              <strong>Style :</strong> BJJ orienté sur la compétition
+              <strong>Prérequis :</strong> Pour compétiteurs (visiteurs et non compétiteurs: à la discrétion des entraîneurs)
             </div>
           </div>
           
@@ -225,7 +225,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           
           <div class="program-details">
             <div class="detail-item">
-              <strong>Prérequis :</strong> Ouvert èa tous
+              <strong>Tenue :</strong> Tenue associée au cours
             </div>
             <div class="detail-item">
               <strong>Horaire :</strong> Samedi 10:00 Gi et 11:00 No-Gi
