@@ -51,7 +51,7 @@ bio_fr: |
 
  Avec plus de deux décennies d’expérience en coaching (basketball, ski alpin, musique, arts martiaux, amélioration continue Lean, etc...), j’ai travaillé avec des gens de tout genres. Des athlètes simples, des équipes, des enfants, des adultes, des passionnés, des hobbyistes et des compétiteurs. Ayant compétitionné dans plusieures disciplines au cours de ma vie, j’ai vu de près les défis mentaux, physiques et techniques que traverse chaque pratiquant, et j’ai développé une capacité d'adapter ma pédagogie pour que chacun progresse à son rythme, sans perdre la rigueur nécessaire à l’excellence.
 
- Une étape marquante de mon parcours reste mon implication avec BJJ Fanatics, la plus grande plateforme mondiale de formation en jiu-jitsu brésilien, sur laquelle j'enseigne depuis maintenant plus de 4 ans. Cette plsteforme me donne l'opportunité de partager mes connaissances et méthodes à des élèves de partout dans le monde.
+ Une étape marquante de mon parcours reste mon implication avec BJJ Fanatics, la plus grande plateforme mondiale de formation en jiu-jitsu brésilien, sur laquelle j'enseigne depuis maintenant plus de 4 ans. Cette plateforme me donne l'opportunité de partager mes connaissances et méthodes à des élèves de partout dans le monde.
 
  En 2025, mon chemin prit un nouveau tournant. Avec un groupe rapproché d'amis, nous avons décidé d'ouvrir notre propre école. J'enseignais à deux école, une de BJJ, et occasionnellement au Speedy Gym de Granby. Le Speedy nous a permis d'utiliser leur local, le temps de trouver le nôtre et d'ouvrir notre nouvelle académie, qui est maintenant Armada Jiu-Jitsu.
 ---
