@@ -14,7 +14,7 @@ social:
   facebook: "Eric Laporte-BJJ"
 languages: ["English", "Français"]
 bio_en: |
- For more than ten years, Brazilian jiu-jitsu has held a central place in my life. My passion began in 1994, the night I rented a VHS cassette of UFC 1 with a friend. Seeing a martial art based on technique rather than brute strength dominate the cage left a deep impression on me. I told myself that one day, I would learn that style. That moment sparked a curiosity that has never left me.
+ For more than ten years, Brazilian jiu-jitsu has held a central place in my life. My passion began in 1994, the night I rented a VHS cassette of UFC 1 with a friend. Seeing a smaller athlete dominate with a martial art based mostly on technique rather than brute strength left a deep impression on me. I told myself that one day, I would learn that style. That moment sparked a curiosity that has never left me.
 
  I trained in other martial arts over the years reaching the level of black belt, but I always had a lingering pull toward ground fighting. Twenty years ago, i casually started training in mixed martial arts, giving me my first taste of what would become one of the biggest passions i would ever have. In 2012, I finally decided to start learning pure BJJ by enrolling in a school over an hour from home, in Beloeil, under World Champion Lee Villeneuve. The moment I put on a gi for the first time, with my brand-new white belt, I instantly fell in love. Gradually, I began to step away from the other arts I had been practicing and teaching for years.
 
@@ -37,7 +37,7 @@ bio_en: |
 
  In 2025, my path took a new turn. Along with a group of close friends, we decided to open our own school. At the time, I was teaching at a BJJ school and occasionally at Speedy Gym in Granby. Speedy generously allowed us to use their space while we searched for our own, and from there, we opened our new academy, now known as Armada Jiu-Jitsu.
 
- Through my journey, i've had the chance to travel the world to learn and train under some of the greatest athletes and minds our sport has ever seen, to compete at many different levels from local tournaments to the Masters World Championships, and to attend, as a fan and spectator, to some of the greatest competitions of all time. I constantly study instructionnals and matches from the competition scene to feed my knowledge and to keep improving and honing my skills.
+ Through my journey, i've had the chance to travel the world and learn under some of the greatest athletes and minds our sport has ever seen, to compete at many different levels from local tournaments to the Masters World Championships, and to attend, as a fan and spectator, to some of the greatest competitions of all time. I constantly study instructionnals and matches from the competition scene to feed my knowledge and to keep improving and honing my skills.
  
  My goal is simple, with my team at Armada Jiu-Jitsu, to build an safe environment where i can share my passion to all type of students that want to learn and share our values of unity and taking care of our members.
 
