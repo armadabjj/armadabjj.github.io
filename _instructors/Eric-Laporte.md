@@ -35,7 +35,7 @@ bio_en: |
 
   Here is a link towards my instructionnals: https://bjjfanatics.com/search?q=eric%20laporte
 
- In 2025, my path took a new turn. Along with a close group of friends, we decided to open our own school. At the time, I was teaching at two places—one BJJ school and occasionally at Speedy Gym in Granby. Speedy generously allowed us to use their space while we searched for our own, and from there, we opened our new academy, now known as Armada Jiu-Jitsu.
+ In 2025, my path took a new turn. Along with a group of close friends, we decided to open our own school. At the time, I was teaching at a BJJ school and occasionally at Speedy Gym in Granby. Speedy generously allowed us to use their space while we searched for our own, and from there, we opened our new academy, now known as Armada Jiu-Jitsu.
 
  Through my journey, i've had the chance to travel the world to learn and train under some of the greatest athletes and minds our sport has ever seen, to compete at many different levels from local tournaments to the Masters World Championships, and to attend, as a fan and spectator, to some of the greatest competitions of all time. I constantly study instructionnals and matches from the competition scene to feed my knowledge and to keep improving and honing my skills.
  
