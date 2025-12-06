@@ -3,7 +3,7 @@ layout: default
 title: "Instructeurs"
 lang: fr
 permalink: /instructors/
-description: "Rencontrez nos instructeurs de classe mondiale de Jiu-Jitsu Brésilien chez Armada BJJ. Expérimentés, certifiés et passionnés d'enseignement."
+description: "Rencontrez nos instructeurs de Jiu-Jitsu Brésilien chez Armada BJJ. Expérimentés, certifiés et passionnés d'enseignement."
 ---
 
 {% assign t = site.data.translations[page.lang] %}
@@ -19,8 +19,8 @@ description: "Rencontrez nos instructeurs de classe mondiale de Jiu-Jitsu Brési
   <div class="wrapper">
     
     <div class="section-intro">
-      <h2>Instruction de Classe Mondiale</h2>
-      <p>Nos instructeurs ne sont pas seulement des praticiens compétents—ce sont des enseignants dévoués qui sont passionnés de partager l'art du Jiu-Jitsu Brésilien. Chacun apporte une expertise unique et un engagement à aider les étudiants à atteindre leurs objectifs.</p>
+      <h2>Instruction de qualité avec des instructeurs passionnés et dévoués!</h2>
+      <p>Nos instructeurs ne sont pas seulement des praticiens compétents—ce sont des enseignants qui sont passionnés de partager l'art du Jiu-Jitsu Brésilien. Chacun apporte une expertise unique et un engagement à aider les étudiants à atteindre leurs objectifs.</p>
     </div>
     
     <div class="instructors-grid">
@@ -86,7 +86,7 @@ description: "Rencontrez nos instructeurs de classe mondiale de Jiu-Jitsu Brési
             <i class="fas fa-user-graduate"></i>
           </div>
           <h3>Centré sur l'Étudiant</h3>
-          <p>Chaque étudiant est unique. Nous adaptons notre enseignement aux styles d'apprentissage et objectifs individuels.</p>
+          <p>Chaque étudiant est unique. Nous adaptons notre enseignement aux styles d'apprentissage et objectifs individuels. La polyvalence de l'équipe d'instructeurs permet èa l'académie d'offrir plusieurs styles, pour rejoindre chaque élève.</p>
         </div>
         
         <div class="philosophy-item">
@@ -94,7 +94,7 @@ description: "Rencontrez nos instructeurs de classe mondiale de Jiu-Jitsu Brési
             <i class="fas fa-shield-alt"></i>
           </div>
           <h3>Sécurité d'Abord</h3>
-          <p>Nous priorisons la technique appropriée et la prévention des blessures dans chaque cours.</p>
+          <p>Nous priorisons l'encadrement des élèves, la technique appropriée et la prévention des blessures dans chaque cours.</p>
         </div>
         
         <div class="philosophy-item">
@@ -120,8 +120,8 @@ description: "Rencontrez nos instructeurs de classe mondiale de Jiu-Jitsu Brési
 <section class="instructor-cta">
   <div class="wrapper">
     <div class="cta-content">
-      <h2>Entraînez-vous avec les Meilleurs</h2>
-      <p>Vivez l'instruction de Jiu-Jitsu Brésilien de classe mondiale dans un environnement de soutien et familial.</p>
+      <h2>Entraînez-vous avec nous!</h2>
+      <p>Vivez l'instruction de Jiu-Jitsu Brésilien Armada dans un environnement de soutien et familial.</p>
       <div class="cta-buttons">
         <a href="{{ '/fr/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Réservez Votre Essai Gratuit</a>
         <a href="{{ '/programs/' | relative_url }}" class="btn btn-secondary btn-large">Voir les Programmes</a>

@@ -3,7 +3,7 @@ layout: default
 title: "Instructors"
 lang: en
 permalink: /en/instructors/
-description: "Meet our world-class Brazilian Jiu-Jitsu instructors at Armada BJJ. Experienced, certified, and passionate about teaching."
+description: "Meet our Brazilian Jiu-Jitsu instructors at Armada BJJ. Experienced, certified, and passionate about teaching."
 ---
 
 {% assign t = site.data.translations[page.lang] %}
@@ -86,7 +86,7 @@ description: "Meet our world-class Brazilian Jiu-Jitsu instructors at Armada BJJ
             <i class="fas fa-user-graduate"></i>
           </div>
           <h3>Student-Centered</h3>
-          <p>Every student is unique. We adapt our teaching to individual learning styles and goals.</p>
+          <p>Every student is unique. We adapt our teaching to individual learning styles and goals. The coaches offer a variety of styles and knowledge, giving every student a chance to learn.</p>
         </div>
         
         <div class="philosophy-item">
@@ -121,7 +121,7 @@ description: "Meet our world-class Brazilian Jiu-Jitsu instructors at Armada BJJ
   <div class="wrapper">
     <div class="cta-content">
       <h2>Train with the Best</h2>
-      <p>Experience world-class Brazilian Jiu-Jitsu instruction in a supportive, family-friendly environment.</p>
+      <p>Experience Armada Brazilian Jiu-Jitsu instruction in a supportive, family-friendly environment.</p>
       <div class="cta-buttons">
         <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Book Your Free Trial</a>
         <a href="{{ '/programs/' | relative_url }}" class="btn btn-secondary btn-large">View Programs</a>
