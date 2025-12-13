@@ -3,7 +3,7 @@ layout: default
 title: "Tarifs"
 lang: fr
 permalink: /pricing/
-description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez Armada BJJ. Tarification flexible pour tous les programmes et niveaux."
+description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez Armada BJJ."
 ---
 
 {% assign t = site.data.translations[page.lang] %}
@@ -11,7 +11,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
 <div class="page-header">
   <div class="wrapper">
     <h1>{{ t.pricing }}</h1>
-    <p>Options d'adhésion flexibles conçues pour s'adapter à vos objectifs et votre horaire</p>
+    <p>Options d'adhésion conçues pour s'adapter à vos objectifs et votre horaire</p>
   </div>
 </div>
 
@@ -19,30 +19,30 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
   <div class="wrapper">
     
     <div class="pricing-intro">
-      <h2>Aucuns Frais Cachés, Aucun Contrat à Long Terme</h2>
+      <h2>Aucuns Frais Cachés.</h2>
       <p>Nous croyons en une tarification transparente et équitable qui met vos besoins en premier. Tous les abonnements incluent l'accès à notre gamme complète de cours et d'installations.</p>
     </div>
     
     <div class="pricing-grid">
       
-      <!-- Fundamentals -->
+      <!-- Forfait au mois adultes -->
       <div class="pricing-card">
         <div class="pricing-header">
-          <h3>Fondamentaux</h3>
+          <h3>Forfait par mois</h3>
           <div class="price">
             <span class="currency">$</span>
-            <span class="amount">120</span>
+            <span class="amount">145</span>
             <span class="period">/mois</span>
           </div>
-          <p class="pricing-description">Parfait pour les débutants en BJJ</p>
+          <p class="pricing-description">Accès complet à tous les programmes</p>
         </div>
         
         <div class="pricing-features">
           <ul>
-            <li><i class="fas fa-check"></i> 8 cours par mois</li>
-            <li><i class="fas fa-check"></i> Accès au programme fondamentaux</li>
-            <li><i class="fas fa-check"></i> Environnement adapté aux débutants</li>
-            <li><i class="fas fa-check"></i> Accès aux vestiaires</li>
+            <li><i class="fas fa-check"></i> Cours illimités à l'intérieur d'une période de 1 mois</li>
+            <li><i class="fas fa-check"></i> Accès au programmes Gi, No-Gi, Fondamentaux et Compétition</li>
+            <li><i class="fas fa-check"></i> Environnement sécuritaire et adapté pour tous</li>
+            <li><i class="fas fa-check"></i> Accès aux vestiaires et salles de bains</li>
             <li><i class="fas fa-check"></i> Suivi des progrès</li>
           </ul>
         </div>
@@ -52,19 +52,57 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         </div>
       </div>
       
-      <!-- Unlimited -->
+      <!-- Forfait au mois adolescents de 14 à 17 ans -->
       <div class="pricing-card featured">
         <div class="featured-badge">Plus Populaire</div>
         <div class="pricing-header">
           <h3>Illimité</h3>
           <div class="price">
             <span class="currency">$</span>
-            <span class="amount">180</span>
+            <span class="amount">110</span>
             <span class="period">/mois</span>
           </div>
           <p class="pricing-description">Accès complet à tous les programmes</p>
         </div>
         
+        <div class="pricing-features">
+          <ul>
+            <li><i class="fas fa-check"></i> Cours illimités à l'intérieur d'une période de 1 mois</li>
+            <li><i class="fas fa-check"></i> Accès au programmes Gi, No-Gi, Fondamentaux et Compétition</li>
+            <li><i class="fas fa-check"></i> Environnement sécuritaire et adapté pour tous</li>
+            <li><i class="fas fa-check"></i> Accès aux vestiaires et salles de bains</li>
+            <li><i class="fas fa-check"></i> Suivi des progrès</li>
+          </ul>
+        </div>
+        
+        <div class="pricing-footer">
+          <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-outline btn-large">Essai Gratuit</a>
+        </div>
+      </div>
+
+      <!-- Forfait période de 6 mois -->
+      <div class="pricing-card featured">
+        <div class="featured-badge">Plus Populaire</div>
+        <div class="pricing-header">
+          <h3>Illimité</h3>
+          <div class="price">
+            <span class="currency">$</span>
+            <span class="amount">739.50</span>
+            <span class="period">/mois</span>
+          </div>
+          <p class="pricing-description">Accès complet à tous les programmes. Un paiement seulement</p>
+        </div>
+        
+        <div class="pricing-features">
+          <ul>
+            <li><i class="fas fa-check"></i> Cours illimités à l'intérieur d'une période de 6 mois</li>
+            <li><i class="fas fa-check"></i> Accès au programmes Gi, No-Gi, Fondamentaux et Compétition</li>
+            <li><i class="fas fa-check"></i> Environnement sécuritaire et adapté pour tous</li>
+            <li><i class="fas fa-check"></i> Accès aux vestiaires et salles de bains</li>
+            <li><i class="fas fa-check"></i> Suivi des progrès</li>
+          </ul>
+        </div>
+
         <div class="pricing-features">
           <ul>
             <li><i class="fas fa-check"></i> Cours illimités</li>
@@ -87,7 +125,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
           <h3>Cours à l'unité</h3>
           <div class="price">
             <span class="currency">$</span>
-            <span class="amount">30</span>
+            <span class="amount">20</span>
             <span class="period">/cours</span>
           </div>
           <p class="pricing-description">Option flexible pour les visiteurs</p>
@@ -119,35 +157,22 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         <div class="special-card">
           <h3>Programme Enfants</h3>
           <div class="special-price">90$/mois</div>
-          <p>Âges 5-13 ans, 2 cours par semaine</p>
+          <p>Âges 6-13 ans, 3 cours par semaine</p>
           <ul>
             <li>Curriculum adapté à l'âge</li>
             <li>Focus sur le développement du caractère</li>
-            <li>Techniques anti-intimidation</li>
+            <li>Exercices de motricité</li>
             <li>Cours amusants et engageants</li>
           </ul>
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline">En Savoir Plus</a>
         </div>
         
         <div class="special-card">
-          <h3>Cours Femmes</h3>
-          <div class="special-price">140$/mois</div>
-          <p>Environnement féminin uniquement, accès illimité</p>
-          <ul>
-            <li>Atmosphère de soutien</li>
-            <li>Instructrices féminines</li>
-            <li>Focus sur l'autodéfense</li>
-            <li>Tous niveaux bienvenus</li>
-          </ul>
-          <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline">En Savoir Plus</a>
-        </div>
-        
-        <div class="special-card">
           <h3>Cours Privés</h3>
-          <div class="special-price">100$/heure</div>
+          <div class="special-price">Coût variable dépendemment de l'instructeur</div>
           <p>Instruction individuelle</p>
           <ul>
-            <li>Curriculum personnalisé</li>
+            <li>Plan d'apprentissage  personnalisé</li>
             <li>Apprentissage accéléré</li>
             <li>Horaire flexible</li>
             <li>Préparation aux compétitions</li>
@@ -163,29 +188,13 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
       <h2>Rabais Disponibles</h2>
       
       <div class="discount-grid">
-        <div class="discount-item">
-          <i class="fas fa-graduation-cap"></i>
-          <h4>Étudiants</h4>
-          <p>15% de rabais avec carte étudiante valide</p>
-        </div>
-        
-        <div class="discount-item">
-          <i class="fas fa-shield-alt"></i>
-          <h4>Militaires & Premiers Répondants</h4>
-          <p>20% de rabais avec ID valide</p>
-        </div>
         
         <div class="discount-item">
           <i class="fas fa-users"></i>
           <h4>Plans Familiaux</h4>
-          <p>10% de rabais pour 2+ membres de famille</p>
+          <p>325$ par mois</p>
         </div>
         
-        <div class="discount-item">
-          <i class="fas fa-calendar-alt"></i>
-          <h4>Paiement Annuel</h4>
-          <p>2 mois gratuits en payant annuellement</p>
-        </div>
       </div>
     </div>
     
