@@ -33,7 +33,7 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
             <div class="class-time">17:30 - 18:15</div>
             <div class="class-info">
               <div class="class-name">Cours enfants</div>
-              <div class="class-level">6 à 14 years ans</div>
+              <div class="class-level">6 à 14 ans</div>
             </div>
           </div>
           <div class="class-item">
@@ -58,7 +58,7 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
         <h3>Mardi</h3>
         <div class="class-list">
           <div class="class-item">
-            <div class="class-time">Pas de cours</div>
+            <div class="class-time"></div>
             <div class="class-info">
               <div class="class-name">Jours de repos</div>
               <div class="class-level">Le gym est fermé</div>
