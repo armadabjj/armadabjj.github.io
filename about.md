@@ -156,7 +156,7 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
         </div>
         
         <div class="timeline-item">
-          <div class="timeline-year">2024</div>
+          <div class="timeline-year">2025</div>
           <div class="timeline-content">
             <h3>Aujourd'hui</h3>
             <p>Plus de 30 membres actifs le premier mois et une communauté BJJ florissante au service de tous les niveaux et âges.</p>
