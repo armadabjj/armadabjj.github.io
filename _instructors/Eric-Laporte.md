@@ -3,7 +3,7 @@ layout: instructor
 name: "Eric Laporte"
 rank: "Ceinture noire 1er degré"
 specialties: ["No-Gi", "Gi"]
-experience: "13 years"
+experience: "13 ans"
 certifications:
   - "Certification Instructeur FQJJB"
   - "Certification Instructeur Association Canadienne des Entraîneurs"
