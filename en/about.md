@@ -136,18 +136,18 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
       
       <div class="timeline">
         <div class="timeline-item">
-          <div class="timeline-year">September 2025</div>
+          <div class="timeline-year">2025</div>
           <div class="timeline-content">
             <h3>Foundation</h3>
-            <p>Armada BJJ started using the facilities at Speedy Gym in Granby, with the vision of building an inclusive and high quality BJJ community.</p>
+            <p>In September, the founding members and a goup of close friends register the banner Armada Jiu-Jitsu. From this point, they started using the facilities at Speedy Gym in Granby, with the vision of building an inclusive and high quality BJJ community.</p>
           </div>
         </div>
         
         <div class="timeline-item">
-          <div class="timeline-year">December 2025</div>
+          <div class="timeline-year">2025</div>
           <div class="timeline-content">
             <h3>Expansion</h3>
-            <p>Armada Jiu-Jitsu opens its doors, the vision finally takes shape.</p>
+            <p>In December, Armada Jiu-Jitsu opens its doors, the vision of the founders and members finally takes shape.</p>
           </div>
         </div>
         

@@ -108,7 +108,7 @@ description: "Get in touch with Armada BJJ. Book your free trial class, ask ques
               <i class="fas fa-phone"></i>
             </div>
             <h3>Call Us</h3>
-            <p><a href="tel:+15551234567">(555) 123-4567</a></p>
+            <p><a href="tel:+14505589923">(450) 558-9923</a></p>
             <p>Call us for immediate assistance or to schedule a visit</p>
           </div>
           
@@ -117,7 +117,7 @@ description: "Get in touch with Armada BJJ. Book your free trial class, ask ques
               <i class="fas fa-envelope"></i>
             </div>
             <h3>Email Us</h3>
-            <p><a href="mailto:contact@armadabjj.com">contact@armadabjj.com</a></p>
+            <p><a href="mailto:info@armadabjj.com">info@armadabjj.com</a></p>
             <p>We typically respond within 24 hours</p>
           </div>
           

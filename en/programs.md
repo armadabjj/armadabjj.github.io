@@ -60,8 +60,8 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
     <div class="program-detail" id="BJJ Gi">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.Gi.title }}</h2>
-          <p class="program-description">{{ t.programs.Gi.description }}</p>
+          <h2>{{ t.programs.BJJ Gi.title }}</h2>
+          <p class="program-description">{{ t.programs.BJJ Gi.description }}</p>
           
           <div class="program-features">
             <h3>Training Focus:</h3>
@@ -138,7 +138,7 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
           <p class="program-description">{{ t.programs.competition.description }}</p>
           
           <div class="program-features">
-            <h3>Preperation for Competition Focus:</h3>
+            <h3>Focus: Preparation for competition</h3>
             <ul>
               <li>Competition rules</li>
               <li>Point system</li>

@@ -26,7 +26,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <p class="program-description">{{ t.programs.beginners.description }}</p>
           
           <div class="program-features">
-            <h3>Ce que vous apprendrez :</h3>
+            <h3>Ce que vous apprendrez:</h3>
             <ul>
               <li>Positions de base et échappements</li>
               <li>Soumissions fondamentales</li>
@@ -101,7 +101,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <p class="program-description">{{ t.programs.No-Gi.description }}</p>
           
           <div class="program-features">
-            <h3>Focus sans Gi :</h3>
+            <h3>Focus entraînement sans Gi:</h3>
             <ul>
               <li>Projections basées sur la lutte</li>
               <li>Systèmes de clés de jambes</li>
@@ -138,7 +138,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <p class="program-description">{{ t.programs.Competition.description }}</p>
           
           <div class="program-features">
-            <h3>Focus préparation à la compétition :</h3>
+            <h3>Focus: préparation à la compétition</h3>
             <ul>
               <li>Règles de compétition</li>
               <li>Systèmes de pointages</li>
