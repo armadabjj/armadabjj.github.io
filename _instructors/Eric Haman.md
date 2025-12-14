@@ -3,7 +3,7 @@ layout: instructor
 name: "Eric Haman"
 rank: "Brown Belt"
 specialties: ["Gi, No-Gi,"]
-experience: "9 ans"
+experience: "9 years"
 certifications:
 image: "/assets/images/instructors/sofia-rodriguez.jpg"
 social:

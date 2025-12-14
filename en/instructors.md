@@ -19,7 +19,7 @@ description: "Meet our Brazilian Jiu-Jitsu instructors at Armada BJJ. Experience
   <div class="wrapper">
     
     <div class="section-intro">
-      <h2>World-Class Instruction</h2>
+      <h2>Focused and Dedicated Instruction</h2>
       <p>Our instructors are not just skilled practitioners—they're dedicated teachers who are passionate about sharing the art of Brazilian Jiu-Jitsu. Each brings unique expertise and a commitment to helping students achieve their goals.</p>
     </div>
     
