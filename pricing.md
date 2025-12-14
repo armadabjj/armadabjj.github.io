@@ -82,7 +82,6 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
 
       <!-- Forfait période de 6 mois -->
       <div class="pricing-card featured">
-        <div class="featured-badge">Plus Populaire</div>
         <div class="pricing-header">
           <h3>Forfait période de 6 mois</h3>
           <div class="price">
@@ -174,7 +173,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         <div class="special-card">
           <h3>Programme Enfants</h3>
           <div class="special-price">90$/mois</div>
-          <p>Âges 6-13 ans, 3 cours par semaine</p>
+          <p>Âges 6-14 ans, 3 cours par semaine</p>
           <ul>
             <li>Curriculum adapté à l'âge</li>
             <li>Focus sur le développement du caractère</li>
