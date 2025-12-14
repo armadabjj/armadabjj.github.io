@@ -4,10 +4,12 @@ name: "Eric Haman"
 rank: "Brown Belt"
 specialties: ["Gi, No-Gi,"]
 experience: "9 years"
+certifications:
 image: "/assets/images/instructors/sofia-rodriguez.jpg"
 social:
   instagram: "hericaman1"
-languages: ["English", "French"]
+  facebook: "Eric Haman"
+languages: ["English", "Français"]
 bio_en: |
   I began martial arts at seventeen, after spending my childhood in team sports. I played competitive hockey for many years, and that experience shaped the team-focused mindset I still carry today. Even though jiu-jitsu is often seen as an individual sport, I believe that helping each other, pushing each other, and growing together is what truly elevates us.
 
