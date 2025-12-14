@@ -119,6 +119,45 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         </div>
       </div>
       
+     <!-- Forfait période de 12 mois -->
+      <div class="pricing-card featured">
+        <div class="featured-badge">Plus Populaire</div>
+        <div class="pricing-header">
+          <h3>Forfait période de 12 mois</h3>
+          <div class="price">
+            <span class="currency">$</span>
+            <span class="amount">1392</span>
+            <span class="period">/mois</span>
+          </div>
+          <p class="pricing-description">Accès complet à tous les programmes. Un paiement seulement</p>
+        </div>
+        
+        <div class="pricing-features">
+          <ul>
+            <li><i class="fas fa-check"></i> Cours illimités à l'intérieur d'une période de 6 mois</li>
+            <li><i class="fas fa-check"></i> Accès au programmes Gi, No-Gi, Fondamentaux et Compétition</li>
+            <li><i class="fas fa-check"></i> Environnement sécuritaire et adapté pour tous</li>
+            <li><i class="fas fa-check"></i> Accès aux vestiaires et salles de bains</li>
+            <li><i class="fas fa-check"></i> Suivi des progrès</li>
+          </ul>
+        </div>
+
+        <div class="pricing-features">
+          <ul>
+            <li><i class="fas fa-check"></i> Cours illimités</li>
+            <li><i class="fas fa-check"></i> Accès à tous les programmes</li>
+            <li><i class="fas fa-check"></i> Sessions de mat libre</li>
+            <li><i class="fas fa-check"></i> Douches disponibles</li>
+            <li><i class="fas fa-check"></i> Réservation prioritaire</li>
+            <li><i class="fas fa-check"></i> Éligibilité équipe de compétition</li>
+          </ul>
+        </div>
+        
+        <div class="pricing-footer">
+          <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Essai Gratuit</a>
+        </div>
+      </div>
+
       <!-- Drop-In -->
       <div class="pricing-card">
         <div class="pricing-header">
