@@ -19,7 +19,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
   <div class="wrapper">
     
     <div class="pricing-intro">
-      <h2>Aucuns Frais Cachés.</h2>
+      <h2>Choisissez votre forfait.</h2>
       <p>Nous croyons en une tarification transparente et équitable qui met vos besoins en premier. Tous les abonnements incluent l'accès à notre gamme complète de cours et d'installations.</p>
     </div>
     
@@ -56,7 +56,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
       <div class="pricing-card featured">
         <div class="featured-badge">Plus Populaire</div>
         <div class="pricing-header">
-          <h3>Illimité</h3>
+          <h3>Adolescents de 14 à 17 ans</h3>
           <div class="price">
             <span class="currency">$</span>
             <span class="amount">110</span>
@@ -84,7 +84,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
       <div class="pricing-card featured">
         <div class="featured-badge">Plus Populaire</div>
         <div class="pricing-header">
-          <h3>Illimité</h3>
+          <h3>Forfait période de 6 mois</h3>
           <div class="price">
             <span class="currency">$</span>
             <span class="amount">739.50</span>
