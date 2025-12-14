@@ -24,7 +24,7 @@ description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez
       <div class="trial-section" id="trial">
         <div class="trial-card">
           <h2>{{ t.nav.try_free }}</h2>
-          <p>Vivez l'instruction de Jiu-Jitsu Brésilien de classe mondiale sans engagement. Votre premier cours est complètement gratuit !</p>
+          <p>Vivez l'instruction de Jiu-Jitsu Brésilien avec l'équipe de Armada! Votre premier cours est complètement gratuit !</p>
           
           <div class="trial-benefits">
             <div class="benefit">
@@ -37,7 +37,7 @@ description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez
             </div>
             <div class="benefit">
               <i class="fas fa-check-circle"></i>
-              <span>Voyez nos installations modernes</span>
+              <span>Voyez nos installations propres</span>
             </div>
             <div class="benefit">
               <i class="fas fa-check-circle"></i>
@@ -99,8 +99,8 @@ description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez
               <i class="fas fa-map-marker-alt"></i>
             </div>
             <h3>Visitez-Nous</h3>
-            <p>123 Rue Principale<br>Votre Ville, VC 12345</p>
-            <a href="https://maps.google.com/?q=123+Rue+Principale+Votre+Ville" target="_blank" class="btn btn-outline">Obtenir Directions</a>
+            <p>166 Rue Cowie local 200<br>Votre Ville, VC 12345</p>
+            <a href="https://maps.app.goo.gl/f187q3MoqVdZPePL6" target="_blank" class="btn btn-outline">Obtenir Directions</a>
           </div>
           
           <div class="contact-card">
@@ -108,7 +108,7 @@ description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez
               <i class="fas fa-phone"></i>
             </div>
             <h3>Appelez-Nous</h3>
-            <p><a href="tel:+15551234567">(555) 123-4567</a></p>
+            <p><a href="tel:+14505589923">(450) 558-9923</a></p>
             <p>Appelez-nous pour une assistance immédiate ou pour planifier une visite</p>
           </div>
           
@@ -117,7 +117,7 @@ description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez
               <i class="fas fa-envelope"></i>
             </div>
             <h3>Écrivez-Nous</h3>
-            <p><a href="mailto:contact@armadabjj.com">contact@armadabjj.com</a></p>
+            <p><a href="mailto:info@armadabjj.com">info@armadabjj.com</a></p>
             <p>Nous répondons généralement dans les 24 heures</p>
           </div>
           
@@ -134,10 +134,6 @@ description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez
               <div class="hour-item">
                 <span>Samedi</span>
                 <span>8h00 - 18h00</span>
-              </div>
-              <div class="hour-item">
-                <span>Dimanche</span>
-                <span>10h00 - 16h00</span>
               </div>
             </div>
           </div>
@@ -187,9 +183,7 @@ description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez
           <h3>Détails de l'Emplacement</h3>
           <ul>
             <li><i class="fas fa-car"></i> Stationnement gratuit disponible</li>
-            <li><i class="fas fa-bus"></i> Accessible par transport en commun</li>
-            <li><i class="fas fa-wheelchair"></i> Entrée accessible en fauteuil roulant</li>
-            <li><i class="fas fa-shower"></i> Vestiaires et douches</li>
+            <li><i class="fas fa-shower"></i> Vestiaires et salles de bains</li>
           </ul>
         </div>
       </div>

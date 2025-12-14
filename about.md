@@ -20,13 +20,13 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
     <div class="about-hero-content">
       <div class="about-text">
         <h2>Bienvenue chez Armada BJJ</h2>
-        <p>Fondé en 2018, Armada BJJ est plus qu'un simple gym de Jiu-Jitsu Brésilien - c'est une communauté dédiée à l'excellence, au respect mutuel et à la croissance personnelle. Notre nom "Armada" reflète notre esprit d'équipe et notre approche collective vers la maîtrise de cet art martial.</p>
+        <p>Fondé en 2025, Armada BJJ est plus qu'un simple gym de Jiu-Jitsu Brésilien - c'est une communauté dédiée à l'excellence, au respect mutuel et à la croissance personnelle. Notre nom "Armada" reflète notre esprit d'équipe et notre approche collective vers la maîtrise de cet art martial.</p>
         
-        <p>Situé au cœur de la ville, notre dojo state-of-the-art offre un environnement sûr et accueillant pour les pratiquants de tous niveaux. Que vous soyez un débutant complet ou un compétiteur expérimenté, vous trouverez votre place dans notre famille BJJ.</p>
+        <p>Situé au cœur de la ville, notre dojo offre un environnement sécuritaire et accueillant pour les pratiquants de tous niveaux. Que vous soyez un débutant complet ou un compétiteur expérimenté, vous trouverez votre place dans notre famille BJJ.</p>
         
         <div class="mission-statement">
           <h3>Notre Mission</h3>
-          <p>Enseigner le Jiu-Jitsu Brésilien authentique tout en développant la confiance en soi, la discipline et les liens communautaires. Nous nous engageons à créer un environnement où chaque étudiant peut atteindre son plein potentiel.</p>
+          <p>Enseigner le Jiu-Jitsu Brésilien moderne tout en développant la confiance en soi, la discipline et les liens communautaires. Nous nous engageons à créer un environnement où chaque étudiant peut atteindre son plein potentiel.</p>
         </div>
       </div>
       
@@ -115,13 +115,13 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
       <div class="facility-item">
         <i class="fas fa-shower"></i>
         <h3>Vestiaires Complets</h3>
-        <p>Vestiaires spacieux avec douches, casiers sécurisés et toutes les commodités dont vous avez besoin.</p>
+        <p>Vestiaires fermés, pour hommes et femmes, et salles de bains.</p>
       </div>
       
       <div class="facility-item">
         <i class="fas fa-dumbbell"></i>
         <h3>Équipement d'Entraînement</h3>
-        <p>Équipement de conditionnement physique et d'entraînement supplémentaire pour compléter votre pratique du BJJ.</p>
+        <p>Équipement de conditionnement physique et d'entraînement supplémentaire avec entraîneur pour compléter votre pratique du BJJ et 2 salles de traitements avec soins de massothérapie, ortothérapie, naturothérapie et kinésithérapie.</p>
       </div>
       
       <div class="facility-item">
@@ -140,34 +140,18 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
       
       <div class="timeline">
         <div class="timeline-item">
-          <div class="timeline-year">2018</div>
+          <div class="timeline-year">Septembre 2025</div>
           <div class="timeline-content">
             <h3>Fondation</h3>
-            <p>Armada BJJ ouvre ses portes avec la vision de créer une communauté BJJ inclusive et de haute qualité.</p>
+            <p>Armada BJJ occupe les installations du Speedy Gym de Granby, avec la vision de créer une communauté BJJ inclusive et de haute qualité.</p>
           </div>
         </div>
         
         <div class="timeline-item">
-          <div class="timeline-year">2019</div>
+          <div class="timeline-year">Décembre 2025</div>
           <div class="timeline-content">
             <h3>Expansion</h3>
-            <p>Ajout de programmes spécialisés pour enfants et femmes, ainsi que des cours de No-Gi.</p>
-          </div>
-        </div>
-        
-        <div class="timeline-item">
-          <div class="timeline-year">2020</div>
-          <div class="timeline-content">
-            <h3>Adaptation</h3>
-            <p>Innovation avec des classes en ligne et des protocoles de sécurité pour maintenir la communauté unie.</p>
-          </div>
-        </div>
-        
-        <div class="timeline-item">
-          <div class="timeline-year">2021</div>
-          <div class="timeline-content">
-            <h3>Croissance</h3>
-            <p>Expansion de nos installations et ajout d'instructeurs supplémentaires pour répondre à la demande croissante.</p>
+            <p>Armada Jiu-Jitsu ouvre ses portes sur la rue Cowie, la vision prend enfin forme.</p>
           </div>
         </div>
         
@@ -175,7 +159,7 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
           <div class="timeline-year">2024</div>
           <div class="timeline-content">
             <h3>Aujourd'hui</h3>
-            <p>Plus de 200 membres actifs et une communauté BJJ florissante au service de tous les niveaux et âges.</p>
+            <p>Plus de 30 membres actifs le premier mois et une communauté BJJ florissante au service de tous les niveaux et âges.</p>
           </div>
         </div>
       </div>
