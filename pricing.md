@@ -25,10 +25,10 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
     
     <div class="pricing-grid">
       
-      <!-- Forfait au mois adultes -->
+      <!-- Forfait par mois adultes -->
       <div class="pricing-card">
         <div class="pricing-header">
-          <h3>Forfait par mois</h3>
+          <h3>Forfait par mois adultes</h3>
           <div class="price">
             <span class="currency">$</span>
             <span class="amount">145</span>
@@ -52,10 +52,10 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         </div>
       </div>
       
-      <!-- Forfait au mois adolescents de 14 à 17 ans -->
-      <div class="pricing-card featured">
+       <!-- Forfait au mois adolescents de 14 à 17 ans -->
+       <div class="pricing-card featured">
         <div class="featured-badge">Plus Populaire</div>
-        <div class="pricing-header">
+         <div class="pricing-header">
           <h3>Adolescents de 14 à 17 ans</h3>
           <div class="price">
             <span class="currency">$</span>
