@@ -19,7 +19,7 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
   <div class="wrapper">
     
     <div class="schedule-intro">
-      <h2>Cours pour tous les miveaux</h2>
+      <h2>Cours pour tous les niveaux</h2>
       <p>Notre horaire flexible offre des cours pour gens de tous les niveaux tout au long de la semaine. Tous nos cours sont enseignés par des instructeurs qualifiés et certifiés.</p>
     </div>
     

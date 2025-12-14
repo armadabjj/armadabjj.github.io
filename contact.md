@@ -99,7 +99,7 @@ description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez
               <i class="fas fa-map-marker-alt"></i>
             </div>
             <h3>Visitez-Nous</h3>
-            <p>166 Rue Cowie local 200<br>Votre Ville, VC 12345</p>
+            <p>166 Rue Cowie local 200<br>Granby, QC</p>
             <a href="https://maps.app.goo.gl/f187q3MoqVdZPePL6" target="_blank" class="btn btn-outline">Obtenir Directions</a>
           </div>
           
