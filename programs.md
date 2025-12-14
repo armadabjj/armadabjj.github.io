@@ -60,8 +60,8 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
     <div class="program-detail" id="BJJ Gi">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.Gi.title }}</h2>
-          <p class="program-description">{{ t.programs.Gi.description }}</p>
+          <h2>{{ t.programs.BJJ Gi.title }}</h2>
+          <p class="program-description">{{ t.programs.BJJ Gi.description }}</p>
           
           <div class="program-features">
             <h3>Focus d'entraînement avec Gi:</h3>
@@ -78,7 +78,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
               <strong>Tenue :</strong> Gi (Kimono)
             </div>
             <div class="detail-item">
-              <strong>Horaire :</strong> Lundi 19:30, Jeudi 19:15
+              <strong>Horaire :</strong> Lundi 18:15, Jeudi 19:15
             </div>
             <div class="detail-item">
               <strong>Prérequis :</strong> Ouvert à tous
@@ -101,7 +101,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <p class="program-description">{{ t.programs.No-Gi.description }}</p>
           
           <div class="program-features">
-            <h3>Focus Sans Gi :</h3>
+            <h3>Focus sans Gi :</h3>
             <ul>
               <li>Projections basées sur la lutte</li>
               <li>Systèmes de clés de jambes</li>

@@ -78,14 +78,14 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
               <strong>Attire:</strong> Gi (Kimono)
             </div>
             <div class="detail-item">
-              <strong>Schedule:</strong> Monday 19:30 and Thursday 19:15
+              <strong>Schedule:</strong> Monday 18:15 and Thursday 19:15
             </div>
             <div class="detail-item">
               <strong>Requirements:</strong> No experience necessary
             </div>
           </div>
           
-          <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Join Advanced Training</a>
+          <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Join Gi</a>
         </div>
         <div class="program-image">
           <img src="{{ '/assets/images/advanced-class.jpg' | relative_url }}" alt="Advanced Class">

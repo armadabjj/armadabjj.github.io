@@ -19,14 +19,14 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
   <div class="wrapper">
     <div class="about-hero-content">
       <div class="about-text">
-        <h2>Bienvenue chez Armada BJJ</h2>
-        <p>Fondé en 2025, Armada BJJ est plus qu'un simple gym de Jiu-Jitsu Brésilien - c'est une communauté dédiée à l'excellence, au respect mutuel et à la croissance personnelle. Notre nom "Armada" reflète notre esprit d'équipe et notre approche collective vers la maîtrise de cet art martial.</p>
+        <h2>Welcome to Armada BJJ</h2>
+        <p>Founded in 2025, Armada Jiu-Jitsu is not only a training facility, it's a community dedicated to excellence, mutual respect and personnal growth. The name "Armada" reflects our team spirit and collective approach towards mastering this complex martial art and facing challenges as a team.</p>
         
-        <p>Situé au cœur de la ville, notre dojo state-of-the-art offre un environnement sûr et accueillant pour les pratiquants de tous niveaux. Que vous soyez un débutant complet ou un compétiteur expérimenté, vous trouverez votre place dans notre famille BJJ.</p>
+        <p>Located in the heart of the city of Granby, our dojo offers a safe and welcoming environment for pactitionners of all levels. Regardless of if you are a beginner or an experienced competitor, if our values align with yours, you will be welcomed and find a place in our BJJ family.</p>
         
         <div class="mission-statement">
-          <h3>Notre Mission</h3>
-          <p>Enseigner le Jiu-Jitsu Brésilien moderne tout en développant la confiance en soi, la discipline et les liens communautaires. Nous nous engageons à créer un environnement où chaque étudiant peut atteindre son plein potentiel.</p>
+          <h3>Our mission</h3>
+          <p>Teach Brazilian Jiu-Jitsu, while building self confidence, discipline and to build a community. We look to build an environment where each student can reach his full potential.</p>
         </div>
       </div>
       
@@ -41,31 +41,31 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
 
 <section class="values-section">
   <div class="wrapper">
-    <h2>Nos Valeurs</h2>
+    <h2>Our values</h2>
     
     <div class="values-grid">
       <div class="value-card">
         <i class="fas fa-handshake"></i>
         <h3>Respect</h3>
-        <p>Le respect mutuel est la base de tout apprentissage. Nous honorons nos instructeurs, nos partenaires d'entraînement et l'art du BJJ lui-même.</p>
+        <p>Mutual respect is the foundation of learning as a team. We value our instructors, our teammates, the gym and the BJJ art.</p>
       </div>
       
       <div class="value-card">
         <i class="fas fa-graduation-cap"></i>
-        <h3>Apprentissage</h3>
-        <p>Chaque jour sur le tatami est une opportunité d'apprendre quelque chose de nouveau. Nous encourageons la curiosité et la croissance continue.</p>
+        <h3>Continuous learning</h3>
+        <p>Each day on the mats, each session, is an opportunity to learn something new. We support and favor curiosity and continuous growth.</p>
       </div>
       
       <div class="value-card">
         <i class="fas fa-users"></i>
-        <h3>Communauté</h3>
-        <p>Nous sommes une famille unie par la passion du BJJ. Ensemble, nous nous soutenons, nous nous challengeons et nous célébrons nos succès.</p>
+        <h3>Community</h3>
+        <p>We are a family, bound by a common passion that is BJJ. Together, we support, challenge and celebrate our success with each other.</p>
       </div>
       
       <div class="value-card">
         <i class="fas fa-medal"></i>
         <h3>Excellence</h3>
-        <p>Nous visons l'excellence technique et personnelle, toujours en quête d'amélioration et de maîtrise de notre art.</p>
+        <p>We are focused in reaching technical and personnal excellence in our quest towards progress and mastery of our art.</p>
       </div>
     </div>
   </div>
@@ -74,28 +74,24 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
 <section class="philosophy-section">
   <div class="wrapper">
     <div class="philosophy-content">
-      <h2>Notre Philosophie</h2>
+      <h2>Our philosophy</h2>
       
       <div class="philosophy-grid">
         <div class="philosophy-item">
-          <h3>Technique avant Force</h3>
-          <p>Le Jiu-Jitsu Brésilien nous enseigne que la technique et la leverage peuvent triompher de la force brute. Cette philosophie s'étend au-delà du tatami dans tous les aspects de la vie.</p>
+          <h3>Technique before strenght</h3>
+          <p>Jiu-Jitsu teaches that technique and leaverage can triumph over brute force. We think that this philosophy can extend further that just the gym, but in many spheres of our lives.</p>
         </div>
         
         <div class="philosophy-item">
-          <h3>Progression Individuelle</h3>
-          <p>Chaque étudiant progresse à son propre rythme. Nous célébrons les victoires personnelles, grandes et petites, et reconnaissons que le voyage est unique pour chacun.</p>
+          <h3>Individual progression</h3>
+          <p>Each student progresses at a different pace. We celebrate each step forward, acknowledging that the journey is different for all of us.</p>
         </div>
         
         <div class="philosophy-item">
-          <h3>Humilité dans la Victoire</h3>
-          <p>Le BJJ nous enseigne l'humilité. Peu importe votre niveau, il y a toujours quelqu'un qui peut vous enseigner quelque chose de nouveau.</p>
+          <h3>Humility</h3>
+          <p>BJJ teaches humility in both defeat and in winning. Regardless of your level, there is always someone who can teach you and help you improve.</p>
         </div>
-        
-        <div class="philosophy-item">
-          <h3>Persévérance dans l'Adversité</h3>
-          <p>Les défis sur le tatami nous préparent aux défis de la vie. Nous apprenons à rester calmes sous pression et à trouver des solutions créatives.</p>
-        </div>
+      
       </div>
     </div>
   </div>
@@ -103,31 +99,31 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
 
 <section class="facilities-section">
   <div class="wrapper">
-    <h2>Nos Installations</h2>
+    <h2>Our facilities</h2>
     
     <div class="facilities-grid">
       <div class="facility-item">
         <i class="fas fa-home"></i>
-        <h3>Tatami Professionnel</h3>
-        <p>Plus de 1000 pieds carrés de surface d'entraînement avec tatami de qualité professionnelle pour votre sécurité et confort.</p>
+        <h3>High quality mats</h3>
+        <p>Over 1000 square feet of clean, professionnal quality mats for your safety and comfort.</p>
       </div>
       
       <div class="facility-item">
         <i class="fas fa-shower"></i>
-        <h3>Vestiaires Complets</h3>
-        <p>Vestiaires fermés, pour hommes et femmes, et salles de bains.</p>
+        <h3>Changing rooms</h3>
+        <p>Closed changing rooms, for both men and women, along with clean bathrooms.</p>
       </div>
       
       <div class="facility-item">
         <i class="fas fa-dumbbell"></i>
-        <h3>Équipement d'Entraînement</h3>
-        <p>Équipement de conditionnement physique et d'entraînement supplémentaire avec entraîneur pour compléter votre pratique du BJJ et 2 salles de traitements avec soins de massothérapie, ortothérapie, naturothérapie et kinésithérapie.</p>
+        <h3>Training equipment</h3>
+        <p>Professionnal training equipment, supported by a certified conditionning instructor to guide you into adding to your BJJ training. We also have a treatment room with a certified therapist in Massage, Orthotherapy, Kinesitherapy and Naturotherapy to heal and help you.</p>
       </div>
       
       <div class="facility-item">
         <i class="fas fa-parking"></i>
-        <h3>Stationnement Gratuit</h3>
-        <p>Stationnement gratuit et facilement accessible pour tous nos membres et visiteurs.</p>
+        <h3>Free parking</h3>
+        <p>Free parking space is available for all our members and visitors.</p>
       </div>
     </div>
   </div>
@@ -136,30 +132,30 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
 <section class="history-section">
   <div class="wrapper">
     <div class="history-content">
-      <h2>Notre Histoire</h2>
+      <h2>Our history</h2>
       
       <div class="timeline">
         <div class="timeline-item">
-          <div class="timeline-year">Septembre 2025</div>
+          <div class="timeline-year">September 2025</div>
           <div class="timeline-content">
-            <h3>Fondation</h3>
-            <p>Armada BJJ occupe les installations du Speedy Gym de Granby, avec la vision de créer une communauté BJJ inclusive et de haute qualité.</p>
+            <h3>Foundation</h3>
+            <p>Armada BJJ started using the facilities at Speedy Gym in Granby, with the vision of building an inclusive and high quality BJJ community.</p>
           </div>
         </div>
         
         <div class="timeline-item">
-          <div class="timeline-year">Décembre 2025</div>
+          <div class="timeline-year">December 2025</div>
           <div class="timeline-content">
             <h3>Expansion</h3>
-            <p>Armada Jiu-Jitsu ouvre ses portes sur la rue Cowie, la vision prend enfin forme.</p>
+            <p>Armada Jiu-Jitsu opens its doors, the vision finally takes shape.</p>
           </div>
         </div>
         
         <div class="timeline-item">
           <div class="timeline-year">2025</div>
           <div class="timeline-content">
-            <h3>Aujourd'hui</h3>
-            <p>Plus de 30 membres actifs le premier mois et une communauté BJJ florissante au service de tous les niveaux et âges.</p>
+            <h3>Today</h3>
+            <p>Over 30 members in our first month, a growing BJJ community made of people of all ages and levels.</p>
           </div>
         </div>
       </div>
@@ -170,10 +166,10 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
 <section class="cta-section">
   <div class="wrapper">
     <div class="cta-content">
-      <h2>Rejoignez Notre Famille BJJ</h2>
-      <p>Découvrez pourquoi Armada BJJ est le bon choix pour votre voyage en Jiu-Jitsu Brésilien</p>
+      <h2>Join our BJJ community.</h2>
+      <p>Discover why Armada Jiu-Jitsu is the right place for your journey!</p>
       <div class="cta-buttons">
-        <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Essai Gratuit</a>
+        <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Free trial</a>
         <a href="{{ '/en/instructors/' | relative_url }}" class="btn btn-secondary btn-large">Meet the Team</a>
       </div>
     </div>
