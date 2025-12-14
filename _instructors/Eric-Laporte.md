@@ -2,10 +2,10 @@
 layout: instructor
 name: "Eric Laporte"
 rank: "Black Belt 1st degree"
-specialties: ["No-Gi", "Gi"]
+specialties: ["No-Gi", "Gi",]
 experience: "13 years"
 certifications:
-  - "Certification Instructeur FQJJB"
+  - "Certification Instructeur Chef FQJJB"
   - "Certification Instructeur Association Canadienne des Entraîneurs"
   - "Instructeur BJJ Fanatics"
 image: "/assets/images/instructors/david-chen.jpg"
