@@ -19,8 +19,8 @@ description: "Brazilian Jiu-Jitsu class schedule at Armada BJJ. Find the perfect
   <div class="wrapper">
     
     <div class="schedule-intro">
-      <h2>Cours pour Tous les Niveaux</h2>
-      <p>Notre horaire flexible offre des cours pour débutants, intermédiaires et avancés tout au long de la semaine. Tous nos cours sont enseignés par des instructeurs qualifiés et certifiés.</p>
+      <h2>Classes for everyone</h2>
+      <p>Our flexible scedule offers classes for practitionners of all levels, all throught he week. Our classes are given by certified and qualified instructors.</p>
     </div>
     
     <div class="schedule-grid">
@@ -30,17 +30,17 @@ description: "Brazilian Jiu-Jitsu class schedule at Armada BJJ. Find the perfect
         <h3>Lundi</h3>
         <div class="class-list">
           <div class="class-item">
-            <div class="class-time">6:00 - 7:00</div>
+            <div class="class-time">17:30 - 18:15</div>
             <div class="class-info">
-              <div class="class-name">Fondamentaux</div>
-              <div class="class-level">Débutant</div>
+              <div class="class-name">Kids class</div>
+              <div class="class-level">6 to 14 years old</div>
             </div>
           </div>
           <div class="class-item">
-            <div class="class-time">19:00 - 20:30</div>
+            <div class="class-time">18:15 - 19:30</div>
             <div class="class-info">
-              <div class="class-name">BJJ Tous Niveaux</div>
-              <div class="class-level">Tous niveaux</div>
+              <div class="class-name">BJJ Gi</div>
+              <div class="class-level">All levels</div>
             </div>
           </div>
           <div class="class-item">
