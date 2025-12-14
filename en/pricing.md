@@ -108,6 +108,31 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
         </div>
       </div>
       
+      <!-- 10 classes card -->
+      <div class="pricing-card">
+        <div class="pricing-header">
+          <h3>Drop-In</h3>
+          <div class="price">
+            <span class="currency">$</span>
+            <span class="amount">18</span>
+            <span class="period">/class</span>
+          </div>
+          <p class="pricing-description">Flexible option for visitors</p>
+        </div>
+        
+        <div class="pricing-features">
+          <ul>
+            <li><i class="fas fa-check"></i> 10 single class access</li>
+            <li><i class="fas fa-check"></i> No commitment required</li>
+            <li><i class="fas fa-check"></i> Perfect for travelers</li>
+            <li><i class="fas fa-check"></i> Locker room access</li>
+          </ul>
+        </div>
+        
+        <div class="pricing-footer">
+          <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Book Now</a>
+        </div>
+      </div>
     </div>
     
     <!-- Special Programs -->

@@ -162,6 +162,31 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         </div>
       </div>
       
+      <!-- Carte 10 cours -->
+      <div class="pricing-card">
+        <div class="pricing-header">
+          <h3>10 cours à l'unité</h3>
+          <div class="price">
+            <span class="currency">$</span>
+            <span class="amount">18</span>
+            <span class="period">/cours</span>
+          </div>
+          <p class="pricing-description">Option flexible pour les visiteurs</p>
+        </div>
+        
+        <div class="pricing-features">
+          <ul>
+            <li><i class="fas fa-check"></i> Accès à 10 cours unique</li>
+            <li><i class="fas fa-check"></i> Aucun engagement requis</li>
+            <li><i class="fas fa-check"></i> Parfait pour les voyageurs</li>
+            <li><i class="fas fa-check"></i> Accès aux vestiaires</li>
+          </ul>
+        </div>
+        
+        <div class="pricing-footer">
+          <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Réserver</a>
+        </div>
+      </div>
     </div>
     
     <!-- Special Programs -->
