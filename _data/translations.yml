@@ -1,7 +1,7 @@
 en:
   site_title: "Armada Jiu Jitsu"
   site_tagline: "Premier Brazilian Jiu-Jitsu Academy"
-  site_description: "World-class Brazilian Jiu-Jitsu training in a welcoming, family-friendly environment"
+  site_description: "Brazilian Jiu-Jitsu training in a welcoming, family-friendly environment"
   
   # Navigation
   nav:
@@ -18,7 +18,7 @@ en:
   
   # Homepage
   hero:
-    title: "Elite Brazilian Jiu-Jitsu Training"
+    title: "Brazilian Jiu-Jitsu Training"
     subtitle: "Join Armada BJJ and discover the gentle art in a supportive, professional environment"
     cta_primary: "Start Your Journey"
     cta_secondary: "Learn More"
@@ -42,7 +42,7 @@ en:
       description: "We welcome all levels, from complete beginners to experienced practitioners. Our supportive community helps everyone grow."
     professional:
       title: "Professional"
-      description: "World-class instruction from certified black belts with competition experience and proven teaching methods."
+      description: "Quality instruction from certified black belts with competition experience and proven teaching methods."
     safe:
       title: "Safe"
       description: "Clean, modern facilities with emphasis on safety, proper technique, and injury prevention."
@@ -56,29 +56,29 @@ en:
       title: "Fundamentals"
       description: "Perfect for beginners, this program covers basic positions, movements, and concepts."
     advanced:
-      title: "Advanced Classes"
-      description: "For experienced practitioners looking to refine their technique and compete."
+      title: "Gi"
+      description: "Class in the traditionnal gi for all practitioners looking to learn and refine their technique."
     nogi:
       title: "No-Gi Grappling"
       description: "Fast-paced submission grappling without the traditional gi uniform."
     kids:
-      title: "Kids Program"
+      title: "Kids class"
       description: "Fun, engaging classes that build confidence, discipline, and fitness for young martial artists."
     womens:
-      title: "Women's Classes"
-      description: "Supportive environment designed specifically for women to learn and train together."
+      title: "Competition Class"
+      description: "Class where athletes learn strategy, rules and improve conditionning for competitions."
     open_mat:
       title: "Open Mat"
       description: "Free training time for members to practice techniques and spar."
   
   # Footer
   footer:
-    address: "123 Main Street, Your City"
-    phone: "(555) 123-4567"
+    address: "166 Cowie Street #200, Granby"
+    phone: "(450) 558-9923"
     email: "contact@armadabjj.com"
     hours_title: "Training Hours"
     follow_us: "Follow Us"
-    copyright: "© 2024 Armada BJJ. All rights reserved."
+    copyright: "© 2025 Armada BJJ. All rights reserved."
   
   # Forms
   contact_form:
@@ -107,8 +107,8 @@ en:
 
 fr:
   site_title: "Armada Jiu Jitsu"
-  site_tagline: "Académie Première de Jiu-Jitsu Brésilien"
-  site_description: "Entraînement de classe mondiale de Jiu-Jitsu Brésilien dans un environnement accueillant et familial"
+  site_tagline: "Académie de Jiu-Jitsu Brésilien"
+  site_description: "Entraînement de Jiu-Jitsu Brésilien dans un environnement accueillant et familial"
   
   # Navigation
   nav:
@@ -125,14 +125,14 @@ fr:
   
   # Homepage
   hero:
-    title: "Entraînement Élite de Jiu-Jitsu Brésilien"
-    subtitle: "Rejoignez Armada BJJ et découvrez l'art suave dans un environnement professionnel et accueillant"
+    title: "Entraînement de Jiu-Jitsu Brésilien"
+    subtitle: "Rejoignez Armada BJJ et découvrez notre art martiale dans un environnement professionnel et accueillant"
     cta_primary: "Commencez Votre Parcours"
     cta_secondary: "En Savoir Plus"
   
   about_bjj:
     title: "Qu'est-ce que le Jiu-Jitsu Brésilien?"
-    subtitle: "L'Art Suave"
+    subtitle: ""
     description: "Le Jiu-Jitsu Brésilien est un art martial qui se concentre sur la lutte et le combat au sol. Il vous enseigne à utiliser l'effet de levier et la technique pour vaincre des adversaires plus grands et plus forts."
     benefits:
       - "Compétences d'Auto-Défense"
@@ -149,7 +149,7 @@ fr:
       description: "Nous accueillons tous les niveaux, des débutants complets aux pratiquants expérimentés. Notre communauté soutenante aide chacun à grandir."
     professional:
       title: "Professionnel"
-      description: "Instruction de classe mondiale par des ceintures noires certifiées avec expérience de compétition et méthodes d'enseignement éprouvées."
+      description: "Instruction de qualité par des instructeurs certifiées avec expérience de compétition et méthodes d'enseignement éprouvées."
     safe:
       title: "Sécuritaire"
       description: "Installations propres et modernes avec accent sur la sécurité, la technique appropriée et la prévention des blessures."
@@ -163,29 +163,29 @@ fr:
       title: "Fondamentaux"
       description: "Parfait pour les débutants, ce programme couvre les positions de base, les mouvements et les concepts."
     advanced:
-      title: "Cours Avancés"
-      description: "Pour les pratiquants expérimentés cherchant à affiner leur technique et à compétitionner."
+      title: "Cours Gi"
+      description: "Pour les pratiquants portant l'uniforme gi traditionnel cherchant à apprendre et à affiner leur techniques."
     nogi:
       title: "Grappling Sans Gi"
-      description: "Lutte de soumission rapide sans l'uniforme gi traditionnel."
+      description: "Lutte de soumission sans l'uniforme gi traditionnel."
     kids:
       title: "Programme Enfants"
-      description: "Cours amusants et engageants qui développent la confiance, la discipline et la forme physique pour les jeunes artistes martiaux."
+      description: "Cours amusants et engageants qui développent la confiance, la discipline, la motricité et la forme physique pour les jeunes artistes martiaux."
     womens:
-      title: "Cours Femmes"
-      description: "Environnement de soutien conçu spécifiquement pour que les femmes apprennent et s'entraînent ensemble."
+      title: "Cours compétition"
+      description: "Cours axé sur les stratégies, les règlements et le conditionnement requis pour les athlètes intéressés à compétitionner. Cours en Gi et/ou No-Gi."
     open_mat:
       title: "Tatami Libre"
       description: "Temps d'entraînement libre pour les membres pour pratiquer les techniques et faire des combats."
   
   # Footer
   footer:
-    address: "123 Rue Principale, Votre Ville"
-    phone: "(555) 123-4567"
+    address: "166 rue Cowie #200, Granby"
+    phone: "(450) 558-9923"
     email: "contact@armadabjj.com"
     hours_title: "Heures d'Entraînement"
     follow_us: "Suivez-Nous"
-    copyright: "© 2024 Armada BJJ. Tous droits réservés."
+    copyright: "© 2025 Armada BJJ. Tous droits réservés."
   
   # Forms
   contact_form:
