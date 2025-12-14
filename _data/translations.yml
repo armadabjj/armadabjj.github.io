@@ -52,22 +52,22 @@ en:
   
   programs:
     title: "Our Programs"
-    beginners:
+    Fundamentals:
       title: "Fundamentals"
       description: "Perfect for beginners, this program covers basic positions, movements, and concepts."
-    advanced:
+    Gi:
       title: "Gi"
       description: "Class in the traditionnal gi for all practitioners looking to learn and refine their technique."
-    nogi:
-      title: "No-Gi Grappling"
+    No-gi:
+      title: "No-Gi"
       description: "Fast-paced submission grappling without the traditional gi uniform."
-    kids:
+    Kids:
       title: "Kids class"
       description: "Fun, engaging classes that build confidence, discipline, and fitness for young martial artists."
-    womens:
+    Competition:
       title: "Competition Class"
       description: "Class where athletes learn strategy, rules and improve conditionning for competitions."
-    open_mat:
+    Open_mat:
       title: "Open Mat"
       description: "Free training time for members to practice techniques and spar."
   
@@ -75,7 +75,7 @@ en:
   footer:
     address: "166 Cowie Street #200, Granby"
     phone: "(450) 558-9923"
-    email: "contact@armadabjj.com"
+    email: "info@armadabjj.com"
     hours_title: "Training Hours"
     follow_us: "Follow Us"
     copyright: "© 2025 Armada BJJ. All rights reserved."
@@ -159,22 +159,22 @@ fr:
   
   programs:
     title: "Nos Programmes"
-    beginners:
+    Fondamentaux:
       title: "Fondamentaux"
       description: "Parfait pour les débutants, ce programme couvre les positions de base, les mouvements et les concepts."
-    advanced:
-      title: "Cours Gi"
+    Gi:
+      title: "Gi"
       description: "Pour les pratiquants portant l'uniforme gi traditionnel cherchant à apprendre et à affiner leur techniques."
-    nogi:
-      title: "Grappling Sans Gi"
+    No-gi:
+      title: "No-Gi"
       description: "Lutte de soumission sans l'uniforme gi traditionnel."
-    kids:
+    Enfants:
       title: "Programme Enfants"
       description: "Cours amusants et engageants qui développent la confiance, la discipline, la motricité et la forme physique pour les jeunes artistes martiaux."
-    womens:
+    Compétition:
       title: "Cours compétition"
       description: "Cours axé sur les stratégies, les règlements et le conditionnement requis pour les athlètes intéressés à compétitionner. Cours en Gi et/ou No-Gi."
-    open_mat:
+    Mat libre:
       title: "Tatami Libre"
       description: "Temps d'entraînement libre pour les membres pour pratiquer les techniques et faire des combats."
   
@@ -182,7 +182,7 @@ fr:
   footer:
     address: "166 rue Cowie #200, Granby"
     phone: "(450) 558-9923"
-    email: "contact@armadabjj.com"
+    email: "info@armadabjj.com"
     hours_title: "Heures d'Entraînement"
     follow_us: "Suivez-Nous"
     copyright: "© 2025 Armada BJJ. Tous droits réservés."
