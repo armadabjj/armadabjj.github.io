@@ -60,11 +60,11 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
     <div class="program-detail" id="BJJ Gi">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.BJJ Gi.title }}</h2>
-          <p class="program-description">{{ t.programs.BJJ Gi.description }}</p>
+          <h2>{{ t.programs.Gi.title }}</h2>
+          <p class="program-description">{{ t.programs.Gi.description }}</p>
           
           <div class="program-features">
-            <h3>Focus d'entraînement :</h3>
+            <h3>Focus d'entraînement avec Gi:</h3>
             <ul>
               <li>Systèmes de garde</li>
               <li>Chaînes de soumission et de passage de gardes</li>
@@ -94,11 +94,11 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
     </div>
 
     <!-- No-Gi Program -->
-    <div class="program-detail" id="nogi">
+    <div class="program-detail" id="No-Gi">
       <div class="program-content">
         <div class="program-text">
           <h2>{{ t.programs.nogi.title }}</h2>
-          <p class="program-description">{{ t.programs.nogi.description }}</p>
+          <p class="program-description">{{ t.programs.No-Gi.description }}</p>
           
           <div class="program-features">
             <h3>Focus Sans Gi :</h3>
