@@ -88,7 +88,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
           <div class="price">
             <span class="currency">$</span>
             <span class="amount">739.50</span>
-            <span class="period">/mois</span>
+            <span class="period">/6 mois</span>
           </div>
           <p class="pricing-description">Accès complet à tous les programmes. Un paiement seulement</p>
         </div>
@@ -127,7 +127,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
           <div class="price">
             <span class="currency">$</span>
             <span class="amount">1392</span>
-            <span class="period">/mois</span>
+            <span class="period">/12 mois</span>
           </div>
           <p class="pricing-description">Accès complet à tous les programmes. Un paiement seulement</p>
         </div>
