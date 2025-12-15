@@ -1,7 +1,7 @@
 ---
 layout: instructor
-name: "Jimmy Laporte"
-rank: "Brown Belt"
+name: "Jason Clusiault"
+rank: "Blue Belt"
 specialties: ["Gi",]
 experience: "4 years"
 certifications:
