@@ -22,8 +22,8 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
     <div class="program-detail" id="fundamentals">
       <div class="program-content">
         <div class="program-text">
-          <h2>{{ t.programs.beginners.title }}</h2>
-          <p class="program-description">{{ t.programs.beginners.description }}</p>
+          <h2>{{ t.programs.fundamentals.title }}</h2>
+          <p class="program-description">{{ t.programs.fundamentals.description }}</p>
           
           <div class="program-features">
             <h3>What You'll Learn:</h3>

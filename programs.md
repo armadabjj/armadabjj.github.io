@@ -101,7 +101,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <p class="program-description">{{ t.programs.No-Gi.description }}</p>
           
           <div class="program-features">
-            <h3>Focus entraînement sans Gi:</h3>
+            <h3>Focus entraînement sans Gi (No-Gi):</h3>
             <ul>
               <li>Projections basées sur la lutte</li>
               <li>Systèmes de clés de jambes</li>
