@@ -5,6 +5,7 @@ rank: "Brown Belt"
 specialties: ["Gi, No-Gi,"]
 experience: "9 years"
 certifications:
+  - "Certification Instructeur FQJJB"
 image: "/assets/images/instructors/sofia-rodriguez.jpg"
 social:
   instagram: "hericaman1"
