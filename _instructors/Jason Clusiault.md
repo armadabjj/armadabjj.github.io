@@ -2,10 +2,10 @@
 layout: instructor
 name: "Jimmy Laporte"
 rank: "Brown Belt"
-specialties: ["No-Gi", "Strenght and Conditionning", "Competition Training"]
-experience: "7 years"
+specialties: ["Gi",]
+experience: "4 years"
 certifications:
-  - "ISSA (Internationnal Sports Science Association) Strenght and Conditionning Certified"
+  - "Certification Instructeur FQJJB"
 image: "/assets/images/instructors/marcus-silva.jpg"
 social:
   instagram: "jimmylaporte_bjj"

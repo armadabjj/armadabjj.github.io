@@ -1,13 +1,11 @@
 ---
 layout: instructor
-name: "Eric Laporte"
-rank: "Black Belt 1st degree"
-specialties: ["No-Gi", "Gi",]
-experience: "13 years"
+name: "Greig Potvin"
+rank: "Blue Belt"
+specialties: ["Gi",]
+experience: "4 years"
 certifications:
-  - "Certification Instructeur Chef FQJJB"
-  - "Certification Instructeur Association Canadienne des Entraîneurs"
-  - "Instructeur BJJ Fanatics"
+  - "Certification Instructeur FQJJB"
 image: "/assets/images/instructors/david-chen.jpg"
 social:
   instagram: "eric_laporte_bjjofficial"
