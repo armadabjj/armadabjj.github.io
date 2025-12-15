@@ -34,6 +34,7 @@ en:
       - "Confidence Building"
       - "Stress Relief"
       - "Community"
+      - "Problem Solving"
   
   why_choose:
     title: "Why Choose Armada BJJ?"
@@ -49,27 +50,6 @@ en:
     community:
       title: "Community"
       description: "Join a tight-knit family of martial artists dedicated to mutual growth and respect."
-  
-  programs:
-    title: "Our Programs"
-    Fundamentals:
-      title: "Fundamentals"
-      description: "Perfect for beginners, this program covers basic positions, movements, and concepts."
-    Gi:
-      title: "Gi"
-      description: "Class in the traditionnal gi for all practitioners looking to learn and refine their technique."
-    No-gi:
-      title: "No-Gi"
-      description: "Fast-paced submission grappling without the traditional gi uniform."
-    Kids:
-      title: "Kids class"
-      description: "Fun, engaging classes that build confidence, discipline, and fitness for young martial artists."
-    Competition:
-      title: "Competition Class"
-      description: "Class where athletes learn strategy, rules and improve conditionning for competitions."
-    Open_mat:
-      title: "Open Mat"
-      description: "Free training time for members to practice techniques and spar."
   
   # Footer
   footer:
@@ -141,6 +121,7 @@ fr:
       - "Renforcement de la Confiance"
       - "Soulagement du Stress"
       - "Communauté"
+      - "Résolution de problèmes"
   
   why_choose:
     title: "Pourquoi Choisir Armada BJJ?"
@@ -156,27 +137,6 @@ fr:
     community:
       title: "Communauté"
       description: "Rejoignez une famille unie d'artistes martiaux dédiés à la croissance mutuelle et au respect."
-  
-  programs:
-    title: "Nos Programmes"
-    Fondamentaux:
-      title: "Fondamentaux"
-      description: "Parfait pour les débutants, ce programme couvre les positions de base, les mouvements et les concepts."
-    Gi:
-      title: "Gi"
-      description: "Pour les pratiquants portant l'uniforme gi traditionnel cherchant à apprendre et à affiner leur techniques."
-    No-gi:
-      title: "No-Gi"
-      description: "Lutte de soumission sans l'uniforme gi traditionnel."
-    Enfants:
-      title: "Programme Enfants"
-      description: "Cours amusants et engageants qui développent la confiance, la discipline, la motricité et la forme physique pour les jeunes artistes martiaux."
-    Compétition:
-      title: "Cours compétition"
-      description: "Cours axé sur les stratégies, les règlements et le conditionnement requis pour les athlètes intéressés à compétitionner. Cours en Gi et/ou No-Gi."
-    Mat libre:
-      title: "Tatami Libre"
-      description: "Temps d'entraînement libre pour les membres pour pratiquer les techniques et faire des combats."
   
   # Footer
   footer:

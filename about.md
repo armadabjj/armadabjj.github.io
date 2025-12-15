@@ -11,7 +11,7 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
 <div class="page-header">
   <div class="wrapper">
     <h1>À Propos</h1>
-    <p>Votre voyage en Jiu-Jitsu Brésilien commence ici</p>
+    <p>Votre voyage en Jiu-Jitsu Brésilien commence ici!</p>
   </div>
 </div>
 
@@ -53,19 +53,19 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
       <div class="value-card">
         <i class="fas fa-graduation-cap"></i>
         <h3>Apprentissage</h3>
-        <p>Chaque jour sur le tatami est une opportunité d'apprendre quelque chose de nouveau. Nous encourageons la curiosité et la croissance continue.</p>
+        <p>Chaque jour sur le tatami est une opportunité d'apprendre quelque chose de nouveau. Nous encourageons la curiosité et la croissance continue dans le développement de chaque membre de notre équipe.</p>
       </div>
       
       <div class="value-card">
         <i class="fas fa-users"></i>
         <h3>Communauté</h3>
-        <p>Nous sommes une famille unie par la passion du BJJ. Ensemble, nous nous soutenons, nous nous challengeons et nous célébrons nos succès.</p>
+        <p>Nous sommes une famille unie par la passion du BJJ. Ensemble, nous nous soutenons, nous aidons à dépasser nos limites et nous célébrons nos succès.</p>
       </div>
       
       <div class="value-card">
         <i class="fas fa-medal"></i>
-        <h3>Excellence</h3>
-        <p>Nous visons l'excellence technique et personnelle, toujours en quête d'amélioration et de maîtrise de notre art.</p>
+        <h3>Sécurité</h3>
+        <p>L'emphase sur la sécurité entre partenaires est primordiale pour continuer de progresser ensemble.</p>
       </div>
     </div>
   </div>

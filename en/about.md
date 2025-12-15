@@ -11,7 +11,7 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
 <div class="page-header">
   <div class="wrapper">
     <h1>About</h1>
-    <p>Your Brazilian Jiu-Jitsu journey starts here</p>
+    <p>Your Brazilian Jiu-Jitsu journey starts here!</p>
   </div>
 </div>
 
@@ -53,7 +53,7 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
       <div class="value-card">
         <i class="fas fa-graduation-cap"></i>
         <h3>Continuous learning</h3>
-        <p>Each day on the mats, each session, is an opportunity to learn something new. We support and favor curiosity and continuous growth.</p>
+        <p>Each day on the mats, each session, is an opportunity to learn something new. We encourage curiosity and continuous growth in the development of each member.</p>
       </div>
       
       <div class="value-card">
@@ -64,8 +64,8 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
       
       <div class="value-card">
         <i class="fas fa-medal"></i>
-        <h3>Excellence</h3>
-        <p>We are focused in reaching technical and personnal excellence in our quest towards progress and mastery of our art.</p>
+        <h3>Security</h3>
+        <p>We put emphasis into training protecting our team members during training en ensure the team can keep progressing together.</p>
       </div>
     </div>
   </div>
