@@ -2,7 +2,7 @@
 layout: instructor
 name: "Eric Laporte"
 rank: "Black Belt 1st degree"
-specialties: ["No-Gi", "Gi",]
+specialties: ["No-Gi, Gi",]
 experience: "13 years"
 certifications:
   - "Certification Instructeur Chef FQJJB"
@@ -18,7 +18,7 @@ bio_en: |
 
  I trained in other martial arts over the years reaching the level of black belt, but I always had a lingering pull toward ground fighting. Twenty years ago, i casually started training in mixed martial arts, giving me my first taste of what would become one of the biggest passions i would ever have. In 2012, I finally decided to start learning pure BJJ by enrolling in a school over an hour from home, in Beloeil, under World Champion Lee Villeneuve. The moment I put on a gi for the first time, with my brand-new white belt, I instantly fell in love. Gradually, I began to step away from the other arts I had been practicing and teaching for years.
 
- In 2016, while still a blue belt, I opened the first BJJ school in the region, in Cowansville, not only to give myself the chance to spend more time on the mats without driving long distances, but also to begin sharing my passion with others. In the years that followed, a friend, who naturally became my coach, joined the team, and we moved the academy to Bromont. A few months before COVID, I decided to leave the team and join a school in Granby, where I was able to continue teaching and sharing my passion.
+ In 2016, while still a blue belt, I opened the first BJJ school in the region, in Cowansville, not only to give myself the chance to spend more time on the mats without driving long distances, but also to begin sharing my passion with others. In the years that followed, a friend, who naturally became my coach, joined the team, and we moved the academy to Bromont under the banner Brazilian Top Team Montérégie. A few months before COVID, I decided to leave the team. It was there that i joined a school in Granby to continue teaching and sharing my passion.
 
  Over time, my curiosity evolved into a structured approach. Alongside my progression as an athlete, I built a career in continuous improvement, eventually earning my Lean Six Sigma Black Belt certification. In my professional life, I work as an analyst and method optimization specialist—an experience that has shaped the way I approach jiu-jitsu:
 
@@ -44,7 +44,7 @@ bio_en: |
 bio_fr: |
  Depuis plus de dix ans, le jiu-jitsu brésilien occupe une place centrale dans ma vie. Ma passion a commencé en 1994, le soir où j’ai loué une cassette VHS de l’UFC 1 avec un ami. Voir un art martial basé sur la technique plutôt que la force brute dominer la cage m’a profondément marqué. Je me suis dit qu'un jour, j'allais apprendre ce style. Cette révélation a déclenché en moi une curiosité qui ne m’a jamais quitté. J'ai pratiqué d'autres styles, atteint le niveau de ceinture noire, mais j'avais toujours une arrière pensée qui me dirigeait vers le combat au sol. Il y a plus de 20 ans, j'ai commencé à m'entraîner sporadiquement en arts martiaux mixtes, mais c'est finalement en 2012 que j'ai fait le choix de m'inscrire à une école dédiée au BJJ, qui était à plus d'une heure de chez moi, à Beloeil, sous un champion du monde nommé Lee Villeneuve. Lorsque j'ai enfin pu mettre un GI, avec ma belle ceinture blanche toute neuve, je suis immédiatement tombé en amour et commencé à délaisser peu à peu les autres arts que je pratiquais et enseignais.
 
- C'est en 2016, lorsque j'étais ceinture bleue, que j'ai ouvert la première école de BJJ de la région, à Cowansville, non seulement pour me donner la chance de passer plus de temps sur les tatamis sans faire trop de route, mais également pour commencer à partager ma passion avec les autres. Dans les années qui ont suivies, un ami, qui par défaut est devenu mon entraîneur, s'est joint à l'équipe et nous avons déménagé l'académie à Bromont. Quelques mois avant la covid, j'ai pris la décision de quitter l'équipe et de joindre une école à Granby, j'ai pu continuer à partager ma passion et enseigner.  
+ C'est en 2016, lorsque j'étais ceinture bleue, que j'ai ouvert la première école de BJJ de la région, à Cowansville, non seulement pour me donner la chance de passer plus de temps sur les tatamis sans faire trop de route, mais également pour commencer à partager ma passion avec les autres. Dans les années qui ont suivies, un ami, qui par défaut est devenu mon entraîneur, s'est joint à l'équipe et nous avons déménagé l'académie à Bromont sous la bannière Brazilian Top Team Montérégie. Quelques mois avant la covid, j'ai pris la décision de quitter l'équipe. Par la suite, j'ai décidé de joindre une école à Granby pour continuer à partager ma passion et d'enseigner.  
 
  Au fil des années, ma curiosité est devenue une démarche structurée. En parallèle de mon évolution comme athlète, j’ai développé une carrière en amélioration continue, jusqu’à obtenir la certification Lean Six Sigma Black Belt. Ce parcours professionnel, à travers lequel j'occupe un rôle d'analyste et spécialiste en optimisation de méthodes, a façonné ma manière d’aborder le jiu-jitsu :
 
