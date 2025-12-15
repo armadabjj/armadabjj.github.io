@@ -71,32 +71,6 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
   </div>
 </section>
 
-<section class="philosophy-section">
-  <div class="wrapper">
-    <div class="philosophy-content">
-      <h2>Our philosophy</h2>
-      
-      <div class="philosophy-grid">
-        <div class="philosophy-item">
-          <h3>Technique before strenght</h3>
-          <p>Jiu-Jitsu teaches that technique and leaverage can triumph over brute force. We think that this philosophy can extend further that just the gym, but in many spheres of our lives.</p>
-        </div>
-        
-        <div class="philosophy-item">
-          <h3>Individual progression</h3>
-          <p>Each student progresses at a different pace. We celebrate each step forward, acknowledging that the journey is different for all of us.</p>
-        </div>
-        
-        <div class="philosophy-item">
-          <h3>Humility</h3>
-          <p>BJJ teaches humility in both defeat and in winning. Regardless of your level, there is always someone who can teach you and help you improve.</p>
-        </div>
-      
-      </div>
-    </div>
-  </div>
-</section>
-
 <section class="facilities-section">
   <div class="wrapper">
     <h2>Our facilities</h2>

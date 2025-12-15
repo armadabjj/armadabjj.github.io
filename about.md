@@ -71,36 +71,6 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
   </div>
 </section>
 
-<section class="philosophy-section">
-  <div class="wrapper">
-    <div class="philosophy-content">
-      <h2>Notre Philosophie</h2>
-      
-      <div class="philosophy-grid">
-        <div class="philosophy-item">
-          <h3>Technique avant Force</h3>
-          <p>Le Jiu-Jitsu Brésilien nous enseigne que la technique et la leverage peuvent triompher de la force brute. Cette philosophie s'étend au-delà du tatami dans tous les aspects de la vie.</p>
-        </div>
-        
-        <div class="philosophy-item">
-          <h3>Progression Individuelle</h3>
-          <p>Chaque étudiant progresse à son propre rythme. Nous célébrons les victoires personnelles, grandes et petites, et reconnaissons que le voyage est unique pour chacun.</p>
-        </div>
-        
-        <div class="philosophy-item">
-          <h3>Humilité dans la Victoire</h3>
-          <p>Le BJJ nous enseigne l'humilité. Peu importe votre niveau, il y a toujours quelqu'un qui peut vous enseigner quelque chose de nouveau.</p>
-        </div>
-        
-        <div class="philosophy-item">
-          <h3>Persévérance dans l'Adversité</h3>
-          <p>Les défis sur le tatami nous préparent aux défis de la vie. Nous apprenons à rester calmes sous pression et à trouver des solutions créatives.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section class="facilities-section">
   <div class="wrapper">
     <h2>Nos Installations</h2>
