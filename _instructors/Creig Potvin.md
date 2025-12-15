@@ -1,6 +1,6 @@
 ---
 layout: instructor
-name: "Greig Potvin"
+name: "Creig Potvin"
 rank: "Blue Belt"
 specialties: ["Gi",]
 experience: "4 years"
