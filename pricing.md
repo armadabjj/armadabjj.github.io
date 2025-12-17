@@ -211,7 +211,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         
         <div class="special-card">
           <h3>Cours Privés</h3>
-          <div class="special-price">Coût variable dépendemment de l'instructeur</div>
+          <div class="special-price">Coût variable selon l'instructeur</div>
           <p>Instruction individuelle</p>
           <ul>
             <li>Plan d'apprentissage  personnalisé</li>
