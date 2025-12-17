@@ -3,7 +3,7 @@ layout: instructor
 name: "Jimmy Laporte"
 order: 4
 rank: "Brown Belt"
-image_width: "55%"
+image_width: "50%"
 specialties: ["No-Gi, Strenght and Conditionning",]
 experience: "7 years"
 certifications:
