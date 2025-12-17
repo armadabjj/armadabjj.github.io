@@ -1,6 +1,7 @@
 ---
 layout: instructor
 name: "Guillaume Plante Martineau"
+order: 2
 rank: "Black Belt"
 specialties: ["Gi",]
 experience: "7 years"

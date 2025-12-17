@@ -1,6 +1,7 @@
 ---
 layout: instructor
 name: "Eric Laporte"
+order: 1
 rank: "Black Belt 1st degree"
 specialties: ["No-Gi, Gi",]
 experience: "13 years"
