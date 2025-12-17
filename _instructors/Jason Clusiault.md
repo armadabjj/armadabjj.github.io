@@ -13,16 +13,16 @@ social:
   facebook: "marcus.silva.bjj"
 languages: ["English", "French"]
 bio_en: |
-  Jimmy Laporte is a Brazilian Jiu-Jitsu brown belt under Eric Laporte and a certified ISSA Strength and Conditioning Coach. Growing up, Jimmy built his athletic foundation through competitive high school football before transitioning into mixed martial arts. In 2016, he began his jiu-jitsu journey under the guidance of his cousin, Eric, and has been dedicated to the art ever since.
+ Passionate about combat sports from a young age, Jason began his martial arts journey at the age of 26 through mixed martial arts. It was during this time that he learned the fundamentals of Brazilian Jiu-Jitsu, as well as the values necessary to grow and progress within the discipline.
 
-  Jimmy has competed extensively in both Gi and No-Gi. His experience includes major events such as the SAU (Submission Arts United), ADCC (Abu Dhabi Combat Club) Open, and the IBJJF World Championships (Internationnal Brazilian Jiu-Jitsu Federation). He was also invited to compete in a superfight at Dream 2, showcasing his skills and composure on a professional stage.
+ In 2021, he officially began his path in traditional Brazilian Jiu-Jitsu, and it was an instant passion. About a year after starting, Guillaume Plante and Éric Haman took him under their wing and became his primary training partners. With their guidance, Jason’s understanding of jiu-jitsu reached a new level, and his progression accelerated significantly.
 
-  Known for his disciplined approach to training and his passion for helping others improve, Jimmy combines technical jiu-jitsu with a strong understanding of athletic performance. Whether coaching beginners or advanced students, he brings energy, professionalism, and a commitment to continuous growth, on and off the mats.
+ Jason is known for his commitment, patience, and calm demeanor, qualities that define both his training style and his approach on the mats.
 
 bio_fr: |
-  Jimmy Laporte est ceinture brune de jiu-jitsu brésilien sous Eric Laporte et entraîneur certifié en force et conditionnement (ISSA). Dès son jeune âge, Jimmy a développé une solide base athlétique grâce au football compétitif au secondaire, avant de se tourner vers les arts martiaux mixtes. En 2016, il débute officiellement le jiu-jitsu sous la guidance de son cousin, et se dévoue depuis entièrement à la discipline.
+ Passionné par les sports de combat depuis son jeune âge, Jason débute son parcours en arts martiaux mixtes à l’âge de 26 ans. C’est à ce moment qu’il acquiert les bases du jiu-jitsu brésilien, ainsi que les valeurs essentielles à la progression dans cette discipline.
 
-  Jimmy a accumulé beaucoup d’expérience en compétition, autant en Gi qu’en No-Gi. Il a participé à plusieurs événements d’envergure tels que le SAU (Submission Arts United), l’ADCC (Abu Dhabi Combat Club) Open et les Championnats du monde IBJJF (Fédération Internationnale de Jiu-Jitsu Brésilien). Il a également été invité à disputer un superfight lors de Dream 2, démontrant ses habiletés et son sang-froid sur une scène professionnelle.
+ En 2021, il entame officiellement son cheminement en jiu-jitsu brésilien traditionnel, et c’est un véritable coup de foudre. Environ un an après ses débuts, Guillaume Plante et Éric Haman le prennent sous leur aile et deviennent ses principaux partenaires d’entraînement. Grâce à leur encadrement, sa compréhension du jiu-jitsu atteint un nouveau niveau et sa progression s’accélère considérablement.
 
-  Reconnu pour sa rigueur, son approche structurée et sa passion pour l’enseignement, Jimmy combine un jiu-jitsu technique à une compréhension approfondie de la performance athlétique. Qu’il travaille avec des débutants ou des athlètes avancés, il apporte énergie, professionnalisme et un engagement constant envers la progression, sur les tatamis comme en dehors.
+ Jason est reconnu pour son engagement, sa patience et son calme, des qualités qui se reflètent autant dans son entraînement que sur les tatamis.
 ---
