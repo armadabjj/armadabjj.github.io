@@ -75,9 +75,11 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
           </ul>
         </div>
         
+        <!--
         <div class="pricing-footer">
           <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Start Free Trial</a>
         </div>
+        -->
       </div>
       
       <!-- Price 6 months -->
@@ -109,6 +111,7 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
       
       <!-- Price 12 months -->
       <div class="pricing-card featured">
+        <div class="featured-badge">Most Popular</div>
         <div class="pricing-header">
           <h3>Price 12 months</h3>
           <div class="price">
