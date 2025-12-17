@@ -8,12 +8,14 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
 
 {% assign t = site.data.translations[page.lang] %}
 
+<!--
 <div class="page-header">
   <div class="wrapper">
     <h1>{{ t.programs.title }}</h1>
     <p>Comprehensive training programs designed for every skill level and goal</p>
   </div>
 </div>
+-->
 
 <section class="programs-section">
   <div class="wrapper">
@@ -258,6 +260,7 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
   </div>
 </section>
 
+<!--
 <section class="program-cta">
   <div class="wrapper">
     <div class="cta-content">
@@ -270,6 +273,7 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
     </div>
   </div>
 </section>
+-->
 
 <style>
 .page-header {
