@@ -28,8 +28,11 @@ description: "Meet our Brazilian Jiu-Jitsu instructors at Armada BJJ. Experience
       {% for instructor in sorted_instructors %}
         <div class="instructor-card">
           <div class="instructor-image">
-            <img src="{{ instructor.image | relative_url }}" alt="{{ instructor.name }}" style="width: 50%; height: auto;">
-            <div class="rank-overlay">{{ instructor.rank }}</div>
+            {% if instructor.image_width or instructor.image_height %}
+            <img src="{{ instructor.image | relative_url }}" alt="{{ instructor.name }}" style="{% if instructor.image_width %}width: {{ instructor.image_width }};{% endif %}{% if instructor.image_height %}height: {{ instructor.image_height }};{% endif %}">
+            {% else %}
+            <img src="{{ instructor.image | relative_url }}" alt="{{ instructor.name }}">
+            {% endif %}
           </div>
           
           <div class="instructor-details">
@@ -187,6 +190,9 @@ description: "Meet our Brazilian Jiu-Jitsu instructors at Armada BJJ. Experience
   position: relative;
   height: 300px;
   overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .instructor-image img {
@@ -194,6 +200,14 @@ description: "Meet our Brazilian Jiu-Jitsu instructors at Armada BJJ. Experience
   height: 100%;
   object-fit: cover;
   transition: var(--transition);
+}
+
+.instructor-image img[style] {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
 }
 
 .instructor-card:hover .instructor-image img {

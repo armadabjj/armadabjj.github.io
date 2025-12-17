@@ -22,8 +22,8 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
     <div class="program-detail" id="fundamentals">
       <div class="program-content">
         <div class="program-text">
-          <h2>{{ t.programs.fundamentals.title }}</h2>
-          <p class="program-description">{{ t.programs.fundamentals.description }}</p>
+          <h2>{{ t.programs.Fundamentals.title }}</h2>
+          <p class="program-description">{{ t.programs.Fundamentals.description }}</p>
           
           <div class="program-features">
             <h3>What You'll Learn:</h3>
@@ -51,7 +51,9 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
           <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary">Start Your Journey</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/fundamentals-class.jpg' | relative_url }}" alt="Fundamentals Class">
+          -->
         </div>
       </div>
     </div>
@@ -60,8 +62,8 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
     <div class="program-detail" id="BJJ Gi">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.BJJ Gi.title }}</h2>
-          <p class="program-description">{{ t.programs.BJJ Gi.description }}</p>
+          <h2>{{ t.programs.Gi.title }}</h2>
+          <p class="program-description">{{ t.programs.Gi.description }}</p>
           
           <div class="program-features">
             <h3>Training Focus:</h3>
@@ -88,7 +90,9 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Join Gi</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/advanced-class.jpg' | relative_url }}" alt="Advanced Class">
+          -->
         </div>
       </div>
     </div>
@@ -97,8 +101,8 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
     <div class="program-detail" id="nogi">
       <div class="program-content">
         <div class="program-text">
-          <h2>{{ t.programs.nogi.title }}</h2>
-          <p class="program-description">{{ t.programs.nogi.description }}</p>
+          <h2>{{ t.programs["No-gi"].title }}</h2>
+          <p class="program-description">{{ t.programs["No-gi"].description }}</p>
           
           <div class="program-features">
             <h3>No-Gi Focus:</h3>
@@ -125,7 +129,9 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Try No-Gi</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/nogi-class.jpg' | relative_url }}" alt="No-Gi Class">
+          -->
         </div>
       </div>
     </div>
@@ -162,7 +168,9 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Join Competition Class</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/Competition Class.jpg' | relative_url }}" alt="Competition Class">
+          -->
         </div>
       </div>
     </div>
@@ -171,8 +179,8 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
     <div class="program-detail" id="kids">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.kids.title }}</h2>
-          <p class="program-description">{{ t.programs.kids.description }}</p>
+          <h2>{{ t.programs.Kids.title }}</h2>
+          <p class="program-description">{{ t.programs.Kids.description }}</p>
           
           <div class="program-features">
             <h3>Kids Benefits:</h3>
@@ -200,7 +208,9 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Enroll Your Child</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/kids-class.jpg' | relative_url }}" alt="Kids Class">
+          -->
         </div>
       </div>
     </div>
@@ -209,8 +219,8 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
     <div class="program-detail" id="open-mat">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.open_mat.title }}</h2>
-          <p class="program-description">{{ t.programs.open_mat.description }}</p>
+          <h2>{{ t.programs.Open_mat.title }}</h2>
+          <p class="program-description">{{ t.programs.Open_mat.description }}</p>
           
           <div class="program-features">
             <h3>Open Mat Activities:</h3>
@@ -238,7 +248,9 @@ description: "Discover our comprehensive Brazilian Jiu-Jitsu programs designed f
           <a href="{{ '/pricing/' | relative_url }}" class="btn btn-primary">View Membership Options</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/open-mat.jpg' | relative_url }}" alt="Open Mat">
+          -->
         </div>
       </div>
     </div>

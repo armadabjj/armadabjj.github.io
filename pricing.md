@@ -26,7 +26,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
     <div class="pricing-grid">
       
       <!-- Forfait par mois adultes -->
-      <div class="pricing-card">
+      <div class="pricing-card featured">
         <div class="pricing-header">
           <h3>Forfait par mois adultes</h3>
           <div class="price">
@@ -136,7 +136,8 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
       </div>
 
       <!-- Drop-In -->
-      <div class="pricing-card">
+      <div class="pricing-card featured">
+
         <div class="pricing-header">
           <h3>Cours à l'unité</h3>
           <div class="price">
@@ -163,7 +164,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
       </div>
       
       <!-- Carte 10 cours -->
-      <div class="pricing-card">
+      <div class="pricing-card featured">
         <div class="pricing-header">
           <h3>10 cours à l'unité</h3>
           <div class="price">

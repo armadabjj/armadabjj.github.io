@@ -51,6 +51,28 @@ en:
       title: "Community"
       description: "Join a tight-knit family of martial artists dedicated to mutual growth and respect."
   
+  programs:
+    title: "Our Programs"
+    Fundamentals:
+      title: "Fundamentals"
+      description: "Perfect for beginners, this program covers basic positions, movements, and concepts."
+    Gi:
+      title: "Gi"
+      description: "Class in the traditionnal gi for all practitioners looking to learn and refine their technique."
+    No-gi:
+      title: "No-Gi"
+      description: "Fast-paced submission grappling without the traditional gi uniform."
+    Kids:
+      title: "Kids class"
+      description: "Fun, engaging classes that build confidence, discipline, and fitness for young martial artists."
+    Competition:
+      title: "Competition Class"
+      description: "Class where athletes learn strategy, rules and improve conditionning for competitions."
+    Open_mat:
+      title: "Open Mat"
+      description: "Free training time for members to practice techniques and spar."
+
+
   # Footer
   footer:
     address: "166 Cowie Street #200, Granby"
@@ -138,6 +160,27 @@ fr:
       title: "Communauté"
       description: "Rejoignez une famille unie d'artistes martiaux dédiés à la croissance mutuelle et au respect."
   
+  programs:
+    title: "Nos Programmes"
+    Fundamentals:
+      title: "Fondamentaux"
+      description: "Parfait pour les débutants, ce programme couvre les positions de base, les mouvements et les concepts."
+    Gi:
+      title: "Gi"
+      description: "Cours en gi traditionnel pour tous les pratiquants cherchant à apprendre et perfectionner leur technique."
+    No-gi:
+      title: "No-Gi"
+      description: "Grappling de soumission rapide sans l'uniforme gi traditionnel."
+    Kids:
+      title: "Cours Enfants"
+      description: "Cours amusants et engageants qui renforcent la confiance, la discipline et la condition physique pour les jeunes artistes martiaux."
+    Competition:
+      title: "Cours de Compétition"
+      description: "Cours où les athlètes apprennent la stratégie, les règles et améliorent leur conditionnement pour les compétitions."
+    Open_mat:
+      title: "Tatami Libre"
+      description: "Temps d'entraînement libre pour les membres afin de pratiquer les techniques et faire du sparring."
+
   # Footer
   footer:
     address: "166 rue Cowie #200, Granby"

@@ -22,8 +22,8 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
     <div class="program-detail" id="fundamentals">
       <div class="program-content">
         <div class="program-text">
-          <h2>{{ t.programs.beginners.title }}</h2>
-          <p class="program-description">{{ t.programs.beginners.description }}</p>
+          <h2>{{ t.programs.Fundamentals.title }}</h2>
+          <p class="program-description">{{ t.programs.Fundamentals.description }}</p>
           
           <div class="program-features">
             <h3>Ce que vous apprendrez:</h3>
@@ -51,7 +51,9 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <a href="{{ '/fr/contact/' | relative_url }}#trial" class="btn btn-primary">Commencez Votre Parcours</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/fundamentals-class.jpg' | relative_url }}" alt="Cours Fondamentaux">
+          -->
         </div>
       </div>
     </div>
@@ -60,8 +62,8 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
     <div class="program-detail" id="BJJ Gi">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.BJJ Gi.title }}</h2>
-          <p class="program-description">{{ t.programs.BJJ Gi.description }}</p>
+          <h2>{{ t.programs.Gi.title }}</h2>
+          <p class="program-description">{{ t.programs.Gi.description }}</p>
           
           <div class="program-features">
             <h3>Focus d'entraînement avec Gi:</h3>
@@ -88,7 +90,9 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <a href="{{ '/fr/contact/' | relative_url }}" class="btn btn-primary">Rejoindre l'Entraînement BJJ Gi</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/advanced-class.jpg' | relative_url }}" alt="Cours Avancé">
+          -->
         </div>
       </div>
     </div>
@@ -97,8 +101,8 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
     <div class="program-detail" id="No-Gi">
       <div class="program-content">
         <div class="program-text">
-          <h2>{{ t.programs.nogi.title }}</h2>
-          <p class="program-description">{{ t.programs.No-Gi.description }}</p>
+          <h2>{{ t.programs["No-gi"].title }}</h2>
+          <p class="program-description">{{ t.programs["No-gi"].description }}</p>
           
           <div class="program-features">
             <h3>Focus entraînement sans Gi (No-Gi):</h3>
@@ -125,7 +129,9 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <a href="{{ '/fr/contact/' | relative_url }}" class="btn btn-primary">Essayer le No-Gi</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/nogi-class.jpg' | relative_url }}" alt="Cours No-Gi">
+          -->
         </div>
       </div>
     </div>
@@ -162,7 +168,9 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <a href="{{ '/fr/contact/' | relative_url }}" class="btn btn-primary">Joindre au cours de compétition</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/competition-class.jpg' | relative_url }}" alt="Cours compétition">
+          -->
         </div>
       </div>
     </div>
@@ -171,8 +179,8 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
     <div class="program-detail" id="kids">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.kids.title }}</h2>
-          <p class="program-description">{{ t.programs.kids.description }}</p>
+          <h2>{{ t.programs.Kids.title }}</h2>
+          <p class="program-description">{{ t.programs.Kids.description }}</p>
           
           <div class="program-features">
             <h3>Bénéfices pour Enfants :</h3>
@@ -200,7 +208,9 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <a href="{{ '/fr/contact/' | relative_url }}" class="btn btn-primary">Inscrire Votre Enfant</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/kids-class.jpg' | relative_url }}" alt="Cours Enfants">
+          -->
         </div>
       </div>
     </div>
@@ -209,8 +219,8 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
     <div class="program-detail" id="open-mat">
       <div class="program-content reverse">
         <div class="program-text">
-          <h2>{{ t.programs.open_mat.title }}</h2>
-          <p class="program-description">{{ t.programs.open_mat.description }}</p>
+          <h2>{{ t.programs.Open_mat.title }}</h2>
+          <p class="program-description">{{ t.programs.Open_mat.description }}</p>
           
           <div class="program-features">
             <h3>Activités Tatami Libre :</h3>
@@ -238,7 +248,9 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <a href="{{ '/fr/tarification/' | relative_url }}" class="btn btn-primary">Voir Options d'Adhésion</a>
         </div>
         <div class="program-image">
+          <!--
           <img src="{{ '/assets/images/open-mat.jpg' | relative_url }}" alt="Tatami Libre">
+          -->
         </div>
       </div>
     </div>
