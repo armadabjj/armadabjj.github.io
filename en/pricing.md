@@ -215,7 +215,7 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
           <div class="special-price">Variable depending on instructor</div>
           <p>Individual or small group</p>
           <ul>
-            <li>Personnalisez learning plan</li>
+            <li>Personnalised learning plan</li>
             <li>Accelerated improvement</li>
             <li>Flexible hours</li>
             <li>Competition preparation</li>
