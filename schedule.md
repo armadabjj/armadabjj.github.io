@@ -214,6 +214,7 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
   </div>
 </section>
 
+<!--
 <section class="schedule-cta">
   <div class="wrapper">
     <div class="cta-content">
@@ -226,6 +227,7 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
     </div>
   </div>
 </section>
+-->
 
 <style>
 .page-header {
