@@ -25,24 +25,24 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
     
     <div class="pricing-grid">
       
-      <!-- Fundamentals -->
-      <div class="pricing-card">
+      <!-- Price per month (Adults) -->
+      <div class="pricing-card featured">
         <div class="pricing-header">
           <h3>Fundamentals</h3>
           <div class="price">
             <span class="currency">$</span>
-            <span class="amount">120</span>
+            <span class="amount">145</span>
             <span class="period">/month</span>
           </div>
-          <p class="pricing-description">Perfect for beginners new to BJJ</p>
+          <p class="pricing-description">Access to all programs</p>
         </div>
         
         <div class="pricing-features">
           <ul>
-            <li><i class="fas fa-check"></i> 8 classes per month</li>
-            <li><i class="fas fa-check"></i> Fundamentals program access</li>
-            <li><i class="fas fa-check"></i> Beginner-friendly environment</li>
-            <li><i class="fas fa-check"></i> Locker room access</li>
+            <li><i class="fas fa-check"></i> Unlimited classes within one month</li>
+            <li><i class="fas fa-check"></i> Access to Fundamentals, Gi, No-Gi and Competition programs</li>
+            <li><i class="fas fa-check"></i> Beginner-friendly and safe environment</li>
+            <li><i class="fas fa-check"></i> Locker room and washroom access</li>
             <li><i class="fas fa-check"></i> Progress tracking</li>
           </ul>
         </div>
@@ -52,14 +52,14 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
         </div>
       </div>
       
-      <!-- Unlimited -->
+      <!-- Teens 14-17 years old -->
       <div class="pricing-card featured">
         <div class="featured-badge">Most Popular</div>
         <div class="pricing-header">
-          <h3>Unlimited</h3>
+          <h3>Teens from 14 o 17 years old</h3>
           <div class="price">
             <span class="currency">$</span>
-            <span class="amount">180</span>
+            <span class="amount">110</span>
             <span class="period">/month</span>
           </div>
           <p class="pricing-description">Full access to all programs</p>
@@ -67,12 +67,11 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
         
         <div class="pricing-features">
           <ul>
-            <li><i class="fas fa-check"></i> Unlimited classes</li>
-            <li><i class="fas fa-check"></i> All program access</li>
-            <li><i class="fas fa-check"></i> Open mat sessions</li>
-            <li><i class="fas fa-check"></i> Shower facilities</li>
-            <li><i class="fas fa-check"></i> Priority booking</li>
-            <li><i class="fas fa-check"></i> Competition team eligibility</li>
+            <li><i class="fas fa-check"></i> Unlimited classes within one month</li>
+            <li><i class="fas fa-check"></i> Access to Fundamentals, Gi, No-Gi and Competition programs</li>
+            <li><i class="fas fa-check"></i> Beginner-friendly and safe environment</li>
+            <li><i class="fas fa-check"></i> Locker room and washroom access</li>
+            <li><i class="fas fa-check"></i> Progress tracking</li>
           </ul>
         </div>
         
