@@ -8,12 +8,14 @@ description: "Horaire des cours de Jiu-Jitsu Brésilien chez Armada BJJ. Trouvez
 
 {% assign t = site.data.translations[page.lang] %}
 
+<!--
 <div class="page-header">
   <div class="wrapper">
     <h1>Horaire</h1>
     <p>Trouvez le cours parfait pour votre niveau et votre emploi du temps</p>
   </div>
 </div>
+-->
 
 <section class="schedule-section">
   <div class="wrapper">
