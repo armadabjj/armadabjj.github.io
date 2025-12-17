@@ -8,12 +8,14 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
 
 {% assign t = site.data.translations[page.lang] %}
 
+<!--
 <div class="page-header">
   <div class="wrapper">
     <h1>About</h1>
     <p>Your Brazilian Jiu-Jitsu journey starts here!</p>
   </div>
 </div>
+-->
 
 <section class="about-hero">
   <div class="wrapper">
@@ -137,6 +139,7 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
   </div>
 </section>
 
+<!--
 <section class="cta-section">
   <div class="wrapper">
     <div class="cta-content">
@@ -149,6 +152,7 @@ description: "Discover the history of Armada BJJ, our philosophy and our team of
     </div>
   </div>
 </section>
+-->
 
 <style>
 .page-header {
