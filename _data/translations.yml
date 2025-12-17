@@ -1,5 +1,5 @@
 en:
-  site_title: "Armada Jiu Jitsu"
+  site_title: "Armada Jiu-Jitsu"
   site_tagline: "Premier Brazilian Jiu-Jitsu Academy"
   site_description: "Brazilian Jiu-Jitsu training in a welcoming, family-friendly environment"
   
@@ -128,7 +128,7 @@ fr:
   # Homepage
   hero:
     title: "Entraînement de Jiu-Jitsu Brésilien"
-    subtitle: "Rejoignez Armada BJJ et découvrez notre art martiale dans un environnement professionnel et accueillant"
+    subtitle: "Joignez-vous à nous et découvrez notre art martiale dans un environnement professionnel et accueillant"
     cta_primary: "Commencez Votre Parcours"
     cta_secondary: "En Savoir Plus"
   
