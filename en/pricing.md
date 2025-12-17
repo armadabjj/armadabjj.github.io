@@ -133,7 +133,6 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Book Now</a>
         </div>
       </div>
-    </div>
     
       <!-- Drop in -->
       <div class="pricing-card">
@@ -161,7 +160,6 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Book Now</a>
         </div>
       </div>
-    </div>
 
       <!-- 10 Classes card -->
       <div class="pricing-card">
