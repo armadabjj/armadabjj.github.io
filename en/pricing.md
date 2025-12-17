@@ -197,42 +197,28 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
         <div class="special-card">
           <h3>Kids Program</h3>
           <div class="special-price">$90/month</div>
-          <p>Ages 5-13, 2 classes per week</p>
+          <p>Ages 6-14, 3 classes per week</p>
           <ul>
             <li>Age-appropriate curriculum</li>
             <li>Character development focus</li>
-            <li>Anti-bullying techniques</li>
+            <li>Mobility movements</li>
             <li>Fun, engaging classes</li>
           </ul>
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline">Learn More</a>
         </div>
         
         <div class="special-card">
-          <h3>Women's Classes</h3>
-          <div class="special-price">$140/month</div>
-          <p>Women-only environment, unlimited access</p>
+          <h3>Private classes</h3>
+          <div class="special-price">Variable depending on instructor/div>
+          <p>Individual or small group</p>
           <ul>
-            <li>Supportive atmosphere</li>
-            <li>Female instructors</li>
-            <li>Self-defense focus</li>
-            <li>All skill levels welcome</li>
+            <li>Personnalisez learning plan</li>
+            <li>Accelerated improvement</li>
+            <li>Flexible hours</li>
+            <li>Competition preparation</li>
           </ul>
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline">Learn More</a>
         </div>
-        
-        <div class="special-card">
-          <h3>Private Lessons</h3>
-          <div class="special-price">$100/hour</div>
-          <p>One-on-one instruction</p>
-          <ul>
-            <li>Personalized curriculum</li>
-            <li>Accelerated learning</li>
-            <li>Flexible scheduling</li>
-            <li>Competition preparation</li>
-          </ul>
-          <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline">Book Session</a>
-        </div>
-        
       </div>
     </div>
     
@@ -242,27 +228,9 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
       
       <div class="discount-grid">
         <div class="discount-item">
-          <i class="fas fa-graduation-cap"></i>
-          <h4>Students</h4>
-          <p>15% off with valid student ID</p>
-        </div>
-        
-        <div class="discount-item">
-          <i class="fas fa-shield-alt"></i>
-          <h4>Military & First Responders</h4>
-          <p>20% off with valid ID</p>
-        </div>
-        
-        <div class="discount-item">
           <i class="fas fa-users"></i>
           <h4>Family Plans</h4>
-          <p>10% off for 2+ family members</p>
-        </div>
-        
-        <div class="discount-item">
-          <i class="fas fa-calendar-alt"></i>
-          <h4>Annual Payment</h4>
-          <p>2 months free when paying annually</p>
+          <p>325$ per month</p>
         </div>
       </div>
     </div>
