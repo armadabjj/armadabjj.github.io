@@ -80,25 +80,25 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
         </div>
       </div>
       
-      <!-- Drop-In -->
+      <!-- Price 6 months -->
       <div class="pricing-card">
         <div class="pricing-header">
-          <h3>Drop-In</h3>
+          <h3>Price 6 months</h3>
           <div class="price">
             <span class="currency">$</span>
-            <span class="amount">30</span>
-            <span class="period">/class</span>
+            <span class="amount">739.50</span>
+            <span class="period">/6 Months</span>
           </div>
-          <p class="pricing-description">Flexible option for visitors</p>
+          <p class="pricing-description">Full access to all programs, single payment</p>
         </div>
         
         <div class="pricing-features">
           <ul>
-            <li><i class="fas fa-check"></i> Single class access</li>
-            <li><i class="fas fa-check"></i> No commitment required</li>
-            <li><i class="fas fa-check"></i> Perfect for travelers</li>
-            <li><i class="fas fa-check"></i> Locker room access</li>
-            <li><i class="fas fa-check"></i> Equipment available</li>
+            <li><i class="fas fa-check"></i> Unlimited classes within one month</li>
+            <li><i class="fas fa-check"></i> Access to Fundamentals, Gi, No-Gi and Competition programs</li>
+            <li><i class="fas fa-check"></i> Beginner-friendly and safe environment</li>
+            <li><i class="fas fa-check"></i> Locker room and washroom access</li>
+            <li><i class="fas fa-check"></i> Progress tracking</li>
           </ul>
         </div>
         
@@ -107,24 +107,25 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
         </div>
       </div>
       
-      <!-- 10 classes card -->
+      <!-- Price 12 months -->
       <div class="pricing-card">
         <div class="pricing-header">
-          <h3>Drop-In</h3>
+          <h3>Price 12 months</h3>
           <div class="price">
             <span class="currency">$</span>
-            <span class="amount">18</span>
-            <span class="period">/class</span>
+            <span class="amount">1392</span>
+            <span class="period">/12 months</span>
           </div>
-          <p class="pricing-description">Flexible option for visitors</p>
+          <p class="pricing-description">Full access to all programs, single payment</p>
         </div>
         
         <div class="pricing-features">
           <ul>
-            <li><i class="fas fa-check"></i> 10 single class access</li>
-            <li><i class="fas fa-check"></i> No commitment required</li>
-            <li><i class="fas fa-check"></i> Perfect for travelers</li>
-            <li><i class="fas fa-check"></i> Locker room access</li>
+            <li><i class="fas fa-check"></i> Unlimited classes within one month</li>
+            <li><i class="fas fa-check"></i> Access to Fundamentals, Gi, No-Gi and Competition programs</li>
+            <li><i class="fas fa-check"></i> Beginner-friendly and safe environment</li>
+            <li><i class="fas fa-check"></i> Locker room and washroom access</li>
+            <li><i class="fas fa-check"></i> Progress tracking</li>
           </ul>
         </div>
         
