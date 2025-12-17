@@ -9,7 +9,7 @@ certifications:
   - "Certification Instructeur Chef FQJJB"
   - "Certification Instructeur Association Canadienne des Entraîneurs"
   - "Instructeur BJJ Fanatics"
-image: "/assets/images/instructors/david-chen.jpg"
+image: "/assets/images/instructors/eric.jpeg"
 social:
   instagram: "eric_laporte_bjjofficial"
   facebook: "Eric Laporte-BJJ"
