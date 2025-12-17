@@ -10,7 +10,11 @@ layout: default
     
     <div class="instructor-header">
       <div class="instructor-image">
+        {% if page.image_width or page.image_height %}
+        <img src="{{ page.image | relative_url }}" alt="{{ page.name }}" style="{% if page.image_width %}width: {{ page.image_width }};{% endif %}{% if page.image_height %}height: {{ page.image_height }};{% endif %}">
+        {% else %}
         <img src="{{ page.image | relative_url }}" alt="{{ page.name }}">
+        {% endif %}
         <div class="rank-badge">{{ page.rank }}</div>
       </div>
       
