@@ -14,23 +14,30 @@ social:
   facebook: "Eric Laporte-BJJ"
 languages: ["English", "Français"]
 bio_en: |
- Guillaume, a black belt un Brazilian Jiu-Jitsu since 2024, also has 6 years of experience in judo. He is mostly known for his guard play, and he focuses on the creative and technical side of Jiu-Jitsu. Here are some fun facts about Guillaume:
+ With six years of judo experience, Guillaume began his Brazilian jiu-jitsu journey seven years ago. A dedicated guard player, he was drawn to the creative and technical nature of the art. In 2024, he earned his black belt.
 
-  - he can talk about Keenan Cornelius for hours
-  - he owns more gis than there are days in the week
-  - he is a living encyclopedia about all the specs and brands for gis
-  - prefers techniques that are named after animals
-  - competed in both Gi and No-Gi, winning double gold at Toronto Open
-  - he is the most Quebecker of all Koreans
+ A Gi competitor, Guillaume has taken part in numerous tournaments, including major events such as the IBJJF Master World Championships in Las Vegas in 2025.
+
+ Guillaume is a true enthusiast of the sport. Always present at the gym and at competitions, he embodies a strong team spirit. He is also a walking encyclopedia when it comes to gi brands and their specifications.
+
+ He is known for his involvement, sense of humor, and discipline.
+
+ Fun facts about Guillaume:
+  - He can talk about Keenan Cornelius for hours
+  - He prefers techniques named after animals
+  - He is a bouble gold IBJJF medalist in No-Gi without having to compete in a single match
 
 bio_fr: |
- Ceinture noire en jiu-jitsu brésilien depuis 2024 et 6 ans d’expérience en judo. Guard player, il apprécie le côté technique et créatif du jiu-jitsu. 
- Fun facts à propos de Guillaume: 
+ Fort de six années d’expérience en judo, Guillaume débute le jiu-jitsu brésilien il y a maintenant sept ans. Véritable guard player, il est rapidement séduit par l’aspect créatif et technique que cet art martial propose. Il obtient sa ceinture noire en 2024.
 
-  - peut parler de Keenan Cornelius pendant des heures
-  - il possède plus de gis qu'il y a de jours de la semaine
-  - il est une encyclopédie sur les specs et marques de gis
-  - préfère les techniques qui portent des noms d'animaux
-  - compétitionné en Gi et No-Gi, médaillé double Or au Toronto Open
-  - le plus Québécois des Coréens
+ Compétiteur en Gi, Guillaume a pris part à de nombreuses compétitions, incluant des événements d’envergure tels que les Championnats du monde IBJJF Masters à Las Vegas en 2025.
+
+ Véritable passionné, Guillaume est toujours présent au gym comme lors des compétitions et incarne pleinement l’esprit d’équipe. Il est également reconnu comme une véritable encyclopédie vivante en matière de marques de gi et de leurs spécifications.
+
+ Il se distingue par son implication, sa rigueur et son sens de l’humour.
+
+ Fun facts à propos de Guillaume :
+  - Peut parler de Keenan Cornelius pendant des heures
+  - Préfère les techniques portant des noms d’animaux
+  - Double médaillé d’or IBJJF en No-Gi sans avoir disputé un seul combat
 ---
