@@ -24,7 +24,8 @@ description: "Rencontrez nos instructeurs de Jiu-Jitsu Brésilien chez Armada BJ
     </div>
     
     <div class="instructors-grid">
-      {% for instructor in site.instructors | sort: "order" %}
+      {% assign sorted_instructors = site.instructors | sort_natural: "order" %}
+      {% for instructor in sorted_instructors %}
         <div class="instructor-card">
           <div class="instructor-image">
             <img src="{{ instructor.image | relative_url }}" alt="{{ instructor.name }}">
