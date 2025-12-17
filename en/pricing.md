@@ -28,7 +28,7 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
       <!-- Price per month (Adults) -->
       <div class="pricing-card featured">
         <div class="pricing-header">
-          <h3>Fundamentals</h3>
+          <h3>Price per month (Adults)</h3>
           <div class="price">
             <span class="currency">$</span>
             <span class="amount">145</span>
@@ -135,6 +135,61 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
       </div>
     </div>
     
+      <!-- Drop in -->
+      <div class="pricing-card">
+        <div class="pricing-header">
+          <h3>Price drop in</h3>
+          <div class="price">
+            <span class="currency">$</span>
+            <span class="amount">20</span>
+            <span class="period">/1 class</span>
+          </div>
+          <p class="pricing-description">Flexible option for visitors</p>
+        </div>
+        
+        <div class="pricing-features">
+          <ul>
+            <li><i class="fas fa-check"></i> Access to one class</li>
+            <li><i class="fas fa-check"></i> No comittment required</li>
+            <li><i class="fas fa-check"></i> Perfect for travellers</li>
+            <li><i class="fas fa-check"></i> Locker room and washroom access</li>
+            <li><i class="fas fa-check"></i> Gi available</li>
+          </ul>
+        </div>
+        
+        <div class="pricing-footer">
+          <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Book Now</a>
+        </div>
+      </div>
+    </div>
+
+      <!-- 10 Classes card -->
+      <div class="pricing-card">
+        <div class="pricing-header">
+          <h3>Price 10 classes</h3>
+          <div class="price">
+            <span class="currency">$</span>
+            <span class="amount">18</span>
+            <span class="period">/class</span>
+          </div>
+          <p class="pricing-description">Full access to all programs, single payment</p>
+        </div>
+        
+        <div class="pricing-features">
+          <ul>
+            <li><i class="fas fa-check"></i> Access to 10 classes</li>
+            <li><i class="fas fa-check"></i> No comittment required</li>
+            <li><i class="fas fa-check"></i> Perfect for travellers</li>
+            <li><i class="fas fa-check"></i> Locker room and washroom access</li>
+          </ul>
+        </div>
+        
+        <div class="pricing-footer">
+          <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Book Now</a>
+        </div>
+      </div>
+    </div>
+
     <!-- Special Programs -->
     <div class="special-programs">
       <h2>Special Programs</h2>
