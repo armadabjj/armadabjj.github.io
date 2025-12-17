@@ -47,9 +47,11 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
           </ul>
         </div>
         
+        <!--
         <div class="pricing-footer">
           <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-outline btn-large">Start Free Trial</a>
         </div>
+        -->
       </div>
       
       <!-- Teens 14-17 years old -->
@@ -104,9 +106,11 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
           </ul>
         </div>
         
+        <!--
         <div class="pricing-footer">
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Book Now</a>
         </div>
+        -->
       </div>
       
       <!-- Price 12 months -->
@@ -132,9 +136,11 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
           </ul>
         </div>
         
+        <!--
         <div class="pricing-footer">
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Book Now</a>
         </div>
+        -->
       </div>
     
       <!-- Drop in -->
@@ -159,9 +165,11 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
           </ul>
         </div>
         
+        <!--
         <div class="pricing-footer">
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Book Now</a>
         </div>
+        -->
       </div>
 
       <!-- 10 Classes card -->
@@ -185,9 +193,11 @@ description: "Affordable Brazilian Jiu-Jitsu membership options at Armada BJJ. F
           </ul>
         </div>
         
+        <!--
         <div class="pricing-footer">
           <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Book Now</a>
         </div>
+        -->
       </div>
     </div>
 
