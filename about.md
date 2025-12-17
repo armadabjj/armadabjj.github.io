@@ -8,12 +8,14 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
 
 {% assign t = site.data.translations[page.lang] %}
 
+<!--
 <div class="page-header">
   <div class="wrapper">
     <h1>À Propos</h1>
     <p>Votre voyage en Jiu-Jitsu Brésilien commence ici!</p>
   </div>
 </div>
+-->
 
 <section class="about-hero">
   <div class="wrapper">
