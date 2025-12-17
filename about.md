@@ -139,6 +139,7 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
   </div>
 </section>
 
+<!--
 <section class="cta-section">
   <div class="wrapper">
     <div class="cta-content">
@@ -151,6 +152,7 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
     </div>
   </div>
 </section>
+-->
 
 <style>
 .page-header {
