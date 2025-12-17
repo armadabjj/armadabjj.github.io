@@ -121,6 +121,7 @@ description: "Meet our Brazilian Jiu-Jitsu instructors at Armada BJJ. Experience
   </div>
 </section>
 
+<!--
 <section class="instructor-cta">
   <div class="wrapper">
     <div class="cta-content">
@@ -133,6 +134,7 @@ description: "Meet our Brazilian Jiu-Jitsu instructors at Armada BJJ. Experience
     </div>
   </div>
 </section>
+-->
 
 <style>
 .page-header {
