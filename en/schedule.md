@@ -8,12 +8,14 @@ description: "Brazilian Jiu-Jitsu class schedule at Armada BJJ. Find the perfect
 
 {% assign t = site.data.translations[page.lang] %}
 
+<!--
 <div class="page-header">
   <div class="wrapper">
     <h1>Schedule</h1>
     <p>Find the perfect class for your level and schedule</p>
   </div>
 </div>
+-->
 
 <section class="schedule-section">
   <div class="wrapper">
@@ -230,6 +232,7 @@ description: "Brazilian Jiu-Jitsu class schedule at Armada BJJ. Find the perfect
   </div>
 </section>
 
+<!--
 <section class="schedule-cta">
   <div class="wrapper">
     <div class="cta-content">
@@ -242,6 +245,7 @@ description: "Brazilian Jiu-Jitsu class schedule at Armada BJJ. Find the perfect
     </div>
   </div>
 </section>
+-->
 
 <style>
 .page-header {
