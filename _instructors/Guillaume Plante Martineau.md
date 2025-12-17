@@ -14,7 +14,7 @@ social:
   facebook: "Eric Laporte-BJJ"
 languages: ["English", "Français"]
 bio_en: |
- With six years of judo experience, Guillaume began his Brazilian jiu-jitsu journey seven years ago. A dedicated guard player, he was drawn to the creative and technical nature of the art. In 2024, he earned his black belt.
+ After six years of judo experience, Guillaume began his Brazilian jiu-jitsu journey seven years ago. A dedicated guard player, he was drawn to the creative and technical nature of the art. In 2024, he earned his black belt.
 
  A Gi competitor, Guillaume has taken part in numerous tournaments, including major events such as the IBJJF Master World Championships in Las Vegas in 2025.
 
@@ -28,7 +28,7 @@ bio_en: |
   - He is a bouble gold IBJJF medalist in No-Gi without having to compete in a single match
 
 bio_fr: |
- Fort de six années d’expérience en judo, Guillaume débute le jiu-jitsu brésilien il y a maintenant sept ans. Véritable guard player, il est rapidement séduit par l’aspect créatif et technique que cet art martial propose. Il obtient sa ceinture noire en 2024.
+ Après six années d’expérience en judo, Guillaume débute le jiu-jitsu brésilien il y a maintenant sept ans. Véritable guard player, il est rapidement séduit par l’aspect créatif et technique que cet art martial propose. Il obtient sa ceinture noire en 2024.
 
  Compétiteur en Gi, Guillaume a pris part à de nombreuses compétitions, incluant des événements d’envergure tels que les Championnats du monde IBJJF Masters à Las Vegas en 2025.
 
