@@ -90,7 +90,7 @@ description: "Rencontrez nos instructeurs de Jiu-Jitsu Brésilien chez Armada BJ
             <i class="fas fa-user-graduate"></i>
           </div>
           <h3>Centré sur l'Étudiant</h3>
-          <p>Chaque étudiant est unique. Nous adaptons notre enseignement aux styles d'apprentissage et objectifs individuels. La polyvalence de l'équipe d'instructeurs permet èa l'académie d'offrir plusieurs styles, pour rejoindre chaque élève.</p>
+          <p>Chaque étudiant est unique. Nous adaptons notre enseignement aux styles d'apprentissage et objectifs individuels. La polyvalence de l'équipe d'instructeurs permet à l'académie d'offrir plusieurs styles, pour rejoindre chaque élève.</p>
         </div>
         
         <div class="philosophy-item">

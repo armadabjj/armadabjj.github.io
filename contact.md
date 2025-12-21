@@ -24,7 +24,7 @@ description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez
       <div class="trial-section" id="trial">
         <div class="trial-card">
           <h2>{{ t.nav.try_free }}</h2>
-          <p>Vivez l'instruction de Jiu-Jitsu Brésilien avec l'équipe de Armada! Votre premier cours est complètement gratuit !</p>
+          <p>Vivez l'instruction de Jiu-Jitsu Brésilien avec l'équipe d'Armada! Votre premier cours est complètement gratuit !</p>
           
           <div class="trial-benefits">
             <div class="benefit">

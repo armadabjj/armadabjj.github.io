@@ -27,9 +27,9 @@
             <a class="page-link" href="{{ '/pricing/' | relative_url }}">{{ t.nav.pricing }}</a>
             <!--
             <a class="page-link" href="{{ '/blog/' | relative_url }}">{{ t.nav.blog }}</a>
-            -->
             <a class="page-link" href="{{ '/contact/' | relative_url }}">{{ t.nav.contact }}</a>
-          {% else %}
+            {% else %}
+            -->
             <a class="page-link" href="{{ '/en/' | relative_url }}">{{ t.nav.home }}</a>
             <a class="page-link" href="{{ '/en/about/' | relative_url }}">{{ t.nav.about }}</a>
             <a class="page-link" href="{{ '/en/programs/' | relative_url }}">{{ t.nav.programs }}</a>
@@ -38,10 +38,10 @@
             <a class="page-link" href="{{ '/en/pricing/' | relative_url }}">{{ t.nav.pricing }}</a>
              <!---
             <a class="page-link" href="{{ '/en/blog/' | relative_url }}">{{ t.nav.blog }}</a>
-             -->
             <a class="page-link" href="{{ '/en/contact/' | relative_url }}">{{ t.nav.contact }}</a>
-          {% endif %}
-          
+            {% endif %}
+            -->
+
           <!-- Language Switcher -->
           {% if lang == 'fr' %}
             {% assign en_url = page.url | prepend: '/en' %}

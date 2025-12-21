@@ -40,7 +40,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         <div class="pricing-features">
           <ul>
             <li><i class="fas fa-check"></i> Cours illimités à l'intérieur d'une période de 1 mois</li>
-            <li><i class="fas fa-check"></i> Accès au programmes Gi, No-Gi, Fondamentaux et Compétition</li>
+            <li><i class="fas fa-check"></i> Accès aux programmes Gi, No-Gi, Fondamentaux et Compétition</li>
             <li><i class="fas fa-check"></i> Environnement sécuritaire et adapté pour tous</li>
             <li><i class="fas fa-check"></i> Accès aux vestiaires et salles de bains</li>
             <li><i class="fas fa-check"></i> Suivi des progrès</li>
@@ -68,7 +68,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         <div class="pricing-features">
           <ul>
             <li><i class="fas fa-check"></i> Cours illimités à l'intérieur d'une période de 1 mois</li>
-            <li><i class="fas fa-check"></i> Accès au programmes Gi, No-Gi, Fondamentaux et Compétition</li>
+            <li><i class="fas fa-check"></i> Accès aux programmes Gi, No-Gi, Fondamentaux et Compétition</li>
             <li><i class="fas fa-check"></i> Environnement sécuritaire et adapté pour tous</li>
             <li><i class="fas fa-check"></i> Accès aux vestiaires et salles de bains</li>
             <li><i class="fas fa-check"></i> Suivi des progrès</li>
@@ -95,7 +95,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         <div class="pricing-features">
           <ul>
             <li><i class="fas fa-check"></i> Cours illimités à l'intérieur d'une période de 6 mois</li>
-            <li><i class="fas fa-check"></i> Accès au programmes Gi, No-Gi, Fondamentaux et Compétition</li>
+            <li><i class="fas fa-check"></i> Accès aux programmes Gi, No-Gi, Fondamentaux et Compétition</li>
             <li><i class="fas fa-check"></i> Environnement sécuritaire et adapté pour tous</li>
             <li><i class="fas fa-check"></i> Accès aux vestiaires et salles de bains</li>
             <li><i class="fas fa-check"></i> Suivi des progrès</li>
@@ -123,7 +123,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         <div class="pricing-features">
           <ul>
             <li><i class="fas fa-check"></i> Cours illimités à l'intérieur d'une période de 12 mois</li>
-            <li><i class="fas fa-check"></i> Accès au programmes Gi, No-Gi, Fondamentaux et Compétition</li>
+            <li><i class="fas fa-check"></i> Accès aux programmes Gi, No-Gi, Fondamentaux et Compétition</li>
             <li><i class="fas fa-check"></i> Environnement sécuritaire et adapté pour tous</li>
             <li><i class="fas fa-check"></i> Accès aux vestiaires et salles de bains</li>
             <li><i class="fas fa-check"></i> Suivi des progrès</li>
@@ -177,7 +177,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         
         <div class="pricing-features">
           <ul>
-            <li><i class="fas fa-check"></i> Accès à 10 cours unique</li>
+            <li><i class="fas fa-check"></i> Accès à 10 cours uniques</li>
             <li><i class="fas fa-check"></i> Aucun engagement requis</li>
             <li><i class="fas fa-check"></i> Parfait pour les voyageurs</li>
             <li><i class="fas fa-check"></i> Accès aux vestiaires</li>
@@ -247,7 +247,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
   <div class="wrapper">
     <div class="cta-content">
       <h2>Prêt à Commencer l'Entraînement?</h2>
-      <p>Rejoignez des centaines d'étudiants qui ont transformé leur vie grâce au Jiu-Jitsu Brésilien</p>
+      <p>Rejoignez notre communauté d'étudiants qui ont transformé leur vie grâce au Jiu-Jitsu Brésilien</p>
       <div class="cta-buttons">
         <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Cours Gratuit</a>
         <a href="{{ '/contact/' | relative_url }}" class="btn btn-secondary btn-large">Poser des Questions</a>

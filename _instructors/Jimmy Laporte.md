@@ -4,10 +4,10 @@ name: "Jimmy Laporte"
 order: 4
 rank: "Brown Belt"
 image_width: "55%"
-specialties: ["No-Gi, Strenght and Conditionning",]
+specialties: ["No-Gi, Strenght and Conditioning",]
 experience: "7 years"
 certifications:
-  - "ISSA (Internationnal Sports Science Association) Strenght and Conditionning Certified"
+  - "ISSA (Internationnal Sports Science Association) Strenght and Conditioning Certified"
   - "Certification Instructeur FQJJB"
 image: "/assets/images/instructors/jimmy.jpg"
 social:
