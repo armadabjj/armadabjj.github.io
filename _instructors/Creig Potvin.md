@@ -3,7 +3,7 @@ layout: instructor
 name: "Creig Potvin"
 order: 6
 rank: "Blue Belt"
-image_width: "50%"
+image_width: "60%"
 specialties: ["Gi",]
 experience: "4 years"
 certifications:
