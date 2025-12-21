@@ -115,7 +115,7 @@ description: "Découvrez l'histoire d'Armada BJJ, notre philosophie et notre éq
           <div class="timeline-year">2025</div>
           <div class="timeline-content">
             <h3>Fondation</h3>
-            <p>En septembre, les fondateurs créent la bannière Armada Jiu-Jitsu, et commencent à enseigner et rassembler ses membres en utilisant les installations du Speedy Gym de Granby, avec la vision de créer une communauté de BJJ inclusive et de haute qualité.</p>
+            <p>En septembre, les fondateurs créent la bannière Armada Jiu-Jitsu, et commencent à enseigner en utilisant les installations du Speedy Gym de Granby, avec la vision de créer une communauté de BJJ inclusive et de haute qualité.</p>
           </div>
         </div>
         

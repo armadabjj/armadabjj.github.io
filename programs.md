@@ -26,11 +26,11 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <p class="program-description">{{ t.programs.Fundamentals.description }}</p>
           
           <div class="program-features">
-            <h3>Ce que vous apprendrez:</h3>
+            <h3>Focus de l'entraînement:</h3>
             <ul>
               <li>Positions de base et échappements</li>
               <li>Soumissions fondamentales</li>
-              <li>Enchainements</li>
+              <li>Enchaînements</li>
               <li>Échauffement et conditionnement appropriés</li>
               <li>Sparring et drilling en direct</li>
             </ul>
@@ -66,7 +66,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <p class="program-description">{{ t.programs.Gi.description }}</p>
           
           <div class="program-features">
-            <h3>Focus d'entraînement:</h3>
+            <h3>Focus de l'entraînement:</h3>
             <ul>
               <li>Systèmes de garde</li>
               <li>Chaînes de soumission et de passage de gardes</li>
@@ -105,7 +105,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <p class="program-description">{{ t.programs["No-gi"].description }}</p>
           
           <div class="program-features">
-            <h3>Focus entraînement:</h3>
+            <h3>Focus de l'entraînement:</h3>
             <ul>
               <li>Projections basées sur la lutte</li>
               <li>Systèmes de clés de jambes</li>
@@ -144,7 +144,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
           <p class="program-description">{{ t.programs.Competition.description }}</p>
           
           <div class="program-features">
-            <h3>Focus: préparation à la compétition</h3>
+            <h3>Focus de l'entraînement:</h3>
             <ul>
               <li>Règles de compétition</li>
               <li>Systèmes de pointages</li>
