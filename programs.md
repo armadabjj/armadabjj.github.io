@@ -41,7 +41,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
               <strong>Tenue :</strong> Gi (Kimono)
             </div>
             <div class="detail-item">
-              <strong>Horaire :</strong> Mercredi 18h15
+              <strong>Horaire :</strong> Mercredi 18:15
             </div>
             <div class="detail-item">
               <strong>Prérequis :</strong> Ouvert à tous
@@ -198,7 +198,7 @@ description: "Découvrez nos programmes complets de Jiu-Jitsu Brésilien conçus
               <strong>Âges :</strong> 6-12 ans
             </div>
             <div class="detail-item">
-              <strong>Horaire :</strong> Lundi/Mercredi 17:30, Samedi 9h00
+              <strong>Horaire :</strong> Lundi/Mercredi 17:30, Samedi 9:00
             </div>
             <div class="detail-item">
               <strong>Taille de classe :</strong> Limitée à 15 étudiants pour une attention personnalisée
