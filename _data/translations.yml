@@ -128,9 +128,9 @@ fr:
   # Homepage
   hero:
     title: "Entraînement de Jiu-Jitsu Brésilien"
-    subtitle: "Joignez-vous à nous et découvrez notre art martiale dans un environnement professionnel et accueillant"
-    cta_primary: "Commencez Votre Parcours"
-    cta_secondary: "En Savoir Plus"
+    subtitle: "Joignez-vous à nous et découvrez notre art martial dans un environnement professionnel et accueillant"
+    cta_primary: "Commencez votre parcours"
+    cta_secondary: "En savoir plus"
   
   about_bjj:
     title: "Qu'est-ce que le Jiu-Jitsu Brésilien?"
