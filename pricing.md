@@ -48,7 +48,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         </div>
         
         <div class="pricing-footer">
-          <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-outline btn-large">Essai Gratuit</a>
+          <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Choisir</a>
         </div>
       </div>
       
@@ -76,7 +76,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         </div>
         
         <div class="pricing-footer">
-          <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-outline btn-large">Essai Gratuit</a>
+          <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Choisir</a>
         </div>
       </div>
 
@@ -103,7 +103,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         </div>
         
         <div class="pricing-footer">
-          <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Essai Gratuit</a>
+          <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Choisir</a>
         </div>
       </div>
       
@@ -131,7 +131,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         </div>
         
         <div class="pricing-footer">
-          <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Essai Gratuit</a>
+          <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-primary btn-large">Choisir</a>
         </div>
       </div>
 
@@ -159,7 +159,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         </div>
         
         <div class="pricing-footer">
-          <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Réserver</a>
+          <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary btn-large">Choisir</a>
         </div>
       </div>
       
@@ -185,7 +185,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
         </div>
         
         <div class="pricing-footer">
-          <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline btn-large">Réserver</a>
+          <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary btn-large">Choisir</a>
         </div>
       </div>
     </div>
@@ -206,7 +206,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
             <li>Exercices de motricité</li>
             <li>Cours amusants et engageants</li>
           </ul>
-          <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline">En Savoir Plus</a>
+          <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Choisir</a>
         </div>
         
         <div class="special-card">
@@ -219,7 +219,7 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
             <li>Horaire flexible</li>
             <li>Préparation aux compétitions</li>
           </ul>
-          <a href="{{ '/contact/' | relative_url }}" class="btn btn-outline">Réserver</a>
+          <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Choisir</a>
         </div>
         
       </div>
