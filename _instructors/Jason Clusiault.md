@@ -2,7 +2,7 @@
 layout: instructor
 name: "Jason Clusiault"
 order: 5
-rank: "Blue Belt"
+rank: "Ceinture bleue"
 image_width: "60%"
 specialties: ["Gi",]
 experience: "4 ans"

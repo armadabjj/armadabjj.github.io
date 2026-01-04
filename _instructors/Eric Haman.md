@@ -2,7 +2,7 @@
 layout: instructor
 name: "Eric Haman"
 order: 3
-rank: "Brown Belt"
+rank: "Ceinture brune"
 image_width: "60%"
 specialties: ["Gi, No-Gi,"]
 experience: "9 ans"
