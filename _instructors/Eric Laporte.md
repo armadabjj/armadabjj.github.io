@@ -4,7 +4,7 @@ name: "Eric Laporte"
 order: 1
 rank: "Ceinture noire 1er degré"
 image_width: "50%"
-specialties: ["No-Gi, Gi",]
+specialtés: ["No-Gi, Gi",]
 experience: "13 ans"
 certifications:
   - "Certification Instructeur Chef FQJJB"
