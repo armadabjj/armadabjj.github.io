@@ -10,8 +10,8 @@ certifications:
   - "Certification Instructeur FQJJB"
 image: "/assets/images/instructors/jay.jpg"
 social:
-  instagram: "jimmylaporte_bjj"
-  facebook: "marcus.silva.bjj"
+  instagram: "jayclusiault"
+  facebook: "jason"
 languages: ["English", "French"]
 bio_en: |
  Passionate about combat sports from a young age, Jason began his martial arts journey at the age of 26 through mixed martial arts. It was during this time that he learned the fundamentals of Brazilian Jiu-Jitsu, as well as the values necessary to grow and progress within the discipline.

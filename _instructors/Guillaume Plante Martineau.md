@@ -11,8 +11,8 @@ certifications:
   - "Certification Instructeur Association Canadienne des Entraîneurs"
 image: "/assets/images/instructors/guillaume.jpg"
 social:
-  instagram: "eric_laporte_bjjofficial"
-  facebook: "Eric Laporte-BJJ"
+  instagram: "guillaume.plante.bjj"
+  facebook: "guillaume plante"
 languages: ["English", "Français"]
 bio_en: |
  After six years of judo experience, Guillaume began his Brazilian jiu-jitsu journey seven years ago. A dedicated guard player, he was drawn to the creative and technical nature of the art. In 2024, he earned his black belt.
