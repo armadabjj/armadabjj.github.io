@@ -8,7 +8,7 @@ experience: "7 ans"
 certifications:
   - "Certification Instructeur FQJJB"
   - "Certification Instructeur Association Canadienne des Entraîneurs"
-image: "/assets/images/instructors/guillaume.png"
+image: "/assets/images/instructors/guillaume.jpg"
 social:
   instagram: "eric_laporte_bjjofficial"
   facebook: "Eric Laporte-BJJ"

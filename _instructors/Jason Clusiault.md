@@ -7,7 +7,7 @@ specialties: ["Gi",]
 experience: "4 ans"
 certifications:
   - "Certification Instructeur FQJJB"
-image: "/assets/images/instructors/marcus-silva.jpg"
+image: "/assets/images/instructors/jay.jpg"
 social:
   instagram: "jimmylaporte_bjj"
   facebook: "marcus.silva.bjj"
