@@ -47,10 +47,8 @@ description: "Options d'adhésion abordables pour le Jiu-Jitsu Brésilien chez A
           </ul>
         </div>
         
-        <!--
         <div class="pricing-footer">
           <a href="{{ '/contact/' | relative_url }}#trial" class="btn btn-outline btn-large">Essai Gratuit</a>
-        -->
         </div>
       </div>
       
