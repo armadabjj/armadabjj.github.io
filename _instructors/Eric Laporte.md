@@ -13,7 +13,7 @@ certifications:
 image: "/assets/images/instructors/eric.jpeg"
 social:
   instagram: "eric_laporte_bjjofficial"
-  facebook: "Eric Laporte-BJJ"
+  facebook: "Eric.Laporte-BJJ"
 languages: ["English", "Français"]
 bio_en: |
  For more than ten years, Brazilian jiu-jitsu has held a central place in my life. My passion began in 1994, the night I rented a VHS cassette of UFC 1 with a friend. Seeing a smaller athlete dominate with a martial art based mostly on technique rather than brute strength left a deep impression on me. I told myself that one day, I would learn that style. That moment sparked a curiosity that has never left me.

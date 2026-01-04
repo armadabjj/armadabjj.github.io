@@ -3,16 +3,16 @@ layout: instructor
 name: "Jimmy Laporte"
 order: 4
 rank: "Ceinture brune"
-image_width: "60%"
+image_width: "55%"
 specialties: ["No-Gi, Strenght and Conditioning",]
 experience: "7 ans"
 certifications:
   - "ISSA (Internationnal Sports Science Association) Strenght and Conditioning Certified"
   - "Certification Instructeur FQJJB"
-image: "/assets/images/instructors/jimmy.jpg"
+image: "/assets/images/instructors/jim.jpg"
 social:
   instagram: "jimmylaporte_bjj"
-  facebook: "marcus.silva.bjj"
+  facebook: "Jimmy.Laporte"
 languages: ["English", "French"]
 bio_en: |
   Jimmy Laporte is a Brazilian Jiu-Jitsu brown belt and a certified ISSA Strength and Conditioning Coach. Growing up, Jimmy built his athletic foundation through competitive high school football before transitioning into mixed martial arts. In 2016, he began his jiu-jitsu journey under the guidance of his cousin, Eric, and has been dedicated to the art ever since.
