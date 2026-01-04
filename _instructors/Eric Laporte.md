@@ -3,7 +3,7 @@ layout: instructor
 name: "Eric Laporte"
 order: 1
 rank: "Ceinture noire 1er degré"
-image_width: "50%"
+image_width: "55%"
 specialties: ["No-Gi, Gi",]
 experience: "13 ans"
 certifications:
