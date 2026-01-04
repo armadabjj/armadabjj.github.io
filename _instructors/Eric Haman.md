@@ -7,7 +7,7 @@ specialties: ["Gi, No-Gi,"]
 experience: "9 ans"
 certifications:
   - "Certification Instructeur FQJJB"
-image: "/assets/images/instructors/sofia-rodriguez.jpg"
+image: "/assets/images/instructors/haman.jpg"
 social:
   instagram: "hericaman1"
   facebook: "Eric Haman"
