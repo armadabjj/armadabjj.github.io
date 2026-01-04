@@ -4,7 +4,7 @@ name: "Guillaume Plante Martineau"
 order: 2
 rank: "Black Belt"
 specialties: ["Gi",]
-experience: "7 years"
+experience: "7 ans"
 certifications:
   - "Certification Instructeur FQJJB"
   - "Certification Instructeur Association Canadienne des Entraîneurs"

@@ -4,7 +4,7 @@ name: "Jason Clusiault"
 order: 5
 rank: "Blue Belt"
 specialties: ["Gi",]
-experience: "4 years"
+experience: "4 ans"
 certifications:
   - "Certification Instructeur FQJJB"
 image: "/assets/images/instructors/marcus-silva.jpg"

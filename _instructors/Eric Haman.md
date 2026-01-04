@@ -4,7 +4,7 @@ name: "Eric Haman"
 order: 3
 rank: "Brown Belt"
 specialties: ["Gi, No-Gi,"]
-experience: "9 years"
+experience: "9 ans"
 certifications:
   - "Certification Instructeur FQJJB"
 image: "/assets/images/instructors/sofia-rodriguez.jpg"

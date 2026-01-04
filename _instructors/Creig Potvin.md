@@ -5,7 +5,7 @@ order: 6
 rank: "Blue Belt"
 image_width: "60%"
 specialties: ["Gi",]
-experience: "4 years"
+experience: "4 ans"
 certifications:
   - "Certification Instructeur FQJJB"
 image: "/assets/images/instructors/creig1.jpg"
