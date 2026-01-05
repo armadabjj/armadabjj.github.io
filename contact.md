@@ -128,12 +128,12 @@ description: "Contactez Armada BJJ. Réservez votre cours d'essai gratuit, posez
             <h3>{{ t.footer.hours_title }}</h3>
             <div class="hours-list">
               <div class="hour-item">
-                <span>Lundi - Vendredi</span>
-                <span>6h00 - 22h00</span>
+                <span>Lundi - Mercredi - Jeudi</span>
+                <span>17h30 - 21h00</span>
               </div>
               <div class="hour-item">
                 <span>Samedi</span>
-                <span>8h00 - 18h00</span>
+                <span>9h00 - 13h00</span>
               </div>
             </div>
           </div>
