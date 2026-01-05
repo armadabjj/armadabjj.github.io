@@ -5,7 +5,7 @@ order: 1
 rank: "Ceinture noire 1er degré"
 image_width: "55%"
 specialties: ["No-Gi, Gi",]
-experience: "13 ans"
+experience: "13"
 certifications:
   - "Certification Instructeur Chef FQJJB"
   - "Certification Instructeur Association Canadienne des Entraîneurs"

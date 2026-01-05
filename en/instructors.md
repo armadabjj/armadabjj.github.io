@@ -38,7 +38,7 @@ description: "Meet our Brazilian Jiu-Jitsu instructors at Armada BJJ. Experience
           <div class="instructor-details">
             <h3>{{ instructor.name }}</h3>
             <p class="rank">{{ instructor.rank }}</p>
-            <p class="experience">{{ instructor.experience }} experience</p>
+            <p class="experience">{{ instructor.experience }} years experience</p>
             
             <div class="specialties">
               {% for specialty in instructor.specialties limit:3 %}

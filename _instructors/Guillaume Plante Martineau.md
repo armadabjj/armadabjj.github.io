@@ -5,7 +5,7 @@ order: 2
 rank: "Ceinture noire"
 image_width: "55%"
 specialties: ["Gi",]
-experience: "7 ans"
+experience: "7"
 certifications:
   - "Certification Instructeur FQJJB"
   - "Certification Instructeur Association Canadienne des Entraîneurs"

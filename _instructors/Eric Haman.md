@@ -5,7 +5,7 @@ order: 3
 rank: "Ceinture brune"
 image_width: "60%"
 specialties: ["Gi, No-Gi,"]
-experience: "9 ans"
+experience: "9"
 certifications:
   - "Certification Instructeur FQJJB"
 image: "/assets/images/instructors/haman.jpg"

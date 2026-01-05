@@ -5,7 +5,7 @@ order: 4
 rank: "Ceinture brune"
 image_width: "55%"
 specialties: ["No-Gi, Strenght and Conditioning",]
-experience: "7 ans"
+experience: "7"
 certifications:
   - "ISSA (Internationnal Sports Science Association) Strenght and Conditioning Certified"
   - "Certification Instructeur FQJJB"

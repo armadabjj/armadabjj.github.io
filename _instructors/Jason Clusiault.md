@@ -5,7 +5,7 @@ order: 5
 rank: "Ceinture bleue"
 image_width: "60%"
 specialties: ["Gi",]
-experience: "4 ans"
+experience: "4"
 certifications:
   - "Certification Instructeur FQJJB"
 image: "/assets/images/instructors/jay.jpg"
